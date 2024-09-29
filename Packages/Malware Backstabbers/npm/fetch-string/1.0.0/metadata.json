@@ -1,0 +1,51 @@
+{
+    "name": "fetch-string",
+    "version": "1.0.0",
+    "description": "A simple module to fetch strings with better control and organization",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "fetch",
+        "string"
+    ],
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "glob": "^7.2.0"
+    },
+    "_id": "fetch-string@1.0.0",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-5d+jB348XvtICYFBHUW6FYcmcUJBAA2TlCJH7CSjXxGdiQC36BxWzpyIWMDeUe87+hcuTg8zlrpcZM/Bat9Z6w==",
+        "shasum": "9d1a601fd007e171042c7bb7e00f73571c7b2852",
+        "tarball": "https://registry.npmjs.org/fetch-string/-/fetch-string-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2003748,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIAreohAOTO3zlk16A2QcKmLAJAYG9jSPg8xYgiIorlZFAiBO8uyxeHKDw/pwR8EeAgdfIPxd6p+UovKI8+/9uYahng=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi9aZhACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoI5g//Xfp3ehZ4VGd74utdnsj13ULPjf5iSveH7rs7k8OzH5ePZEBL\r\nTUmjYoJtnW8IMWv/JFhkavjpduP/E/HsOrxzArTQi9FPY7iQ+MKc2KnCTf6W\r\nk7ldfkwKCEHVze0CngacDduAGFxLP19R57uWYpKUwvpeQjBdbA9fiZ4weVhf\r\nFFibvTo5j10UNlTbB16M559iWer6BJ92zvKBhNrtYOBYN0eQrZAg47aucC7e\r\nYkC/xhcVgFACiHEBD4Oiy3ve8qn2nzbasQCsRG1ju8vkjX7zxAZUOMQrP3ZD\r\nCyTUxa8Sfbp+t9IIwYiNWXqdOrjooIpRe0PfcZBz9tdA1dsh4U91uxdaX6Fv\r\nwrCxXEvyL4+XtxF8ypFKbBMWsL4wUNdr2XuTy34O+sYZDtyD3x+fzGeZ8bkE\r\n5t+gpQZ/TXeDXgJoVczdjab/MsLvOVl/UXN0/PaYKUfLM5UYmHwdbk+k3StS\r\nh1GH3+nPIeBt8dbP+GiklkHRM1Tog2JoJzJGK1NylmQwv8IMpqK3FfVINFu1\r\n2MJIkY9pScm4F3+oYV/tjXY/krgonnmiEx26VNBdeOBOwWMUIK3RI5xArl76\r\n5o94hN3sXhHAi0kpWF1SESN/Kj9AbhVx4MYMFz7BQ7LHghq0CYbUNtauLMYt\r\nrpGnoVsqCM3WQnTmVqtEsyuHdu2YLSMxlk4=\r\n=P/kX\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "catslipsh6",
+        "email": "cat.splish@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "catslipsh6",
+            "email": "cat.splish@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/fetch-string_1.0.0_1660266080883_0.9125303949819248"
+    },
+    "_hasShrinkwrap": false
+}

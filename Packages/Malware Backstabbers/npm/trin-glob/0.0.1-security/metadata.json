@@ -1,0 +1,35 @@
+{
+    "name": "trin-glob",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": "npm/security-holder",
+    "_id": "trin-glob@0.0.1-security",
+    "_integrity": "sha512-8DKx2Pa2s19q/oi8pORzhgA4KjXgI1wkRDZjGBX2grKCiyhJ2s3tBPraywDNGtHbPcT56sHmwdPYM8Od775nrA==",
+    "_resolved": "/tmp/tmp-9-EdMymCfRAP7J",
+    "_from": "file:/tmp/tmp-9-EdMymCfRAP7J",
+    "dist": {
+        "tarball": "https://registry.npmjs.org/trin-glob/-/trin-glob-0.0.1-security.tgz",
+        "integrity": "sha512-8DKx2Pa2s19q/oi8pORzhgA4KjXgI1wkRDZjGBX2grKCiyhJ2s3tBPraywDNGtHbPcT56sHmwdPYM8Od775nrA==",
+        "shasum": "3d910557a58f747e9cafba34d759cdc75ff6e9b1",
+        "fileCount": 2,
+        "unpackedSize": 424,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBtBxqGrfgpruMtNt3vmdKyfb/lrmwEAj0DSpAs73dI5AiAO0x1o1QKFAkjlKOEfTJdtqHGyIAr6u1ljpMx0wHUBYg=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjImfyACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoL8g/+LncmICyIhQPKtVftAStvlp1PW0QN9babB5rMjkVzhF+G6HXA\r\n60LrnsIcZtnIa5hkFmuzN7ozrJUa0oY8X/bYQOIiRdc3TFA0A4EfJ7Wys/9p\r\nNJEaJWDcTYwZ5HBOlqLjAQe23YeAiajbZbTKQteEIpyUDSz9fEevNDyrf2Gc\r\nzvu9Vk/toETD7Zjhez/nbYVHfFr4akdz6pWvgKQxzcCkVpnoy8ZrmQ5OgF9x\r\nT7jmCbHxCStgpAB47G0cq1pjMW5+G18++t6RWQZn43EWQfouLpbYJsdS9zNY\r\nkxwr2weqA43GHJuFH6PFqRAvjB3sYJm5h+PjktCMTIkCnoRZAGai8tFb4TwZ\r\n7iDuczjsgPfCjT6PIcumM2Xs3MNSZEvf7b1hhSycp+iROJWwOSP9l9Pmxb+n\r\nO+xJU7fKF86fVTiERzWcSfKUcApyi1QKls5tht16Rsh4BmGdS+fsNa6S8Hi9\r\nb9MCtszeTJb/mOw8Jejz+fQ3J6tKiAJ0Oel7alJxBE8vl3AVOuKQ3wYrKCfL\r\n98/QiX6s69wl5gbYTEA7iF3k9YpRjJWV1Qq9NgH1rN6f/PfAMpXExLzZTcoB\r\nZlNpcDkw35Zep86rYgfllfyQg6y3CyZ4+SJ3Qx5H+dJx52uJWxLtoy/cMCuJ\r\nCkMCi+9+Gc+2fwoLqvTYTRBsTs3f2jLuJOw=\r\n=6PGh\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "npm",
+        "email": "npm@npmjs.com"
+    },
+    "directories": {},
+    "maintainers": [],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/trin-glob_0.0.1-security_1663199217924_0.39612037322596483"
+    },
+    "_hasShrinkwrap": false
+}

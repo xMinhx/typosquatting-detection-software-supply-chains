@@ -1,0 +1,47 @@
+{
+    "name": "discord-stunna",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Stunna"
+    },
+    "license": "ISC",
+    "_id": "discord-stunna@1.0.0",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-JKp8RBYfEaXCq0AmfgOHQ/1tAn51K3cmjPxyNGd9tujqRvSshVfzC11XQDV5uF5nKwAaM8wvclSeWK1yIh3LOw==",
+        "shasum": "32bbc983011e34878e5de63bb015f12c01434fa6",
+        "tarball": "https://registry.npmjs.org/discord-stunna/-/discord-stunna-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 34425,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCYv5Hq35fVQZLicOX/imtQ9NBNVFORTjv0KOLiY+xt/AIhAJ9cdfL/1M/0A0wX2F/4+ded+IuIZyJQZSH4VKGsTjJj"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJis78PACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmresw/8DZMoMVDDWi/bSHM0iUcl54Eovu7Bck7IXHeFDvCIGLNxq/mz\r\nAOB+3YnkaHXKfnmXQyS3LFjQGQqFK5PRe5G1QCwDGOzkk5fESeQ7J6YM3Vik\r\nlMZTtLwwKERPkWzdLpH2y/U2jylm+NzMKdrcjqG0Rht1DgSjVmowUm3QD8sl\r\nxeakqVs9BOmqHIfThs8RBVuxHJQZVSu8/T7dzNT9fvrkdH/hyxP61th43WOU\r\nPpKKFyi3th54bgLw13j0lzIX/j9xoLRSjCMRzzr+nVqHFsZ+F9OVbcnbQkpL\r\n0oE1qE52WHzEa8niK3QY8YDt7YN1XWSL1ERQZOPk0QoeHXI13Pn/mz0NSdt1\r\ngiutxpcB1n1TBAmgzdFqmHnhRkGOuImfMgVgYA5/f5zlKkf8J5PSL9/EWfhO\r\n7ZO93kERRVVY3rxCfs6K1ErtEPprFcv1kEhCYup3064+pPp2H3ru9xzfrWip\r\nF8ePPDPFgqcGeFUiYZubm4ghUkCh8vpUcVZgZz9jo9GOJaa7kPaeGf7QSG58\r\nSQLvMh8hSBOXEUE4VEEkIiqcu/dHxr+sswNyPT2yeoOVNvhpKVDWijlocSCL\r\ncaUX5gLLpnEwu5jaDxXpzLi031aIDjPoPPVPO8OMpaa2ufL2aAwIkTx20UK7\r\nsKce3rUXimFdeGTV1PX6PVQD4pfPBlSNYF8=\r\n=E0js\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "bdpcrl",
+        "email": "shirozensp@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bdpcrl",
+            "email": "shirozensp@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-stunna_1.0.0_1655947023140_0.8848510175676296"
+    },
+    "_hasShrinkwrap": false
+}

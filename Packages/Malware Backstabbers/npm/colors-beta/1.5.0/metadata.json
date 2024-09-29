@@ -1,0 +1,44 @@
+{
+    "name": "colors-beta",
+    "version": "1.5.0",
+    "description": "colors",
+    "main": "safe.js",
+    "directories": {
+        "example": "examples",
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Marks Twers"
+    },
+    "license": "ISC",
+    "types": "./safe.d.ts",
+    "_id": "colors-beta@1.5.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-3QDJAwpUJv6pRzDDCLBw5TMeExDMLRpArdFbYtgI2rNtnwV+5bjoJZ99kFX1uWPWCBytXmKUaDcyUtkiWCw59Q==",
+        "shasum": "a341d8daf74e2b73099cf4b6627b316d3d886b54",
+        "tarball": "https://registry.npmjs.org/colors-beta/-/colors-beta-1.5.0.tgz",
+        "fileCount": 21,
+        "unpackedSize": 93380,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhojJBCRA9TVsSAnZWagAAghcP/i+SdURbb69+avQpL510\n09YNvzqWrpedLVv0GCekrhuhIsQhkskLaSgCtAGEgakvzCY9CEW0kwnndUkh\nRA1ifCUIYCVV1ud4mRczZSI5aQqzV4FDRJmu/SO6Aan3rlI9rITRbvOh7oQy\ngx93iEgVd+wvlSRK/npNQlAa2seKlWur7aPfyTjbvTnmfwfSFBvAJxdJZTGV\n88FxXYgzLwpqmnyOY/43+Tv9RiuorA0/fFVg1XgtzqbBwd7/s+Y26MEajTpl\nRbNjWvItZ4/5eSfRg+MwSwYcFB3x7kEGJcMxN8T0RgCHV+1L2zAGs8XNRpUa\n8nX/3hTLlKhy8+E5+wXSk0a4ri1cSfFMT7ocM4vCSZaKwdYcZWxH4jCutx+U\nUKIfjebyIMiF3cU6xfQqHv9D0xyoDgA8/ac/7dvci1yivofCPRvXcOmvfd3R\nsubIRJHeLFwf5FkWczOR3K6C2aCWvw8xYhWB8nYixWpLTGTaC+S4ekJabeDl\noB3s9grHlEXv+6vIcClhd0EDfKs+Cb/0hxRciW0B3vmzKLEQ5zAREyitbd6A\nD6UNUTtzvl8SRDm/We2ADsHHH8luQH7ixtIWV6hyy7orppnXqdC7Zh/XeDXg\njCbH3VvJ+CIKqcPCXBF1tPLmK3k0ndMprr/hwjWvaVTj0f7oJpFYnBwbbIn5\n/v9S\r\n=lijC\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "davifdfumas",
+        "email": "davi1029.so.usa@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "davifdfumas",
+            "email": "davi1029.so.usa@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/colors-beta_1.5.0_1638019648832_0.5784463464358167"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,50 @@
+{
+    "name": "discord-self-v13",
+    "version": "1.0.0",
+    "description": "discord powerfull module",
+    "main": "./src/index",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zVilao/discord-self-v13.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Vil\u00e3o"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zVilao/discord-self-v13/issues"
+    },
+    "homepage": "https://github.com/zVilao/discord-self-v13#readme",
+    "gitHead": "f96becfbec1501ebff6680ff4317b5e0c10ae49b",
+    "_id": "discord-self-v13@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-hxyTXGrpixMLSTQ24UlfCoLCva72ktTyc+WWIBv9B/sjuzeGJHXfoto8efiQTk/pqb/NLo6pPSTSQQzuXahhWw==",
+        "shasum": "cc63deca931457d77e5594ddcf61667a4572f33e",
+        "tarball": "https://registry.npmjs.org/discord-self-v13/-/discord-self-v13-1.0.0.tgz",
+        "fileCount": 173,
+        "unpackedSize": 757584,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhqEK9CRA9TVsSAnZWagAAjKUQAIbsMsEvTBdFZ+A2MP0s\naXKqEWPhSTwLcvcCZ89JGmZ73THN3rwJXXV9Y8Gi1dRwROOVmqgnrgnakKmh\nWZ9Dc0qv7cQPrp+9jowJD6DWki5vIKCuYnLs1DFXNoPvzL7pedprkT5qYXL5\npy/mU+3q+JnAirao7l/18v96//ynxCS8NZ1Rxi2kU4+AqfU1cOSc6w5RMuVL\nDSbndBeWGU4ixxGwnVeEamVKyu7kHT/9GVVDF/tuu4bnAl9aNvmkcO2bgzIs\nSjkgdW5WyqtBxTdOeuCq+TE893q1RjV6+mIoYFiqQGPn0CWJXTCYAnoD4Wl/\nzbmR3b1FdX0TFboqg0tnyYaNbk9Xya/nzrWJFqJobb1VSIw+XNtUkVz7ak0T\n+GJWA4SUqieokppGHRGfi/v1nmnQm2hO+T8HwC54ae+1khEwJtpqDH/kNA37\nhmAa/pZxw5t8/fXbuzkAacOnKdjyfEtBkQMPCtt7rDfnHcupMXI7zXfmitdv\nT5Le/ozSUUWcNglPWvL534m5fthlGkKsBvtC+fgXutuH7bbwLuxcCjx9MdZ/\nE1fxhSh8c8z1CtnejYaZM3xpvU7nYsVNbwvI9i4DmslojlpsXe1oeSPB/9Z/\nCteJuZ3F+/FQyYhWhYoY4lmWCF3vzTMr4aw6DpwFV0KzVNs+8R0rl579wU1U\nR2fb\r\n=QKaQ\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "vilaozadinha",
+        "email": "vilaozada2k78@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "vilaozadinha",
+            "email": "vilaozada2k78@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-self-v13_1.0.0_1638417084770_0.794588304951011"
+    },
+    "_hasShrinkwrap": false
+}

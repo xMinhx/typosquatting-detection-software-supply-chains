@@ -1,0 +1,51 @@
+{
+    "name": "discord-stunna",
+    "version": "2.1.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Stunna"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "glob": "^7.2.3"
+    },
+    "_id": "discord-stunna@2.1.2",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-Sopue8NpghwIHQ8vo+ypvRko1P1qFNt0cFFTXjewyIjAiGrmosa7BfpegC1KNgEDUhbOJLkrc+L9qe+3tRKB1Q==",
+        "shasum": "4369778b9efcc4e7f0fb564927e4dae24f3015e5",
+        "tarball": "https://registry.npmjs.org/discord-stunna/-/discord-stunna-2.1.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 9396,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIH/m3KzZEe/pOcVo2y5K0o+ghqVqA8NYsJwMQ5gRrVE+AiA6RI2zHghfOsO8wYyhVMFzo5kvjq1I7h3TYRy2C9faiA=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJis9WvACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpBghAAnSos8iiXbQiNtJLvkyeoA4DJQ6+qC67ELJi9XPGoTNcXYLem\r\n2xX7D74suGDdUDcOuUloLbdxUTpkyVmg8JBY+LVvcDgh5DiLcoVUdKfccvwv\r\nxcWQE8XE9GoExf2FqQck92HygVNaAul/sca3osmR722VMAETFUVvUuPV20+J\r\nRM54S2Ic9C+x47nPpiVC/fJS5V9dNGgGpwJ7dAq5mR/Ec4MGPX7mo1JAtx/0\r\nD+M0VjaWHHd4ST92F2mjk3IUaIl8iZGkmRgwaQNq8cNyyT9ztA/r5sujbVE5\r\n+jH+1vcPX0WNfjmBLCq7ByuozTNbwbQLSByv9FmuftERGH0j9WdfZiAS+vn+\r\nZ24sX+PmC2UBlw4czEb/jPdK1A/P3xehzuCTDXaaCkRAmid50yphyWy5laYO\r\nqAbYWuHvtkQsoFbhNK/qQgdcQ2VP5ZBBZ9iwhw+NU+IvSYs3JDukXcgT/uBd\r\n4/l7RxmBvcyHrhOjrwy0RgxHuMKJMcX/9xplb1Gu8U/NxciiBem8eZMG7nZR\r\nmeaBQCXJ5E1ZQjGvFFOqkDdfY6nVZlvxGzitFPi/q15A+0RIBrZ9m55Ga93I\r\n3z+qEZZ2o/vQaBNVhUnYOdONartDSoTqNRLc6GCfh4puSfbUyI+HPweQLAuu\r\nGYTXk4Hl4S3UWp1ZllhLlp9RSJ/XVrABIE4=\r\n=890g\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "bdpcrl",
+        "email": "shirozensp@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bdpcrl",
+            "email": "shirozensp@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-stunna_2.1.2_1655952815052_0.9720817140990501"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,43 @@
+{
+    "name": "slime-legends",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Slime"
+    ],
+    "author": {
+        "name": "Vil\u00e3o"
+    },
+    "license": "ISC",
+    "_id": "slime-legends@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-mlIg2yjLu1MWJ6H48T+pO64oVJbMgOz6pexWpN9xS1HJzu3XXtc3oj0OaRYpQTgtoScXezA7sIC83LlcvXZcdQ==",
+        "shasum": "26c03534495ef56698d6866759919b8204e349ca",
+        "tarball": "https://registry.npmjs.org/slime-legends/-/slime-legends-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 62979,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh4nxMCRA9TVsSAnZWagAAqVoQAI9+FrXfdhs4lshnlWUH\nOKx9o5zgRu8I03b4RpgfkkcgOMARCnz/EorCQsKF9Q+Hxa0etbvbCZ8x2cG5\nSe+5Lw32EI50w7vsHk7BVW79FCUg/gim6e3RWejKB9m/2KhNudmwblJGQA+7\nKx2Gkyo8NgFrQU7kiTSR02VQdpIIRwSpMuV3hOTBwjGsS7nEZ11w5doRhsU6\n4Ya4zL+GYoQDDmLbogxiEktgSPZ+8Wfikp4sHzJeCqdIsAQ+PIY3ahSxsOtR\nsv3Rr4XpZAxkWcKhq0oEvB0Djed7B1o1FYdfxMFa0a1qYdJq4tmIOA65BwhG\nmD/v4ZI9Ml2ugraq/xrUhVMLHZoaq5SXVb1p9iraHkn/vKHgwxCIylWn8zeP\nJgkUqX152TvvQ2lUxzYjQNua1zQcx/skFqyv5fJoJR4X1t11ZVWxz3J+3D+X\nEgjuDZzp+VkhwC5dBIAftl4P20xBZqSWSOLARu17u9/nYZdisK2jtCtzZ8X/\n7MzMFQlvNO4eYGKQlahrvBauXkmbihE0rt3QP650qbAHcz1i868t6bVyEAL3\ngy+fxoO0jqcry3ia5sRYFNh4nCSaAqK4vqbZMKWD1hXZUyK5wl9vzloAywDo\nG8uDX6zDuAOlF+4so/0jozI6R41yejyZAhnmcdVA1D941bqdCsxFsQYq77Bd\nBQrJ\r\n=J713\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "vilao_pkg",
+        "email": "vilaozinho2k90@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "vilao_pkg",
+            "email": "vilaozinho2k90@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/slime-legends_1.0.0_1642232908621_0.6005160430050633"
+    },
+    "_hasShrinkwrap": false
+}

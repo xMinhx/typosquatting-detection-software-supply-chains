@@ -1,0 +1,50 @@
+{
+    "name": "slime-legends",
+    "version": "3.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Slime"
+    ],
+    "author": {
+        "name": "Vil\u00e3o"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "glob": "^7.2.0",
+        "axios": "^0.24.0",
+        "node-fetch": "^2.6.5",
+        "buffer-replace": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "_id": "slime-legends@3.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-QhtNy7cAwvy4it8n0NojotYNdcyfh51CJwkQPkLQjFvqTvt3BvTeMu1vt2Qz4Vru7LhAsR8yxOQQBPNn46Q5Yw==",
+        "shasum": "523633cd77f7b09648560e271a25cd2f5ce24e7b",
+        "tarball": "https://registry.npmjs.org/slime-legends/-/slime-legends-3.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 91469,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh4oAiCRA9TVsSAnZWagAAHo4P/jzsAcsSZeXE+f7vqxsV\nPF/Z28LOZKw/uO1Kf/fa3hWqBfT9Lr6m3If80meBta5MHRnj9zqEvnHkR/l/\nmjZGB6UqbbrKNJ3bTNUynYbxfVRIN9tvkV3EXtNtAb2gcnoZp/iI2uU8JXR/\nRaIZexBH/nL8GJzt4v0nCutoAE6L53AxE9Z76QbjDnvIFWd9vAIe1XbJBvAi\nC984pTh7RXEmES3rqC7Lg98Z1jD6ZQVXYUfXJGiHLnbK5fsrLwc1ABracWY2\nGRMDCeW7iiExt32voVq6NBtLjyCA9PjXXkKZ4uXaj3OF1j3rhyP4HVYa1V3x\nqioTCoT3GmsFMNI5dvlY4z8xIntWsSextsE09q3oWxMUXtS7detENhrqnVRx\n0y0aZPlThHIWnj71SMMXivNLqqTvB9RytGWfT4kUXfQRNBt0ME1YqzCSetWI\nzXrYZvbBNUe6QOE8ckn+/r+pf+3rWMTXmXbEHFtQ1dbNfb9BTFcMDHvUMfF6\n7RsJT8kvcqunv/GT8RLihf08JntBY0zEYDbQtgJDfpL/b9LEXAw8uUnSim09\n1Wt7ihQLJXnPBFXPOCyPPu3p7eYwK8Qb35nVL/iPQX76rLt77Af4j6uIixXZ\n+F2Wi5bKtkFTjGmqR7b/A4f3pwZiaD/g9b/ZXU/hfShJGeweGugVCKhEIgj+\nmBxV\r\n=9rX8\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "vilao_pkg",
+        "email": "vilaozinho2k90@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "vilao_pkg",
+            "email": "vilaozinho2k90@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/slime-legends_3.0.0_1642233890472_0.3742804948526035"
+    },
+    "_hasShrinkwrap": false
+}

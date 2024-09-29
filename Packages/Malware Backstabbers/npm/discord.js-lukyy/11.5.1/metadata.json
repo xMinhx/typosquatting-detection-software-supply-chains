@@ -1,0 +1,158 @@
+{
+    "name": "discord.js-lukyy",
+    "version": "11.5.1",
+    "description": "A powerful library for interacting with the Discord API",
+    "main": "./src/index",
+    "types": "./typings/index.d.ts",
+    "scripts": {
+        "test": "npm run lint && npm run docs:test",
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "webpack": "parallel-webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/discordjs/discord.js.git"
+    },
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "author": {
+        "name": "Amish Shah",
+        "email": "amishshah.2k@gmail.com"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.3",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "gitHead": "8d5a414b1cda4645264b99259bf0468ef1d3050f",
+    "_id": "discord.js-lukyy@11.5.1",
+    "_nodeVersion": "16.17.1",
+    "_npmVersion": "8.15.0",
+    "dist": {
+        "integrity": "sha512-3z9NmlHHr5wQr0CB0JylafPPcIHYUEafD7aYb017SMgGPBXD1iYfJvYgH8H+uqyuw114JWtSBkyBiNnZXnKz/Q==",
+        "shasum": "2a8602f88c3de837ec098ca281eb39a44cdee413",
+        "tarball": "https://registry.npmjs.org/discord.js-lukyy/-/discord.js-lukyy-11.5.1.tgz",
+        "fileCount": 185,
+        "unpackedSize": 762010,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDb810O2bK+6LLGTwZCdAfjPZgjCK/4smU/phhVF/bL6AIhAOi3kKKrs1r4clg1jWi5RgEB3aAK2x8jvWlkYCTWv3bg"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjS02rACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmoy3w/+J85JxBJLBb7iYb+wCds4cJtaSUMwFsiQ7vpeAvrTUjl24lpj\r\nJ5wKzTKVUpKnxB/SEKroTtfTkvGBGQJCh29a64bwdnr68ONvOFg99dmIEZFr\r\ndR7fSrDW+eDdA9/rRj4+O2CoAJlxQXMEeg+oKXoYZg7bsHbRdt0oW10zikrn\r\nKdvGLrqBo7x123HNoZ6QxXta/IlCBDHEWqHXr0T38rzPZ2ephBVXeriInfMv\r\nVCmS0KukK7icdqCExgWJW4kyLCZprK3twmy+ddP2hKez/S6Ttzb9/4s2Ye9L\r\nnt14mLtCuSqEc+hG/a55cBXeMYKtdE0UathIAPyqyN1T5rtSbBfZdETIiX70\r\n5x8UJbsNm2mRrssLUoDpslPJPCT0CujAEbZOR/BrV9bWaQ3j+IfOUdQ33eJl\r\nTJRr4C21C8xxZFH1f9jGg9j9oua2jdR8t6OUmRZQhqffTZzEumaj0wRMSi5o\r\nBUya64UhqA3lDHxPpxqbxW68wxuCDwOFD6/eZfvvjFGYSfSvS0gfqNnC1+pn\r\nd+G/abSG3NiXQKWX3tqb1KdiXjNo2N3tieoDSB4EgkwMPbIxcJDIJP+mDRrz\r\nzG8ExchL+D4KCgSLhNavcAs25J/VWL1R04wShU1zZqKQ6Sq7+Zaj15gWIDPd\r\ncCIil6Zl94PqqSX2ei3j0ObxLLm9I/ccHHY=\r\n=aMtf\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "lukyy190",
+        "email": "lukyyscripts@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lukyy190",
+            "email": "lukyyscripts@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-lukyy_11.5.1_1665879467619_0.11407782475919803"
+    },
+    "_hasShrinkwrap": false
+}

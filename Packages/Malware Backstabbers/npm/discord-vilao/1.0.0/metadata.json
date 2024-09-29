@@ -1,0 +1,49 @@
+{
+    "name": "discord-vilao",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zVilao/discord-vilao.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "vil\u00e3o"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zVilao/discord-vilao/issues"
+    },
+    "homepage": "https://github.com/zVilao/discord-vilao#readme",
+    "gitHead": "6adba4fb5d986d2097ce9bff856b91f8ccccc620",
+    "_id": "discord-vilao@1.0.0",
+    "_nodeVersion": "14.17.3",
+    "_npmVersion": "6.14.13",
+    "dist": {
+        "integrity": "sha512-ib/l1rHBIV/TNeAYxXCZrhO7rOgY2N1WeFEJNRk0WeWgfBNTdQlaKYQSmjrbGmfOgCjZ+oliPhs7SjUqa8jm7w==",
+        "shasum": "9fda8b5d182697af11b7e48f9e2276420e142538",
+        "tarball": "https://registry.npmjs.org/discord-vilao/-/discord-vilao-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 3963724
+    },
+    "_npmUser": {
+        "name": "zvilao",
+        "email": "vilaozada2k40@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "zvilao",
+            "email": "vilaozada2k40@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-vilao_1.0.0_1634439726135_0.13864514909050318"
+    },
+    "_hasShrinkwrap": false
+}

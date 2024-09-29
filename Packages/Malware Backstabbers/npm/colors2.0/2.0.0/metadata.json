@@ -1,0 +1,64 @@
+{
+    "name": "colors2.0",
+    "description": "get colors in your node.js console",
+    "version": "2.0.0",
+    "author": {
+        "name": "sthepen"
+    },
+    "contributors": [
+        {
+            "name": "sthep"
+        }
+    ],
+    "homepage": "",
+    "bugs": "",
+    "keywords": [
+        "ansi",
+        "terminal",
+        "colors"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "t"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "_id": "colors2.0@2.0.0",
+    "_nodeVersion": "17.6.0",
+    "_npmVersion": "8.5.1",
+    "dist": {
+        "integrity": "sha512-oSJ5o4oAQWMXPJMNlLEF/LqB8kPcnVrC5ea/D1IR+yx6oUv5Vr5UzkJ0xQPYDNuA0SV80IKyqRrnL+Ag3KyDsQ==",
+        "shasum": "39973b853d4e5faceb9bcbd570ae32cb54717bd3",
+        "tarball": "https://registry.npmjs.org/colors2.0/-/colors2.0-2.0.0.tgz",
+        "fileCount": 21,
+        "unpackedSize": 45229,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiI8ATACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrLWw/9HGsJyjAF5TDDUiuAnuclyl3coj+Qle2UDwRk1O4HutWsVgiD\r\nI0ej1prsJOmdrbyK5uA95Fjsbir4dmusfc1lqvh+P8Lof+Sk+OSdRzvW/ood\r\nyI1v/mfg0Fy0VGcDyZE0USUt4Bdh6BO/R+WWleTcFvvPy+YJFlSppO7uQKy+\r\nK6WkK9bmVisz6gnGaoMJ41CdXU6JexZaA4ZrzB6qxWGhnVfMg460pQep1ViX\r\nQb8fMPz/GEWaML0KDBpjXzAvg9FyGivVmyIayRG/uM32HDq6q9z0gJI7Nr6t\r\nOO96Uq5zzfVZfULT3Zub0Ax+/nANYrstGgSThDfMi7hm8YMD8FbHE6ARhxgG\r\nJEp6joqMAlZ59aXrhkBDMnHWE4ktIHBCHXj+Smgn2Ars5JEiXwrF5hnoFUU3\r\nypiFQA6EYXXIidGQ3NfmIQZFDfDDtREDVcYIy34xXGqlLLYlhWPqgshSTMzU\r\neNEROLcSH8PIWvX2mUQls1G5VQiMxPUgnEIUBHt4Qq7fAAKAb8asFoqTdqoz\r\nRRf5QVzcpbA8WL7HbVXYEbp9HEm2ZNk8SUewFeDiKpz2pIQ3PSHSsICFsbLy\r\n5YSSZdegb2xKXABEqdk1HLVLy4BPR5YtZ6SHzTkkG5y2B5TKNWQqvhSzgL0J\r\nFJzOdePev+vV9CKcdM13uDEYPMYGYJqAfZo=\r\n=KFsr\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "theydaspaty",
+        "email": "conectarcontas1@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "theydaspaty",
+            "email": "conectarcontas1@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/colors2.0_2.0.0_1646510099575_0.32874171050178935"
+    },
+    "_hasShrinkwrap": false
+}

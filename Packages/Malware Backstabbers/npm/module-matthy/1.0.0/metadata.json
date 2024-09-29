@@ -1,0 +1,43 @@
+{
+    "name": "module-matthy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Module"
+    ],
+    "author": {
+        "name": "Matthy"
+    },
+    "license": "ISC",
+    "_id": "module-matthy@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-Kix9+xlhpIFEoPExoyPEdOMEo9fZpWNeSLJwBo3YOM07sS/o2/4oPrujEbqiC9VhnxZzFk/3JEbXl6X2zT4qsA==",
+        "shasum": "b0990411016dfe065f50b0ad68944e15cb152a3c",
+        "tarball": "https://registry.npmjs.org/module-matthy/-/module-matthy-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 4877,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhutxNCRA9TVsSAnZWagAAxD0P/ibyK0j8ouIkAMIXopHv\neOgqweG6YLvHbvaoX+raHgKmr3x9rnLg1sGngjaZi3IIfHClbp8rOJEeN74o\nCobiX551cuyLGXxCrwWxr9tXJpzO1sgMhVTRWPFuE1mHIpKkhevKTNvP9Y9o\nMq9VhI3I+2s5Mk4fIKM8pf+wDNj4P9x7yJBdbJW/biRM1A3w7WayXa73kgO0\n20PW24pC7WLUbaUv/0fsQD3aVWDIUx1l9x3y0pUzA6X7DKEi3W9xN4lR6Cs+\npXxNGhfx4FwVPipqGE8WkBG+ADxbce0xMii9GefRerph7XvJZGsDt/lYCCDJ\nJkngs7kJnFAitgLO/39dxqdqEd9xc9HfXllMPTugKH2YnIpg2F7qz/Uu+rlB\nP7maDryTsU51k65AcFSqq0jLKPmQ54lpJKgwSn3mL+2fGHAlFRg6hB8ShKMc\noPCwWVINmvvge2zUwOVhd2rkH8RHu+wFQ8KgUGHdeomYmM4idh2YhFdZfkYF\nvcVbEo9FX7G0J/DiRSb8IVlf579YyXF6wqRglyRyh6kNISjblw6+nVqf7UWc\n+ycHB/GjAnFE6X4zZwOqBRAgwwT00mvsuF/MXeu8g2Wzl6vfHkavbBMgvBQz\nU9kd7oSf9h2FS81+foCYHFS33SjOhj7ElT8ngfZJwvesKrsTwDLVQx7U8/dS\nmzaS\r\n=wN0B\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "specfofinho",
+        "email": "vilao2k21@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "specfofinho",
+            "email": "vilao2k21@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/module-matthy_1.0.0_1639636045336_0.7292234695740989"
+    },
+    "_hasShrinkwrap": false
+}

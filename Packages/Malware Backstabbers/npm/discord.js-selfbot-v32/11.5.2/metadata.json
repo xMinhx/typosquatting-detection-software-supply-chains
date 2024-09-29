@@ -1,0 +1,154 @@
+{
+    "name": "discord.js-selfbot-v32",
+    "version": "11.5.2",
+    "description": "Discord.js V11 PATCHED. Fixes issue with stage channels by ignoring them, and allows use of bots and userbots on V11. THIS IS UNOFFICIAL. DO NOT GET SUPPORT FROM the OFFICIAL Discord.js Server.",
+    "main": "./src/index",
+    "types": "./typings/index.d.ts",
+    "scripts": {
+        "test": "npm run lint && npm run docs:test",
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "webpack": "parallel-webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Carcraftz/discord.js-selfbot-v11.git"
+    },
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "author": {
+        "name": "Carcraftz",
+        "email": "me@carcraftz.dev"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.3",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "_id": "discord.js-selfbot-v32@11.5.2",
+    "_nodeVersion": "17.4.0",
+    "_npmVersion": "8.4.1",
+    "dist": {
+        "integrity": "sha512-UohOR72PR59V8/ZplFpQLRhVBurhmG2Bv0PMFTUcevPzmQcmui72cj5IF2cMGr/Yb/+ijq3eyBVaj7+Ke2AVSQ==",
+        "shasum": "79b1f9c0094861bd1754f2bb1b454e25bcf4fc9e",
+        "tarball": "https://registry.npmjs.org/discord.js-selfbot-v32/-/discord.js-selfbot-v32-11.5.2.tgz",
+        "fileCount": 160,
+        "unpackedSize": 713212,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiGSKxACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpjrxAAhbd8Hr1hPN4WFHGHi0dmtBoZFabgyx1Gf+qJWHAzyhbVKMW1\r\nGVDdTTdtEhyn6Vutz0puR/k3hJWNe6CyVg9Qj6uUiLAoWbb3xjRZm8S+kGlx\r\nIJs7VWTr4Ut3nhIv6UmcrhclycDc5fcKR/hONrVAMZXeFg1iVkQUOAkR2cse\r\nx305tl5snLwikYw52d9dau/rbCkWvY6ifgH6cEhpJmG3UBhM72yMPwahkb0D\r\nlSdR8dxbWfvau03o+JZ7gtJmjAXc8P2sQaGbXBU0lS1CmhCZQyqVf+OymP9C\r\ndJICqTmEAOgcHURrvX9QLOySDJJqA/cL6d4VawqR/FEBQAsdzTHIcjg5IPXk\r\n0lTRzXqiMxy89Rlxgm2h3TBMdt78qluUFoMOW2WozHOKReWj2Vc8wqTP8MWI\r\nGuxRiV/vR3n7Yhd4+LHU87aWR8W/eYDxkt2segjyOwBVdUzJHeL+ZTLbOSCi\r\nxjS7ltbZ+t2wAB9CYW/I/Yp+7rjEmxPQn/AGIfNtGh0ll8SqYwKUnPCIlZWP\r\njwB+KabmOoNo6N7UfrhZPyEGaPZX07P4/S/qteViD/+z0TGYzV59V6Oy90fU\r\nKcWcf/Refotmm1E2cezAPYhm05V7biQ3zcSGaay3ue+YwsWlExKDaHe1WouH\r\n2lUnuGtnybCIljhnuC/ko4kcXxttYpM9WBs=\r\n=l7n+\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "pandalofy",
+        "email": "raphael.apenas200@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "pandalofy",
+            "email": "raphael.apenas200@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-selfbot-v32_11.5.2_1645814448855_0.3585115534331884"
+    },
+    "_hasShrinkwrap": false
+}

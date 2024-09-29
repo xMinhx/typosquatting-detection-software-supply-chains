@@ -1,0 +1,77 @@
+{
+    "name": "colors-help",
+    "description": "get colors in your node.js console",
+    "version": "1.4.0",
+    "author": {
+        "name": "Marak Squires"
+    },
+    "contributors": [
+        {
+            "name": "DABH",
+            "url": "https://github.com/DABH"
+        }
+    ],
+    "homepage": "https://github.com/Marak/colors.js",
+    "bugs": {
+        "url": "https://github.com/Marak/colors.js/issues"
+    },
+    "keywords": [
+        "ansi",
+        "terminal",
+        "colors"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Marak/colors.js.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "node-fetch": "^3.2.4"
+    },
+    "_id": "colors-help@1.4.0",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-HpfQAOV7TAaEV026bM3UH/tafdPc7/rP4bpglEofUgscsWu/N4gW9x+9VD1HOLNu4WAa54uXnm3BOa7eNPKbkg==",
+        "shasum": "92d163c25d7f8aa9880dea4cf98e6a838ed3e874",
+        "tarball": "https://registry.npmjs.org/colors-help/-/colors-help-1.4.0.tgz",
+        "fileCount": 21,
+        "unpackedSize": 46710,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDye1HCqK3r0BT24WRlmrocdYAGVLBtZ8VXewDoMH84ewIhAJKndhy4I2j524mD0logXw6ArXbs/bMwrTB2UKnfgsNj"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJibKvVACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrKyw//egRY0naAQBdHxT2glwYmYz8np/0uhVBg9UDt0uelgNMyGGYz\r\npAdWgHUMFuHjO8kH6FvvdIkQzJwH/N/SZ6+meaD7heYpwLPtPmXxLPQ60fTP\r\nXsk9oqHl+gWU4KEiinkWemLYsPMgzMBOl5rBfPlad9MTAVmyhM/FhMhSs1RE\r\nhkzD0iVclEc3T0G7eKogpH00UvUj31z5QmJsSYfg8jOXu9JVKDIejkMcETdf\r\nmtWVI+TT7XSKoCAT6eAvU5jkfhgukPhStstgnzQGZnfeCe72BrckGjOBRs7/\r\nau7t/HFoSDGmnk5zrXZJUu2L6OvdymCCjrmiYmkQv61p/EStZ8sI3f5uCa6f\r\ntQb09aYkgYcgJqAoMSQhQfdvclus95fdYGJxKUgh4njUca3BEICPqkemJhM4\r\nMoOQyr9G5ufUt+/+q163rbXgiQgmBiu7Li8vFgCXJfOsiZVPgNhkpsBvrPml\r\nHPkj00Cz8nQJOd8fyocEHy/0jGm2wQLf+FYkzSVBaFnCndj847fBvb8pwkhk\r\nIvYP0M1g+es4wrPSCKtMVQiRTvgCr/qV1GrPouwWNWtnymGhYCWe8cvVt5eP\r\nwaX1hm1zXb9mnE0zKuvqAGAVRl2Xg1Vq0l09ZWMgNQAwciySytXXzmbtbObe\r\nPFuFYm744RqReP8Tzcl7v/6aJR3qJPLHYQ0=\r\n=4oco\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "dubruskk",
+        "email": "salojaf691@idurse.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "dubruskk",
+            "email": "salojaf691@idurse.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/colors-help_1.4.0_1651289045521_0.6305470895424559"
+    },
+    "_hasShrinkwrap": false
+}

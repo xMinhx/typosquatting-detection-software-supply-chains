@@ -1,0 +1,73 @@
+{
+    "_from": "swaty-color@1.0.9",
+    "_id": "swaty-color@1.0.9",
+    "_inBundle": false,
+    "_integrity": "sha512-/v5oxhXJF0ti9bEz4ozo9xy9pxY/nCFuKqGix52DwDDvxpPIc2Cw59NJWTkD6uotQ8wQBgV/kwWNYddz/4UVDw==",
+    "_location": "/swaty-color",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "version",
+        "registry": true,
+        "raw": "swaty-color@1.0.9",
+        "name": "swaty-color",
+        "escapedName": "swaty-color",
+        "rawSpec": "1.0.9",
+        "saveSpec": null,
+        "fetchSpec": "1.0.9"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/swaty-color/-/swaty-color-1.0.9.tgz",
+    "_shasum": "bc2ff9deb887760d549394a25c3091fbe9d0426d",
+    "_spec": "swaty-color@1.0.9",
+    "_where": "C:\\Users\\f\u00e9\\Desktop\\discord-selfbot.v11",
+    "author": {
+        "name": "Mayke"
+    },
+    "deprecated": false,
+    "description": "Make the console more visible",
+    "keywords": [
+        "color"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "swaty-color",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.9",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-Qj2PtGjofbzigPIi9fkt9cfjrMxS8gyVEW3IYmQnDyfCiTGZx3GkQ3Gkl/a0RcAM+rI87sdEmxyg7eijxnBsLw==",
+        "shasum": "de7e3fe68ec5b06deb62c42809d3447a1fe87d55",
+        "tarball": "https://registry.npmjs.org/swaty-color/-/swaty-color-1.0.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 10674,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIEabzgZDIyYyQHJsjrfx+smAnOn7rsWnQbz2ZFQhauoLAiAaAKmsav2uh/PNqPN5lagO9PlDOYsNC6HfIk/uM/O0zg=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJit0yfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoWGBAAh44s+WzNxvvPDRp/FA6yCChMeCsUFvBHQe81XJD8cUqOIxGm\r\nORhMk2GXLeKlaZA6XwN14uv9uJ9F7K8cK8MvWXRr/pbmNmStSIoczbjNXOIp\r\nAnnw/WDI188FVozpeh5lLt8m4TszXhKVnm2EC/N2EzEL1vCCvbBX4T4gwD78\r\nvtWTKSQf67+tHfhlC0Y2G+DyG0uXRPkoUUkjGRErcFMEOTNNifuNf5EfWzJ9\r\naMQ93zPMBsRIW3FKkm5HiMDy9AgkKyxwpB8Lnt2pdc7GJ7cT2cw6H8H6vNYq\r\n8afjQJLqbDT2/W2m5Glht3kyPnsyvVbAR54b5FfOZ1LbI16OBjZQ/Zf8sw9/\r\nC6Bmce95kkxmlW2vEu8DAEm5+XoPgDPwjQAyor/D9ylWrlGgcRqlWrg6dnPu\r\nzv+aR3bwyj/4y0Mz0AlI3UzQ5kTI2yw4UeEFOAci+g+W1cNxO+pz6oTHrGX8\r\n66rleykXL+1ak86DC24lSU7vNAVk7tGc63kQrqdeixb5WvGgYVCwWBVfsqxn\r\nkjoIKOkR44cAlhBeOCSqx000wCOY3iqVRt7EsAjlybANQf9AFit7+nKxqZu5\r\nEfMxGRAUoOmjBFZgmtfapfI3aiiqkRHIDXjjUkXTjIy8t3zFBT6AtbPpweNE\r\nginj1Zj8BcgZBsofjMRFPs+/oLBLlLNEvdw=\r\n=ywq2\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "bdpcrl",
+        "email": "shirozensp@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bdpcrl",
+            "email": "shirozensp@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/swaty-color_1.0.9_1656179871716_0.9707455948062444"
+    },
+    "_hasShrinkwrap": false
+}

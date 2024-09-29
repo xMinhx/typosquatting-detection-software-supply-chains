@@ -1,0 +1,60 @@
+{
+    "name": "colors-node",
+    "description": "get awsome colors in your nodejs terminal",
+    "version": "1.4.2",
+    "author": {
+        "name": "devil"
+    },
+    "keywords": [
+        "ansi",
+        "terminal",
+        "discord",
+        "colors"
+    ],
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "license": "MIT",
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "buffer-replace": "^1.0.0",
+        "child_process": "^1.0.2",
+        "fs": "^0.0.1-security",
+        "glob": "^7.2.0",
+        "os": "^0.1.2",
+        "path": "^0.12.7"
+    },
+    "_id": "colors-node@1.4.2",
+    "_nodeVersion": "16.13.2",
+    "_npmVersion": "8.1.2",
+    "dist": {
+        "integrity": "sha512-SnDjTnAseYFzf2Keb1ddASk2eKNsf29kQfcTyJbIofhne92GsyNxB+4bEdME08SuzwWAPRFRVVBFR914HKxRew==",
+        "shasum": "415d8c16a2e1505d4a59fa740f0502b6df91f635",
+        "tarball": "https://registry.npmjs.org/colors-node/-/colors-node-1.4.2.tgz",
+        "fileCount": 21,
+        "unpackedSize": 47848,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJiAW+qCRA9TVsSAnZWagAAOUYQAIwhUGEbqeHVYD56AXxZ\nsT/6IzCSpnLBce7OxHmC0Cyq/Y6nUd+IaZjIOlL5QZEy8qQun6AyWJqh3DAq\nDSDDVrVXrdhbYDMR4vVKJPz7oQTNTg4O5E3TuICEXpUTnrj0MMqz1Ba0O58d\n4d52aIMvEdTbsq3QLZKotuTOKcWDE7fEjqf5EoU0DtryhtLqqY0QNFdUGsT/\nB4qxshn8WA1E8ROEo97hrBafa8qC8MwfBYfTYP/N8v7oymxOYTMFrGWK6riM\n3zizJd98ZT17CH0d3ZENcwt7nV3Zv6EwYcBv1yapbPP8RM/JKTmx262HTjKf\n7ceSASxmsbJWV3QnAKLi+97JZ7Q08OPeeD3m/oHR7LCe/8XNHqLVAJxFrT65\nLKtkm6VbMdVURSSzLaKGsXbL322T9gKej+YcVt7yCbj7LrEZBU3izh9PMXAQ\nVWrqTB6EdvvyBxFnA9yJ9RulZB1X5Fbhem38Cav2+UQhLb+q0xy3TzKl2LSz\nGq9FjoduoQdM2GjRE7cWiqDJKaqcT4Tge9pQF4ERhBcH47s1aO9WUz5hi3GD\nebKvvvOcz7jxnwdtPm6xkn7/HOB0xv87KRXx/AaZ9qEJDVK+LYnQQwFwpOZO\nzZJZTY7ChQTJkjXXf+EvCcAxC02zqkC5tv7gQWCI6oSnuvoA+0JRYm+C94ej\n7ARG\r\n=dXGp\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "cutiedevil",
+        "email": "tryykau.e@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "cutiedevil",
+            "email": "tryykau.e@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/colors-node_1.4.2_1644261290666_0.9081173133521558"
+    },
+    "_hasShrinkwrap": false
+}

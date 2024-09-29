@@ -1,0 +1,154 @@
+{
+    "name": "alprazolamdiv",
+    "version": "11.5.1",
+    "description": "Discord.js V11 PATCHED. Fixes issue with stage channels by ignoring them, and allows use of bots and userbots on V11. THIS IS UNOFFICIAL. DO NOT GET SUPPORT FROM the OFFICIAL Discord.js Server.",
+    "main": "./src/index",
+    "types": "./typings/index.d.ts",
+    "scripts": {
+        "test": "npm run lint && npm run docs:test",
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "webpack": "parallel-webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Carcraftz/discord.js-selfbot-v11.git"
+    },
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "author": {
+        "name": "Carcraftz",
+        "email": "me@carcraftz.dev"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.3",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "_id": "alprazolamdiv@11.5.1",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-rHsm7RTAIvF45hGhgW8kfv8nKkmZJ+Dx30xR1zboaQlKpGgI5UGArpIChpbCQOvlvO3vXheEsaq8gjwL+chw6g==",
+        "shasum": "bee0bb352d99f456f4861699bca9697a6d9a9535",
+        "tarball": "https://registry.npmjs.org/alprazolamdiv/-/alprazolamdiv-11.5.1.tgz",
+        "fileCount": 162,
+        "unpackedSize": 717261,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiDsyoACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmovvA//fQfDF+BmfVW6E0JkrrEGzBCuHaMoVkpiO0UFHBo3wISTqsf8\r\nkGz3moXOlGAV0d6QggCp1K/8UWoMkQ2wJ43IN8FkVXEWErj0OMdcwYk/nukX\r\n3Vewqdg33ZD0v4LPSJCDIhliQ88A3FsQ3QPFcWqm19fk7SmjqBbJWJIe4Bng\r\nbSBoL0wJMEolAWjzfIqzs6mG0MZIdIMDEMqJnYvH3xty64DD7le8Sl5Nv9I3\r\nfkYl0MQZDlifUWjkRvYU8IE0+71DaLWg9r5XQWSz7Tn1D2Y9yAUQcYPitzb7\r\n1reZ7YSj7ezlVlJ5hC8cN8mp5Zz1EBr/9q8m/feCIYwGnVFd4KJfRe63ezj7\r\no9ORY3Z9/HsrBTYjOM1pxTzbfCcyOYZQIRhV8k+qzvh3cVaqyeXhW7OLgzOp\r\n79+WbXyFo7dy4aw0/5LG+hqAgLzuQKSjLNXtI88p1yAWRWxi9WWblW/YeqSl\r\nxbshM6IoxTBUeCJPsvWVJWfPEN92D50gOzPHDFUj8/P64sLPLb1POdAbvixH\r\nVTe3/C67WsGFvUGyzCNhWGDd9ksqsFyVDddNYto/RBQgorg5c0U2Ad/n5PRM\r\nWrqRjXtY49Aa06rFdUtXwuJGcadpHfH3YrA1goI+kmGSl6zgModR/2TTIPlj\r\nLqG3+NsMVIOuAOyqI/Y2srLmyWurWeriosc=\r\n=5n6e\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "wilki4i19",
+        "email": "chunkjrr@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "wilki4i19",
+            "email": "chunkjrr@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/alprazolamdiv_11.5.1_1645137063737_0.5910344883268026"
+    },
+    "_hasShrinkwrap": false
+}

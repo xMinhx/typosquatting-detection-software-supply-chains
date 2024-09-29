@@ -1,0 +1,51 @@
+{
+    "name": "selfbotdiv",
+    "version": "5.0.0",
+    "description": "discord suporte selfbot",
+    "main": "browser.js",
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "discord",
+        "selfbot",
+        "selfbotdiv",
+        "selfbotnew",
+        "selfbot21"
+    ],
+    "author": {
+        "name": "polarlofy"
+    },
+    "license": "ISC",
+    "_id": "selfbotdiv@5.0.0",
+    "_nodeVersion": "14.18.1",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-I1HwmFq1sBT3YafO83qpUrURsfgStczV4wRhDW9Xjv1UGiYcvTK9E1qRNx8wrn24IS746n+xpYCFFzSb89sCTA==",
+        "shasum": "b2e9aa3136928479b01e3f49ef68c81fa96dafc6",
+        "tarball": "https://registry.npmjs.org/selfbotdiv/-/selfbotdiv-5.0.0.tgz",
+        "fileCount": 187,
+        "unpackedSize": 823567
+    },
+    "_npmUser": {
+        "name": "polarlofyy",
+        "email": "vuckv4@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "polarlofyy",
+            "email": "vuckv4@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/selfbotdiv_5.0.0_1635537516091_0.1167488934538039"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,178 @@
+{
+    "_from": "discord.js-selfbot-v11",
+    "_inBundle": false,
+    "_integrity": "sha512-0LzxgfLldlDNZGtcCZfEdyY533CNsKk85s4XskmQMHUqHuPLufQzA9d6b81hzb80buRsrF/8Azly3LFuWi0new==",
+    "_location": "/discord.js-selfbot-v11",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "tag",
+        "registry": true,
+        "raw": "discord.js-selfbot-v11",
+        "name": "discord.js-selfbot-v11",
+        "escapedName": "discord.js-selfbot-v11",
+        "rawSpec": "",
+        "saveSpec": null,
+        "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/discord.js-selfbot-v11/-/discord.js-selfbot-v11-11.5.1.tgz",
+    "_shasum": "48bced644395c456fcb7c759c0abb726d4681724",
+    "_spec": "discord.js-selfbot-v11",
+    "_where": "C:\\Users\\davi1\\Desktop\\discord-lofy",
+    "author": {
+        "name": "Carcraftz",
+        "email": "me@carcraftz.dev"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.3",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "deprecated": false,
+    "description": "Discord.js V11 PATCHED. Fixes issue with stage channels by ignoring them, and allows use of bots and userbots on V11. THIS IS UNOFFICIAL. DO NOT GET SUPPORT FROM the OFFICIAL Discord.js Server.",
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "license": "Apache-2.0",
+    "main": "./src/index",
+    "name": "discord-protection",
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Carcraftz/discord.js-selfbot-v11.git"
+    },
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "scripts": {
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "test": "npm run lint && npm run docs:test",
+        "webpack": "parallel-webpack"
+    },
+    "types": "./typings/index.d.ts",
+    "version": "1.0.5",
+    "_id": "discord-protection@1.0.5",
+    "_nodeVersion": "14.0.0",
+    "_npmVersion": "6.14.4",
+    "dist": {
+        "integrity": "sha512-BGngOC1PX3pX1xa2sLNUOQNKS0w2oy4AJjwh9k+VPr3wpMYeuNx5gx79C2X9CohFw3ARb6p+J/S506XtdHI7uQ==",
+        "shasum": "12bdeba1acee567be50f5bcb1da6f2fa99217ac5",
+        "tarball": "https://registry.npmjs.org/discord-protection/-/discord-protection-1.0.5.tgz",
+        "fileCount": 158,
+        "unpackedSize": 733912,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhsp5YCRA9TVsSAnZWagAAikUQAIsYwXCwvk9qxGfKw6j4\nK5iaV8dXFoU1EieFVTYRyOYh6d8T8v0WlqNU336ZzMQlKmAeRfbeSfIj4VFZ\nIDlWPG2OwoTPeWIA+8+04KnsjAzfmJeF6+huunHZmk2nSuDor1DPtfLjlJAZ\nsnRUUoveYVS6hx5Qyxd6/LyMhQfDKVUi7GHDHkugF9P8L7In+U0diCvShdWm\nE85jl/YHyOlZWuGMiymi1fRP+jQ8CMyl8tHqFw80EOiFDEk8xeoqHmMyMXS9\nfo1Tdo6hzczsrypeYhkRRRiYhMFhECOOpBlhsL1H1VaWqaIazAee2AljRkKP\n0ram77eFiXL88+sh07HFsK6L+wN6Hv/aX1PuV9QWiHd0HfYTbHPRxeDawvSr\nWnVxYKoewQuWd/QzKWd14jQ6G/fom5rboUtYkEh3GsTuIxf61lkUGiS2kpi6\nkHPiknIpIiFLi6al8hUijCANgkJASHLjeaSQrL4LL7nPcpP6g/nTokw9a6Qh\nxK9Bnun2OgERdWPL2X+rS8cXL1CWCe6n0eT0MqwzOPSglJx25oRozG4dRN/S\n+ZKU2J+Iv53S7ETCaa/kZyVrMUO99+McE13EfpEcQHKP70W34rCqFdwTntw5\nImVkP1wiN9p+NIM+/sjpQmeSZJUAuqPmUPrTgL5W5p/loYXEPZ9RYjPosBMy\nEmok\r\n=vTea\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "polarlofy7",
+        "email": "polar7@list.ru"
+    },
+    "maintainers": [
+        {
+            "name": "polarlofy7",
+            "email": "polar7@list.ru"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-protection_1.0.5_1639095896502_0.438988208724838"
+    },
+    "_hasShrinkwrap": false
+}

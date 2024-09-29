@@ -1,0 +1,164 @@
+{
+    "name": "discord.js-selfbot-v15",
+    "version": "11.6.4",
+    "description": "A powerful library for interacting with the Discord API",
+    "main": "./src/index",
+    "types": "./typings/index.d.ts",
+    "scripts": {
+        "test": "npm run lint && npm run docs:test",
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "webpack": "parallel-webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/discordjs/discord.js.git"
+    },
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "author": {
+        "name": "Amish Shah",
+        "email": "amishshah.2k@gmail.com"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.4",
+        "discord.js-request": "2.0.0",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "@discordjs/opus": "^0.1.0",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "@discordjs/opus": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "@discordjs/opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/DiscordJsOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "_id": "discord.js-selfbot-v15@11.6.4",
+    "_nodeVersion": "18.4.0",
+    "_npmVersion": "8.12.1",
+    "dist": {
+        "integrity": "sha512-/JmlYTKUV9xEu7AWZgDdAB0qYBmBJHwOf+6OtSz4mEdoQVoRBaWZddSJe62DTUAJZeMoHbP6oYtwjC9ZBZJqpA==",
+        "shasum": "80f63349ab199570f5dcbf842350a4d7178af90a",
+        "tarball": "https://registry.npmjs.org/discord.js-selfbot-v15/-/discord.js-selfbot-v15-11.6.4.tgz",
+        "fileCount": 175,
+        "unpackedSize": 762982,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCnAAYaXKB1F74nLG5I5QTt7xI/PPnFWfz9u3HRiM79iQIgM3puDbCTcFVWfDI8aNV91T/KO+l+HpAAW0RuVknTqLA="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi0/PgACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrXLA//eBEGfuZQ/tkYqElt0jWTpbFUqyMQ8+qkfQalnKC/4886a7GT\r\ntDLV0JBSjVSpmSYPIDnFhVnlEF40i5of47dVqPjRuVAccOap3UVJuhxzjAXl\r\nCAnH6gxR5hGtsTXdaJ0KQ2/fvR/yCuwm0mttHXx+VEsbSSnWUnqaz6Emus90\r\nv+SoeuHHh2ghp0zXIwYuKHMZ7FS9U2OzSPcFzr8svJd2Iajx/InswUCqCzGE\r\nbghghYaYPOEUkA03BMzeCtjb+Qqb/L0uYieSVzLcQwwCm7NImoci2Iuf904q\r\nWP/17lr1wpt+7PjdR1tkl0WbPdXTWs/hFVBAY4CdKOUnspCSCoUPirB+Hz+Y\r\nCNk7R5nup2YI0ldCpNeDrEfk6HU7na9fEKri/BvoK8Vl/FVzCIMmCVUQ0DA/\r\njtpoJ9jljd4gkWrm+epOFGSC/84wSeNzbeAbQVr7WqFRnCeg4tNBqJvyMCOY\r\nRXiZtLUpZu2ZqDOWUeTYtdLatdXAwZT30/ZeFgz7QS+jPMojyNo4JXrbkTNC\r\n1NBjznpaShoYTvo/WH0QkOvEpXCisHCz8VBxwbEDA9MaTACt/PSw26tBdnZ1\r\n34R30SDNDMIFL4Z2JbSfm9uC6iw9SCGyqskoXKkVQCFlpSjZNqb38noE60rM\r\ny9B6Nj5L+1hXF8Xy49/rsE0g96ewEkzPiUY=\r\n=1NH0\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "simply-whsky",
+        "email": "nelasob464@opude.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "simply-whsky",
+            "email": "nelasob464@opude.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-selfbot-v15_11.6.4_1658057695836_0.11861642828047247"
+    },
+    "_hasShrinkwrap": false
+}

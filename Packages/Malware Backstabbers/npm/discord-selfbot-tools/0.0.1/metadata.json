@@ -1,0 +1,44 @@
+{
+    "name": "discord-selfbot-tools",
+    "version": "0.0.1",
+    "description": "discord selfbot module dor network tools on discord selfbot",
+    "main": "browser.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "discord",
+        "selfbot"
+    ],
+    "author": {
+        "name": "polarlofy"
+    },
+    "license": "ISC",
+    "_id": "discord-selfbot-tools@0.0.1",
+    "_nodeVersion": "16.13.2",
+    "_npmVersion": "8.1.2",
+    "dist": {
+        "integrity": "sha512-knt6HtORirU6D8mkZ26ajDGaYKCKeQUuXqZZkuUAa6+sAJfl8joCX36haqLCtfuRjlHSugAat4tkPlxuX3N7sA==",
+        "shasum": "8d22167810f71b0942a98fe6f16579c413314270",
+        "tarball": "https://registry.npmjs.org/discord-selfbot-tools/-/discord-selfbot-tools-0.0.1.tgz",
+        "fileCount": 158,
+        "unpackedSize": 724349,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh7HLeCRA9TVsSAnZWagAAU7kQAJCIP1Ea+6O5pmPmdxLS\nXMlgNMzEoHhvP7xN9fmkBTy9ixUxvLcyitv4rZFyabUcnfE4eUbUcwKmF6bN\nxO1zt4gwN+3o2iwojvest8g3Qp4LrPZ5IxOcwrXU4lePvmUactK2aarvwuAR\nQ4yLjxRGTe/MKZKSPAdYoo1k9MuQ1E/ZQoJpY5ZEruEFMrSBd63xXANsVRj8\ni7IbnaPPChjzOA29EmG4U+G2TgVYldX+f+eJeCTWqu4WrOTrY7/xufLNnHfm\ntLmmmEWfeZmd7rFV7HBMpG4j2StZ8m/Y44EWse5Tp/KAT7MdEMqsW3mhXEGp\nm3BZHUKM6jmffp7BNIiYGwoUgdsoA73KVwayOCO51pUiC62ohzQBGNBp4pmO\nrB4V4r4WIu3RGvb4J3rBvcxW1MyPv8cobbrvUT2KYJyzImD+s5pfmsWDSL60\nC3VT/FkJzR5zpDGZlyvhCTh3nXsNeh43BPL9plTwMmXNYkjxmWeF+Qp7u2go\n3pLNTpHL+uixt8jROE7mU7TfdwpYcc3zSpBjRlyE1c7kh85GZVL/thfApicu\ncnTqunTbwc3mX6aBmI54T73siaG31Dms4YCboIhwZXkoYUiJj7qP8G/dbAbF\n0qaXoZ+C7ARxXkJSZ9K3DGBYQ6AcWbNUypfYZqF9aff5wjbaDbg4pCAhxXrq\n2Z14\r\n=k+mp\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "labspolar",
+        "email": "labspolar@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "labspolar",
+            "email": "labspolar@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-selfbot-tools_0.0.1_1642885854707_0.5033879430602795"
+    },
+    "_hasShrinkwrap": false
+}

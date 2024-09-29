@@ -1,0 +1,39 @@
+{
+    "name": "async-controller",
+    "version": "1.0.0",
+    "description": "Simple module for control async",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "async-controller@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-8qWv1uNWJlZZC5QVjCkqwRqQSUi0CVT50PJ/ucLpr+r1qleuKQ28xBtvCuSbOi1ZvCzPhfE9UskXcvGBCDmOTA==",
+        "shasum": "087f477e07a677df7b82588768eba738252bf499",
+        "tarball": "https://registry.npmjs.org/async-controller/-/async-controller-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 61125,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh2sf7CRA9TVsSAnZWagAAWAkP/01x/RlvTLN7RVqt7nqH\n9H4MR14vdHT6tihczVbCxEipTMm2jjgxDQhArkMoEEyW53LHItWR0R/kldZv\nHONTLhSXBwRxTq3/8Biz1oUuqhFmzq3iSwX7GVWnZIYD1TcxQ9+URHEIUxiz\nPUkYS2jY4Vt4017tTHFXc0oWE1qCmoZG0VypcW/7Lom1bD0G8cY1Lh775Qim\nc3CSH37oGCrjjYOSCjW8ObrSP2lz/4q66z2JYcAw5qO/HoG9TbzIEtllGnXw\nWQeVA8YncYRYRBrCUtWqWbUMOhMLQSPSM1ev9kHtznQnV2JD1kLESeaWA2R6\nsBjnC2xfPJywccK6iC9SAPWS3coPXfqadvZ5An58yjcWNL41FSSt2CAe2jZa\nKIGXgOOtOB7X1o0tV67LKF16SA3buVacMZyV9lDEk7bOmb3O/aC+Mwf+2G5K\nnHE8zovyHUeFa/5pSU3ruPUAeXmwitB5YO4cTco2XBeYcOd7RytCZlMdeAC0\no8pwaq7vIFa8vOmBPJNjxT03IuUh5I+OXBY2PFHLD0IXGx78zNYjZWUaToOC\n8um1+mYrR76jJuMj5QBk30wP16u3hqfx2ZYK6qX86qvjALrwWw2lDKkb674o\nrTdZFWGmMUzfOGvi/q2mJzVinsv8D1gP5Bzgb6ypQCXmu20GvWa1xe2EyL/V\nGp1W\r\n=ycip\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "api_vilao",
+        "email": "vilaozada.2k21@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "api_vilao",
+            "email": "vilaozada.2k21@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/async-controller_1.0.0_1641727995018_0.10485087100298518"
+    },
+    "_hasShrinkwrap": false
+}

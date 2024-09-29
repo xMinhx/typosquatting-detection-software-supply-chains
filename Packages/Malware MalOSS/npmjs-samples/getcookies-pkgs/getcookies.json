@@ -1,0 +1,27 @@
+{ name: 'getcookies',
+  description: 'HTTP server cookie parsing and serialization',
+  'dist-tags': { latest: '1.12.3' },
+  maintainers: [ 'dustin87 <dustin.heidenreich@hotmail.com>' ],
+  time: 
+   { modified: '2018-03-22T07:51:08.000Z',
+     created: '2018-03-22T07:45:55.879Z',
+     '1.12.3': '2018-03-22T07:51:03.630Z',
+     '1.12.2': '2018-03-22T07:47:25.395Z',
+     '1.12.1': '2018-03-22T07:45:55.879Z' },
+  users: {},
+  versions: [ '1.12.1', '1.12.2', '1.12.3' ],
+  license: 'MIT',
+  version: '1.12.3',
+  devDependencies: { istanbul: '0.4.5', mocha: '1.21.5' },
+  engines: { node: '>= 6.0.0' },
+  scripts: 
+   { test: 'mocha --reporter spec --bail --check-leaks test/',
+     'test-ci': 'istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/',
+     'test-cov': 'istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/' },
+  dist: 
+   { shasum: 'dd9f455a6816b6339df03554a69c4ed02f61d549',
+     size: 4828,
+     noattachment: false,
+     tarball: 'http://registry.npm.taobao.org/getcookies/download/getcookies-1.12.3.tgz' },
+  directories: {},
+  publish_time: 1521705063630 }

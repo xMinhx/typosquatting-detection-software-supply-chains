@@ -1,0 +1,154 @@
+{
+    "name": "discordjs-v16",
+    "version": "11.5.1",
+    "description": "Discord.js V11 PATCHED. Fixes issue with stage channels by ignoring them, and allows use of bots and userbots on V11. THIS IS UNOFFICIAL. DO NOT GET SUPPORT FROM the OFFICIAL Discord.js Server.",
+    "main": "./src/index",
+    "types": "./typings/index.d.ts",
+    "scripts": {
+        "test": "npm run lint && npm run docs:test",
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "webpack": "parallel-webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Carcraftz/discord.js-selfbot-v11.git"
+    },
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "author": {
+        "name": "Carcraftz",
+        "email": "me@carcraftz.dev"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.3",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "_id": "discordjs-v16@11.5.1",
+    "_nodeVersion": "14.15.4",
+    "_npmVersion": "6.14.10",
+    "dist": {
+        "integrity": "sha512-ua41GbYUn6qkzmvIubY7bcU1u7407+o3hL3LgNUNgdAmEw/qChUt7voe+3S8ZVOwtf01g8s67Qzb3sWITNhTAA==",
+        "shasum": "0481f17cbaf715a6b5972b864a7ba6b53dbbda42",
+        "tarball": "https://registry.npmjs.org/discordjs-v16/-/discordjs-v16-11.5.1.tgz",
+        "fileCount": 186,
+        "unpackedSize": 773035,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhs8zxCRA9TVsSAnZWagAAl9AQAIJ8x7yHJehGktWn2wDu\nHhLlh7+4WgupHBc3K6/E7sGdLfnrRjE1ZTRHluEGdPOqlYjGgTynaOBPDkmq\np/fF3CHCkYEalglI3IykuDmXynHmorywEAB0SB2geXFYYwbakb+F3KYZsmfu\n8m+cVgODe2wChn68cI6fm+YuVU3MtBPPtABJWqNzh9HSuUhGe6CNTNygtEMt\n/ScwFHWywkqXoD11tcYr2at1lyJuY8srWSG3QZqvNHdCyI6z/eRD1ECmSYWb\n2EOlySPZBsXAUHHfhTK77sZrBcesJV7PCpdGGgcUwbgKyb/5we1LR4lOfKyG\nmkCxayyqNzizHHX7jCVHNk1ISmItTW5JmbiIQwerMUR/FmrcQlcLZXNx0XlZ\nBSS2e5/Zi70Waji+AvqmhMwAJbbm2P24q+xkbtDxaW1AnsrgnCSySfKD9ymL\nRDTGvUhSUY0TUCLtt7C0SfkruG6Ly1IO+W0irW4td4RFcGRyFialJEzQ1QlB\nlvwXcLLYHMqW0tpiGtR+1tLS63QWNOvr910JzFQK5Bl0qK598xUWgncm7M9M\n7SVOweGN38cRsAtc92iH4WSxxWp+hHA3yDktKc7iqdO34R2TxBN/7aLo8GUl\neeZs0z2rlRB0ZA+DnyWfWjTIkXOEFxD/fvxACU/CZ8sL29vHcveA9W2Y5BFG\nTIB6\r\n=UKCZ\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "draxxweeb",
+        "email": "kauahidalgo1472@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "draxxweeb",
+            "email": "kauahidalgo1472@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discordjs-v16_11.5.1_1639173361194_0.6506446870097009"
+    },
+    "_hasShrinkwrap": false
+}

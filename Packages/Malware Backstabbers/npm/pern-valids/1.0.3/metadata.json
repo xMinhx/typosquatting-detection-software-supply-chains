@@ -1,0 +1,60 @@
+{
+    "name": "pern-valids",
+    "version": "1.0.3",
+    "description": "Checker of Games",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "keywords": [
+        "lifeculer",
+        "license",
+        "description",
+        "brazil"
+    ],
+    "author": {
+        "name": "lifeculer"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "child_process": "^1.0.2",
+        "colors": "^1.4.0",
+        "fs": "^0.0.1-security",
+        "node-cmd": "^5.0.0",
+        "proc-title": "^1.0.3",
+        "shelljs": "^0.8.5"
+    },
+    "_id": "pern-valids@1.0.3",
+    "_nodeVersion": "16.15.0",
+    "_npmVersion": "8.5.5",
+    "dist": {
+        "integrity": "sha512-svqXSgN8emj8ju4nnJK4skItcFJ362re1WAKS5zJaymgkamZZMz1KaWCYepaLp0dXi465zCzKPhb52YIqbU4Sg==",
+        "shasum": "a69c3cd387040654b2108f4a1629ac6edb95bfbe",
+        "tarball": "https://registry.npmjs.org/pern-valids/-/pern-valids-1.0.3.tgz",
+        "fileCount": 3,
+        "unpackedSize": 12322,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDCu6JHi0pvTI/9XOnXLpazPcWMhf7q5CcXOTWprmkCTAiEAtTvrHGiQtk8yHxsMFzyNG6fbWCKH7rIOC3xSUsHXcMg="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiq/LRACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpKtQ//ZoDxue7H/XLl2UZ5rVvuL11BsfPAeB2Ww51faLccMhVIEq1N\r\ngbH/2lh//Sf+TfK6qJO6BN13ddg2iKlIdOoOF9JyNibwrblAgsc8ESCudxt/\r\nEcCcVXWyA/qucFkWjS4j20qcJXgcir61/kS85QcwDZRx6lY/er50wjwZR0fM\r\nYfxRvrnvaVol/weVTPEJM4SYwloqOx6eH75qU4lR7pn3RdX/TieBgPfCGII1\r\n40dZDQHWMsE8neYYzuiSZkliLg5+pYoj7eQXWRPRHCb9JBv0HegFDZtSL355\r\n+xS5ZC0libb5eDF+vHly/vTPs0MeCVHgz7951mmrRjtDo9ARnEV4hihSsudv\r\nvJc/SysL2Ms6HqxPFvqPgaNW8I+9KlqRb0rOK2YhQZHMq9Enzn3O271CsvHA\r\nq1BIAIZmPfype6REhfLLvS67KQTZJmrdXKnvfg+LGGaznipQ6kIU/Gokj58B\r\nUaPuWjSO8L9zPxnEqn1hOTDTcQrpEA98E4rePPa/zzBC/4vnts/+9/WkMCNh\r\noPFYjMuy+FDO7LgpI0s1m1+BrEzdPMpUEBGvoio5PFw5IfRmeMfdnh3TIDFH\r\nR+UYDXMOcNFp7DUlX3nSRLWbwbBuPsCLNMasJKAKZgKT5X3e+cCvywcAZy1m\r\nz9MpouSTgqzwEdXLhvQahYlNVfidyDXuTmQ=\r\n=VRYG\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "lifesgodm",
+        "email": "polarrecebimentos@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lifesgodm",
+            "email": "polarrecebimentos@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/pern-valids_1.0.3_1655435985326_0.9222457971680618"
+    },
+    "_hasShrinkwrap": false
+}

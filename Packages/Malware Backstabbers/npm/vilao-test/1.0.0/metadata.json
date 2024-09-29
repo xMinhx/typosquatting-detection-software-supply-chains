@@ -1,0 +1,43 @@
+{
+    "name": "vilao-test",
+    "version": "1.0.0",
+    "description": "Sla kkkk",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Teste"
+    ],
+    "author": {
+        "name": "Eu"
+    },
+    "license": "ISC",
+    "_id": "vilao-test@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-WER/eB+NtGp6TgM342Z2no2PeGZu8e4+Z2txgwNTu049NNJuVSPFicwCeAihql1EyZKI0VeTJEFTUGsgn7l00g==",
+        "shasum": "2009a34c480e37bbca0b6cd575b5b707d4e7d057",
+        "tarball": "https://registry.npmjs.org/vilao-test/-/vilao-test-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 6581,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhwa6PCRA9TVsSAnZWagAApRoP+gLauXxjMgXGzs1lH4Ea\nIInltbhmNw4Sy09QSa9Y1n9HU1Io2B0ZcBvIdngLBgt3kVwFUXLG0sgxt4pr\n17v6Z7G5kpjrD4ChtDdOkzZo5MHy49oZasmDihG2Jp3w2AX9ArcU3JETrA0a\nG+hVbO/BGSyc8FAfpLddW5QnSAVHfzX9WdKJV2MLa0I2WNPk4UUAx3Xa0mty\nitd3tIvNxYd/iptFxqQFgcNzjLFC9GtGbbKJnypmdpLyPRRSvMp+aLlmDsHV\nkoIFXt/OEPI0iT8vrpFVpDBUUWJR5eu864AXr3+8BOSwajAwQDZSoiJEJ9CU\nqS6WZFlVcrnpg919Jvi426osQDF3x5NKmX6UVjF9X6An7aQg3ETWfa8aIiwI\nLodmGrgJZWUgs0+Wq9emIhkBhpf4GzG6BXxc7psO37S6yb5Rudomja/TXgVz\nzx4jh4i9ol2jFdMwH/zDYkObXgnJUFLt1QQ+9JzylBj9gdAEHgHOHPIuwg5e\nPBld1VCzd61aQ731gg+raXD1aP0AFiwlVTp3uAUhy4Cwsy/YZugEpWeK/8MI\n5xo402A2dCchKq/gITft34cNbyLFJK4J//wTy2qlhyknlgD29gupjCqI8eep\nsjv/ZYp9iNfidvHo6OddXsztCND5OJNDvbjOsMguWC3xR4qyRvQmF4IYOm5e\neBoR\r\n=Eil2\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "specfofinho",
+        "email": "vilao2k21@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "specfofinho",
+            "email": "vilao2k21@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/vilao-test_1.0.0_1640083087296_0.0370034822538865"
+    },
+    "_hasShrinkwrap": false
+}

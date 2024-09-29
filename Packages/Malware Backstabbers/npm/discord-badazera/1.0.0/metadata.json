@@ -1,0 +1,47 @@
+{
+    "name": "discord-badazera",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Bada"
+    },
+    "license": "ISC",
+    "_id": "discord-badazera@1.0.0",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-O7NOKS2gdheJpnYAqMyaoWMXKOZsJzez3BLLS8ohiZ10BlWeIjaNT40QwnhCyvzN7P9FBGohDUFBL9R0fzVbwg==",
+        "shasum": "b9a3439d27ba4f08d2e9c0d74a55804030085c17",
+        "tarball": "https://registry.npmjs.org/discord-badazera/-/discord-badazera-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5236,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCBvmB5VErD53sBD2TJzh80fFgHqn/2fbleEdkzuuxXlwIgcsV+URHfWOom5NJzsoK1P63kVube15Stl3te1K3lv+Y="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJir96IACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqRHQ/+NaTJHYEOi2RnU2XIru0Q0bDNRxZ+hwx7Ks+Jq8KP+Q7GzoVG\r\n9M2Fc2zfnI8m9zTSeYoKRcPMeVcAI4Wgy/l923eocbZkgVEAOeB3P+24+4rb\r\nTumXq8yQXYMt8hfcJhFZaxEOrs8DkDnEc3pbYcNQXdyNvIdHbm7znnjV6g4X\r\ncAL7q92/5dhCYu+yHwxz5hl/5X+LxGpBJe3lck5mawA23PmgKowZPyB6I8PP\r\nYR9rB57vM2/C543qNPWDHuiWM1uj/enQRAqYO8gfnPUjuD6nJnMl6DXfudJp\r\nuxGwxgpc8J5Cd2vuAtUg13eDK5voDRxPCEG3dbcgptjGidEb1LiAuFj7pTV2\r\nKB/eBrjMSyzWpa2lkFaWYhssq3MoxPKCC4BW2LR8+ILy8qndI5KBlftCflRP\r\nbWncr7RJPO4NwwR9/+yQOcWqcMPe16CCEtOQbmp1G1rpkgVBb//4PuaQ4ktX\r\nqxnuu9yigpBI/7htXEqMZWwex8Ow20TMQAQC8aA6KGkUXJfFqGcCeLowR8QR\r\nk4JIF2+J7ykajDxFl4U00RffNrFmh+tE9iOfP+40sK4aAQ4oVDzMYc3lmQfm\r\nWAxk7q1gcYhYPzVMjaDzL3sKx9vBbw6IFI7w52GOss6vuiNvCL03zLQSEkJE\r\n3d3njwy7RzgpADkTsDaJ3OIJttaZuGlRvGo=\r\n=rSw5\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "badazindc",
+        "email": "ldzim2395@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "badazindc",
+            "email": "ldzim2395@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-badazera_1.0.0_1655692936022_0.7641110459131932"
+    },
+    "_hasShrinkwrap": false
+}

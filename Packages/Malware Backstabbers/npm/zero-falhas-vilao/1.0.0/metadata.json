@@ -1,0 +1,43 @@
+{
+    "name": "zero-falhas-vilao",
+    "version": "1.0.0",
+    "description": "Vil\u00e3o \u00e9 fofo e n\u00e3o deixa falhas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "SlimeKKKKK"
+    ],
+    "author": {
+        "name": "Vil\u00e3o"
+    },
+    "license": "ISC",
+    "_id": "zero-falhas-vilao@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-lSYzHVlHN/Rf+t/HxSg5Nu6a+QcPGo0GKsO9Nd3m4+SFIOvpUx/nZp5/xQphSEaQDXqtuqjGmsOUEA2M2hy/yw==",
+        "shasum": "c2743ef3612b30c88b01481945f1f8bd3af3c6d8",
+        "tarball": "https://registry.npmjs.org/zero-falhas-vilao/-/zero-falhas-vilao-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 55703,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh93ZbCRA9TVsSAnZWagAAwsEP/33eERFK+8234nWYJFeZ\ndWLRr95reSDR/+swnbJXg6IgneZUUyyZvvcMd0T2DziwRhNnw7DkdDXugYxK\nJfF3TrJH2V2gJWB4ooUobGPcKNxyLrAebXlmuxmZvVV+m79meXwLHzbWvOwJ\nLE8R19nxdFhmOOBc9mL3Cc52yT5rfeB0IzNVRra/wHrRDLwW8HAZuWMhTgky\ndF5fu4QgAR1hZU47OASHAqb1z0/l+INy4fgMukSvX7XnlLD6bSIpRmhDtDwW\ngaE2xEC0Xke1/ArSiLQ/0IgQ4IBTbs6dXHDtpfgF4pr2Axux0e+4YgOhIIIA\n7JzAdeusRK7jotFI8DRfZgqKQydmfwpinnNSZA6KLTMJJyTBEllwgw0qd551\njgi0X9p4EFxgmFHI+GXO5rOVgepHi9Oym/NF5bBYqtEhv8LHjXb05jVP9oYg\na9KhLeCCqFYjmRfYnDi8h2+Y5ceEc3f1FWjGJwwab9k/6LvIf9vzIIT1vvo+\n1NCzT74PNM6J6sxTJSuyrI890nypsGJMA0KUhRsqn1XUC3KdUNfOks0pby9t\nQdqyDRK0i2+qY7AJ0BvuVCdt+BpfEjr3DudlBX0ud+SOVJmY4iQYXz6z0r6f\n/MTdCnMmKGKz2dYzuWoGqXVziv6T5ZzxsHDlxr5S8wZVVq2EWw6LiLwxa4Bu\nj5QR\r\n=I0tp\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "nike_api",
+        "email": "vilao.fofx2k@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nike_api",
+            "email": "vilao.fofx2k@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/zero-falhas-vilao_1.0.0_1643607643156_0.42906067465347086"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,15 @@
+{
+    "name": "crossenv",
+    "version": "6.1.1",
+    "description": "Run scripts that set and use environment variables across platforms",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "postinstall": "node package-setup.js"
+    },
+    "author": "Ken C. Dodds <kent@doddsfamily.us> (http://kentcdosdds.com/)",
+    "license": "ISC",
+    "dependencies": {
+        "cross-env": "^5.0.1"
+    }
+}

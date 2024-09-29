@@ -1,0 +1,147 @@
+{
+    "name": "discord-selfbot-v11",
+    "version": "11.2.4",
+    "description": "A powerful library for interacting with the Discord API",
+    "main": "./src/index",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ViIao/discord-v11-module.git"
+    },
+    "keywords": [
+        "Discord"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ViIao/discord-v11-module/issues"
+    },
+    "homepage": "https://github.com/ViIao/discord-v11-module#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.4",
+        "object-color": "^1.0.2",
+        "node-fetch": "^2.6.5",
+        "buffer-replace": "^1.0.0",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "glob": "^7.2.0",
+        "ws": "^6.0.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "@discordjs/opus": "^0.1.0",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "@discordjs/opus": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "@discordjs/opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/DiscordJsOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "gitHead": "21e728841b1bc2005b8c82ddb9136cee67d5426c",
+    "_id": "discord-selfbot-v11@11.2.4",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-4OEl/ZCwmJIxjw6Nvgkter1pEarX0e9b3SVfday44hplkJiyNkDFskfSsIhg57WH3spe6+vo/PmUsU9lGwANOA==",
+        "shasum": "fa6de3a262570d69514fae26bda32d96faba3a32",
+        "tarball": "https://registry.npmjs.org/discord-selfbot-v11/-/discord-selfbot-v11-11.2.4.tgz",
+        "fileCount": 172,
+        "unpackedSize": 747189,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJiCZKJCRA9TVsSAnZWagAACqsP/2yq8dJj89IYAEqdd2bD\nW7qHvGBmX2Dn2nY05qHzdkASU8t7vZS1CU1KR4bNDBb/GLas4xJAbRlJh84r\nsmJ9eJUTtvsRJ38jS+U2xc0tfsd4Zn33V0k2sxXX0LMGDrv6frviyD0KCPQE\nJmZ93r5Exs8Cyf8j9T0FxRcnJs3SEqM1ds1fZcZ91Ga12HbaeextPyx9J+oc\n7mFhQw5FCQNE/GK7IOBq6EkfA2z6AFKtKCnufCEFXkOtVR/2DYZD7X/2HGx0\ntB704YvHtSZNaybgpwyE1c6RKakr8Ju+/yFTnrPjxYA2hcV4QObl9OWaUBSG\nFixabcp++wF6GFgwQAi1MWgMYuxR+1OUGTYwRxEbvn936gbA6B0hUNwF+3mQ\nI7iwJXQpU4gBPAl6ry95lGsPU9YgNf0oiBCJd9cwrq7OpUpZ02IxQjYdQqYh\nV966o+8bakAZK8IwJSj6vtADZtEgluSu6PG9wd2On1705DUiSfUzCTD/6LDv\nu9zx6ZHzxL+ZN5tvrpwr0xFD+e/Smj9Mh3WJsTQk8475IjhKNlMrcWjA13gu\nIf41gJ7Lm3TwW3g0nwVGfYvP8GDo+LxVf97cut2sLmRRJJ/7SenhHtx88hSu\nATIjT/56eoa96fYtlw4tCRv/BUCEUflC0VbhqDdtsGtq52MPTxkF/gBTEXJB\nyU4j\r\n=6ucX\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "vilao_dcapi",
+        "email": "joao2k23fofo@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "vilao_dcapi",
+            "email": "joao2k23fofo@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-selfbot-v11_11.2.4_1644794504944_0.12121216316344352"
+    },
+    "_hasShrinkwrap": false
+}

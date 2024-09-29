@@ -1,0 +1,56 @@
+{
+    "name": "discord.js-hakai",
+    "version": "1.0.0",
+    "description": "<div align=\"center\">   <br />   <p>     <a href=\"https://discord.js-hakai.org\"><img src=\"https://discord.js-hakai.org/static/logo.svg\" width=\"546\" alt=\"discord.js-hakai\" /></a>   </p>   <br />   <p>     <a href=\"https://discord.gg/bRCvFy9\"><img src=\"https",
+    "main": "browser.js",
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lukyy8/discord.js-hakai.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lukyy8/discord.js-hakai/issues"
+    },
+    "homepage": "https://github.com/lukyy8/discord.js-hakai#readme",
+    "gitHead": "2c3d0209113780422394df3f6f7052ba9b0cdce8",
+    "_id": "discord.js-hakai@1.0.0",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-VtZ4OUBTeLWCazIGzt+2GgUf974L7LB4bakXozRMyL77uDep1RgppoaaBuwirOkmzFFr7avw7ZOhDS9NGelf5g==",
+        "shasum": "46af967d88bf069d170b3cd2095ba720637eb25d",
+        "tarball": "https://registry.npmjs.org/discord.js-hakai/-/discord.js-hakai-1.0.0.tgz",
+        "fileCount": 199,
+        "unpackedSize": 826022,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIA3CJ9ISGy/VJyV925psHwALdREdZyBXDjHKeNqDFbgaAiB8wTKikSRiv0JGbQ5F3oyYKkcdpQYYTjBQxlbw6WKKpw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjJJssACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqAOg//eHuYuam2F+QVqgMoNZXt7HP5LDrqp6RZno54XQ+XSM6fh9zW\r\nqntyPVK0bvqr5KaG4MGdUZKWFDpw26v5p1IBP/SdmOS2cIjzDhp5r7XmBKn8\r\nkQYywn3Qgu41hEgronZRN0Un0jI4cfbgjlVIt80AUBiB09eOh3WLv8L3SL4b\r\nid4BZ1Su8uM6wdZWgg6twPb0nowQwM4A0olCBvZNyHQKJFgRZUu5Hd1SKheU\r\nej49gxIM2Beh0LWC4FTL/Y7gitur9MgFby7rZDi9EMwWisTGo+l0YYBzA+J4\r\ngcLHW6vuZ8Ivn397c/jF2S8iwYaXCoGLBpf1S/qd/B7zqUBIKIW7+j3AAZeL\r\nyhvWPYEc1HwTqxWgBljXmz0nbGJr7L0bWXdFV+8PwIU0wa0pig2WwkRHXUMV\r\n8itKMPzTWw6u884fANZr9dRLl5JGHF3HY9C0uuhaSzn0fpthiIY0NgFl3GQy\r\ngGPqdBhUKOCv/y2bRhh9LaJ3YBw7n96cZpVzMLz6airvRn7zmx7uJwROG5Ec\r\nXDxfnwKqPZNlAilTFZ+7ZZFp3GHtw+yFHF76Je12rCzWreSFm3t4tOcLxxrc\r\nlo35xaNb0Tvlt1QxIgqE+GnjznnHVHeyA3TCjt0QueX1j+WAVhLDtTpZToo0\r\nfGRnGXTosQXpn2CVhxHm8OCBMMHqfJ2ci68=\r\n=USlq\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "lukyy190",
+        "email": "lukyyscripts@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "lukyy190",
+            "email": "lukyyscripts@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-hakai_1.0.0_1663343404673_0.4654877987592534"
+    },
+    "_hasShrinkwrap": false
+}

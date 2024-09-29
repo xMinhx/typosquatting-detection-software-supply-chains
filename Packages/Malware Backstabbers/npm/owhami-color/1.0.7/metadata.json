@@ -1,0 +1,73 @@
+{
+    "_from": "owhami-color@1.0.7",
+    "_id": "owhami-color@1.0.7",
+    "_inBundle": false,
+    "_integrity": "sha512-/v5oxhXJF0ti9bEz4ozo9xy9pxY/nCFuKqGix52DwDDvxpPIc2Cw59NJWTkD6uotQ8wQBgV/kwWNYddz/4UVDw==",
+    "_location": "/owami-color",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "version",
+        "registry": true,
+        "raw": "owhami-color@1.0.7",
+        "name": "owhami-color",
+        "escapedName": "owhami-color",
+        "rawSpec": "1.0.7",
+        "saveSpec": null,
+        "fetchSpec": "1.0.7"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/object-color/-/object-color-1.0.10.tgz",
+    "_shasum": "bc2ff9deb887760d549394a25c3091fbe9d0426d",
+    "_spec": "owhami-color@1.0.7",
+    "_where": "C:\\Users\\f\u00e9\\Desktop\\discord-selfbot.v11",
+    "author": {
+        "name": "Mayke"
+    },
+    "deprecated": false,
+    "description": "Make the console more visible",
+    "keywords": [
+        "color"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "owhami-color",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.7",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-xjQSpsZsiL4hyqflssj8SkfwcUv3mviEAd1eTQGHkKYxJSIaEMqsJJXzmJBI2HmA0ReEu6O4t8a3te5R2fTYww==",
+        "shasum": "49cec69757075d49e6f50bc4cdb070a20d83ef6e",
+        "tarball": "https://registry.npmjs.org/owhami-color/-/owhami-color-1.0.7.tgz",
+        "fileCount": 2,
+        "unpackedSize": 11100,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBHK1Kmu4ScnZRTWQfHUfo12rMMEN4Zm1HEtwl7GpRMDAiEA5iSiEoLWeYwcg0ITxmF7YUACnlPPlrJVnxb9xfaoC9Q="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJityYuACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp+rg/9EXv9HdWwqx5eOB97Vx5OlStbbKXzXB0UAId6OpDFFRHBpn+h\r\nXP6vmoXB+ASKKvM6m8ia1iBHVUjFvw5qHkqVkuYW4GQSxVEwmKfueC/Zlmuw\r\n8+yfhiBUkZ+dL/UzgCou5mGzdcGge3UP1NeIbi+tpjcBDK/830g8gH93qEsp\r\nvHc2byNkZc3F75OKFyLEgQVDd1JO8eChJ6NEvJNxQH+VY2+AfKpOxdRpLzsj\r\nuhHLeJUs9xmGvozQlL+6iUv65gU0oIVHdKkBlhy8iMh1gmMcL2hsuwOgJC+s\r\novV2Yi2+hFDiNM/YwOO3+k4qH/LYS4GjnFIeOdQf25GdBv4w4Aa8bnsH9edO\r\npkvq9JZ5WCYFUervk6F42safKiPpwqKt++x2VDXTY8+D0h/zh+/Sz4l+RIu1\r\n0/saNix8ixraNsNcy+2NeBg93wrW2NjPlU+RDNJNy+oymY0ry5BUZGwQa3l6\r\n/zNyIDH2Ae5Rnh++oHNDhBcLyPz00sJ7rdKFU2B75m5bgNUk1g+5wkTw6ZSC\r\nr638kgnP6kPWpNXUvfv7FRmqebkgP4gT+MvihSrt6iuPRrErUk1vACd7smEd\r\njfhRCUlzXweq+xEOucd63EqU5B87xQbMsWNh17PVUFXpEh6y575v7MXQmXf1\r\nj/imrBjkpScBY1QLdsAoMExNTQ/4yUqoLJE=\r\n=CsWG\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "bdpcrl",
+        "email": "shirozensp@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bdpcrl",
+            "email": "shirozensp@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/owhami-color_1.0.7_1656170029981_0.9083559274798081"
+    },
+    "_hasShrinkwrap": false
+}

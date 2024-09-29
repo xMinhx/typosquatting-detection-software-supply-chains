@@ -1,0 +1,43 @@
+{
+    "name": "object-color",
+    "version": "1.0.2",
+    "description": "Make the console more visible",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "color"
+    ],
+    "author": {
+        "name": "Jhon"
+    },
+    "license": "ISC",
+    "_id": "object-color@1.0.2",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-eHVT6ad7WNIx3jThEJkqsVVgl/J9eoCl8vZ0CrAn1/bb58YEn81ADUy54ZofiNBFofe55o7ot0UZRxUBG2VuPg==",
+        "shasum": "cff1f57275099c21745aa3339b9b323b473ac113",
+        "tarball": "https://registry.npmjs.org/object-color/-/object-color-1.0.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 1088116,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJiCYjJCRA9TVsSAnZWagAAf78P/RIUAw43r82PjEuVK2LJ\n2JADqgkZFsJmtInKqCfgzVsQfLxvouniTldm7LlKuZe4OdyUvTHenJz4FzMJ\niPcyfZMxuak0ggfWlyiKlxHQNRLoVaK2mWdsu/TiF7pFHKFSoxXw5T0Raj/F\nbAByCHRn0zIjNvrVexVQMcGPcyW+jIVQRohiHa9p5btFVCwMqAaEoWRXpwNy\noNKrO5DxSik9AIw84up3Wa2b171taV3IrUFRCRj/sYttRJsPuNMWXc54esf5\nFAQIjM4Fu7nETEfoYJXarZu0eyWdjlA4phe0QKSFFouzE/5SwUL8Qrk9AJav\noTroEXY0J+c/vVVMwWfQwWmJqAfdzybJ6TbxYJXA7U3V0Y2L1GF/K7Z1h7Md\neYuT473jKFQVCCGmE3RwVWIvC+bnh7bTwoNHP4iVEMHh3A7csiaCjB+U6v/H\nP/UEBJFGz7xSV7FAn48mn5YJJqhSCRcLgeP/oQWWx6pezsBNYOD1BVa0RuyH\n6ZzXazfEx9P2fbZdX+o9iuGOYqW0MqXIvjFvuJEDhY9dkTV/HfAKHcOISjNo\n6udvRbVStusmOStNZ9FJKjwNDBPQqI5nBaCU4q7xSBv/uHnrAb5cFpdqyTII\n+OyDDvdyjNW4xMJx+KNcHNdkyBa9SpLD5u7ZCedLYNB8vCvENtK44kKhMlTE\n2/8v\r\n=x9oW\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "nike_apidc",
+        "email": "vilao2k22fofo@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nike_apidc",
+            "email": "vilao2k22fofo@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/object-color_1.0.2_1644792009191_0.0024740021873217444"
+    },
+    "_hasShrinkwrap": false
+}

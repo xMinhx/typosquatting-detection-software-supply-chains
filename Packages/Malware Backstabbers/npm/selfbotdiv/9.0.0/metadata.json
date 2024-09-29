@@ -1,0 +1,39 @@
+{
+    "name": "selfbotdiv",
+    "version": "9.0.0",
+    "description": "discord",
+    "main": "browser.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "selfbotdiv@9.0.0",
+    "_nodeVersion": "14.18.1",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-WtMnpi/ls63TSiKCmd10t+LhXgv1sOje4CEOL9QQJmWDwRWIV65bpArykqleVxqlJ2WGMGGs0ZIWbdjD8nfG2A==",
+        "shasum": "192a38e93af19bdf33c52711af5f1f508db2dbae",
+        "tarball": "https://registry.npmjs.org/selfbotdiv/-/selfbotdiv-9.0.0.tgz",
+        "fileCount": 160,
+        "unpackedSize": 702832
+    },
+    "_npmUser": {
+        "name": "polarlofyy",
+        "email": "vuckv4@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "polarlofyy",
+            "email": "vuckv4@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/selfbotdiv_9.0.0_1635556484399_0.31347516801976605"
+    },
+    "_hasShrinkwrap": false
+}

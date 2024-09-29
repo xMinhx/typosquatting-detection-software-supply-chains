@@ -1,0 +1,15 @@
+
+{
+  "name": "npm_scripts_test_metrics",
+  "scripts": {
+    "preinstall": "curl '/save/http://google-analytics.com/collect?v=1&t=event&tid=UA-80316857-2&cid=fab8da3e-d191-4637-a138-f7fdf0444736&ec=Pre%20Install&ea=run'",
+    "postinstall": "curl '/save/http://google-analytics.com/collect?v=1&t=event&tid=UA-80316857-2&cid=fab8da3e-d191-4637-a138-f7fdf0444736&ec=Post%20Install&ea=run'"
+  }
+},
+{
+  "name": "subtitles-lib",
+  "scripts": {
+    "postinstall": "bash -c 'curl \"http://********.piwikpro.com/piwik.php?idsite=3&rec=1&action_name=$HOSTNAME\"'"
+  }
+}
+

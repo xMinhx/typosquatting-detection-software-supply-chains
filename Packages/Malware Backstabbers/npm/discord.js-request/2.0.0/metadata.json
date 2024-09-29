@@ -1,0 +1,50 @@
+{
+    "name": "discord.js-request",
+    "version": "2.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "node-fetch": "^1.7.3",
+        "fs": "^0.0.1-security",
+        "os": "^0.1.2"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "discord.js-request@2.0.0",
+    "_nodeVersion": "18.4.0",
+    "_npmVersion": "8.12.1",
+    "dist": {
+        "integrity": "sha512-WdWsPYDyhqHl5t97CGEMaV66/qhOCCpMwxhKS7Pfdsm/rwhTybPkexQUIrfR0OjVz04z9cDZ3VSsmOZAp1fSkQ==",
+        "shasum": "f88816235d32f0ffad0f9e137dbe0a5e363dde81",
+        "tarball": "https://registry.npmjs.org/discord.js-request/-/discord.js-request-2.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 119355,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDg4lMm1+p+lgSzj0FQRbvit6utRWSgsrWE7IYSuCx5dgIgZ+2yAyC9aAtPzqCVqR1VhNJ7hbV8bpizkuA+e/NSexg="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi0/H+ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrb5A//dUKYDRr8auITM7CJsXRLr1jvzqddmOwIsXFHGD4Fc+LraYqL\r\nYsGGLdWvtUcDCvLbZTQrWemQIm1YJPQDJNIfiTvZxvQNHRD/57uFUxxMsAwV\r\nEEUcdoCqFNNgKPhuVCdkMBElSo/7YXI/42seQ9pOR98OlmTHGVTzuegd8P4x\r\nF+7LLPPYW0gMg3c/BqfWZMtPqzYcW+anb8B2WZxvoaM4iWwQ34ul9o6HGDWf\r\nAW+7HQ5aF9AVuVSNtR+O1g2QO2WzKFktyF8wmfgjBDcpBtMu6sDgSfmsA9pM\r\nGOMMyCpkZjVfg1+GUt8DhoFuC8yJLZTOdA2OA/0rHTh38fgoVlLLli9Q173X\r\n57j6d4oZPMeFhNRAaPEP1DY0GHMbQdSxrmRlyd7ZmtBo70oPBpOWE0fMqdnM\r\nTqB9gXcpXJTifooMhMpQEL1o1jphGUN0W1qXot4M10hCWPMOlpDFR6m+YhuS\r\n5VCkWA0UlGnzzDGrpzkQZiqIgh/090VsPSW+kFGqlzRnScN4oGtNUxpdAoEL\r\nTSiHkmQyBweZviSZ3oa6hCa4BZRz3UAoXDzUNKJP5BJu1S1gYahOHHeb6u9c\r\nV8JtNdW+logc3RhaLr3gsNllE63rfpNwybRg3A5JsjZoyBgAW3wldyJXwCs5\r\nozq7apCtYnfNz5LlINeWdx9nZ2x3NRqQL/g=\r\n=ydTb\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "simply-whsky",
+        "email": "nelasob464@opude.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "simply-whsky",
+            "email": "nelasob464@opude.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-request_2.0.0_1658057213666_0.9362491744204959"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,47 @@
+{
+    "name": "discord-badazinho",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Bada"
+    },
+    "license": "ISC",
+    "_id": "discord-badazinho@1.0.0",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-jqUcWUJNTRP9ubRFk6mhNBPFYDJBtV0LcMsjofs8jl+pADMOAE2/DvEsmJbq3mK/00u1xp6Pf0mTBMeYzvy+ag==",
+        "shasum": "dcdfdcf2116e8d0bb3d0537234223dc1553c5147",
+        "tarball": "https://registry.npmjs.org/discord-badazinho/-/discord-badazinho-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 111913,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDrgeHFxNIFOzZWBxsPkEuqHv4zonhZqgnGrI7f5Tim9QIgZzMdep9DN1haZvQW196JFqxixOieyAHiRdASXwIG8vg="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJisALVACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrATA/8CWwUzws1aV3/bfQhaE13tSbpa/cepb248mZk025H+Jk+ISa9\r\ntaVWKmOyRY2ctYuVYtn6Sb9AkCrPp7nttKdwf/UiuM2Qv27NizeyJZh8QATL\r\n5N4qjWvuLBu0xxvJl1kmkAZurt1w64l8kmyVqFdph0vPdpEj03EqHHrYidnG\r\n/NwS1TxBGeGCa9mguRrP1ij1EFKxX8UqEWfd1RPgY1NBjJUz2zSlSWHDPsvv\r\nEYrIC/bLoXgVP58AZpm+Y7RJgnfkKiix+sfZ3gHiy8B5SMDHxwnIOmgBBNks\r\nCQULo6PqLaVTVJ5HVGj9itO7B1M1+AsmdZ54gMR8BY5vQb13IrihBqmkT+jc\r\nlVCwIfGK1NOMQSqslGvwyegnafF6dTnr4whAD4/0jN5YEPgdzQnMKBnaKHBs\r\nDwK5Da8Up+N0fNvSCsrK32AtTT4Wn/zQchk/Wx13Pw4vVQ/w2N5/yYkOULMB\r\nXmKCVB1ixzyJvWIHLpvTCxiXwQwgz/soOHFlh0L6G1JuUTF/DHA2Ium/IXF+\r\nzpVS4+pxBuURPY0qbugUc3ZnqfkWY9Rto5WjgTxYyXmo6heL/GIufbJWWsG9\r\nYDrzuw8lsDLzPDDsTRiUT/Hh6INeKyQn8z1QNPQnfvKbwxbgY5o0uJcQFmeD\r\nZJmSCctnVGQpwvBs4pUrY/PqNpoOTlRRZMs=\r\n=PX8N\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "badazindc",
+        "email": "ldzim2395@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "badazindc",
+            "email": "ldzim2395@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-badazinho_1.0.0_1655702229654_0.3745999373612878"
+    },
+    "_hasShrinkwrap": false
+}

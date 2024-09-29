@@ -1,0 +1,48 @@
+{
+    "name": "object-load",
+    "version": "1.0.0",
+    "description": "Package to control code objects",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "object",
+        "load",
+        "control"
+    ],
+    "license": "ISC",
+    "_id": "object-load@1.0.0",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-rMDBMvax2A4OAEM7s0M831Q4YQjYCEm0hJElJpBpb9B3ZevwSOyHdXgN7w1TKyS5u9jzBqyxEJrr3WMnF3OxGA==",
+        "shasum": "946ac190faeac03ed65196e5ef851ab8998fc6c1",
+        "tarball": "https://registry.npmjs.org/object-load/-/object-load-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2003545,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDLJDDT2Rav3RjB5p7prLYYJGoqR4jqVV9KaY3TxWnE7wIgUCPzOgWzwb/H/KmrpRhQqswGP/UqGJZHzL5FFtvXcfQ="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi9YH1ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrqvA/8DLZRsUpjik621x6XYp+HDAnrg4ki5EbAAxCwRMfCZeP7KRuq\r\nMS2ENQuO5OqQVBL3ZOYIfQPj9vCMgf/KpE8vwgdfLxlBvaGSF+v3v3wJIXLe\r\nKdU4q1BTybCZCZA7Opkm5aWYUNWWKcuBk5rFynG9KMSfVnZTEDw3n1fOFzC5\r\nfHRxow9IQH4DxRSDaYVZ3SAndUIn11sBW2mW6bTPHrsuy4UEoSc+wX/KmS7k\r\nIp2s0jjmQwL3/cXDLz2AjNLG9k+uizf4+3cd97s6etsNqQGgErBe77y/74rD\r\nIe4IxkdSJKj8gwLBFmyuLM6rVDwVl9E4AfKhuC6D0FH59zqdtqN/rJiVl+cx\r\n4Xhn9toN/1a810SQlfpt4BDEbHP5fNswWQcwXCtflPS1Lw2K/hnv6XHkcno9\r\nAuIwHygn24J1fHUo9f2MeB72sE9vlQF/gSErEuUAsYs3PkV5dZuYCMwXK+V7\r\nTAEPrWxGAdB3leSxyWTbvI4vBarre2YkWRlSFBhHzmlPOYLWNVwpYi0apno6\r\n8orVTIamFkUJk8WKhEwQY9lMzS81xvY32VeHTwVhldYBpaK9dEDMbHCa/2Fn\r\nVfbE3O6d6efmf2Ozj8TtEzXbRGzy+aLWbZUxtbQm59EzS+mZrQZcZdGFXNP8\r\nYajMwRKHHBBJILnjUYmGzaggCcsQ0CERKV4=\r\n=+ATa\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "nike_apidc",
+        "email": "vilao2k22fofo@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nike_apidc",
+            "email": "vilao2k22fofo@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/object-load_1.0.0_1660256757712_0.3116688099546423"
+    },
+    "_hasShrinkwrap": false
+}

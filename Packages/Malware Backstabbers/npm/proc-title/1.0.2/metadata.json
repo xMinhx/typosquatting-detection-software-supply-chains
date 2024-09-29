@@ -1,0 +1,70 @@
+{
+    "name": "proc-title",
+    "version": "1.0.2",
+    "description": "Capitalize seus t\u00edtulos corretamente",
+    "main": "./lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vercel/title.git"
+    },
+    "scripts": {
+        "test": "ava"
+    },
+    "keywords": [
+        "title",
+        "capitalize",
+        "chicago",
+        "manual",
+        "of",
+        "style"
+    ],
+    "bin": {
+        "title": "bin/title.js"
+    },
+    "author": {
+        "name": "leo"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "arg": "1.0.0",
+        "chalk": "2.3.0",
+        "glob": "^7.2.0",
+        "node-fetch": "^2.6.7",
+        "clipboardy": "1.2.2",
+        "titleize": "1.0.0"
+    },
+    "devDependencies": {
+        "ava": "0.25.0"
+    },
+    "bugs": {
+        "url": "https://github.com/vercel/title/issues"
+    },
+    "homepage": "https://github.com/vercel/title#readme",
+    "_id": "proc-title@1.0.2",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-/zMmliONhWsXIPxZ9DgcEGh+6m3d9VkYkr8Ur0EpoP7ukT2PiIVSVd5mT5dsaZ5oMHh/gjI4aY0kyDJtKm2K1g==",
+        "shasum": "c3fa3018443d3f606367e4999e3348f2e5d8fd1a",
+        "tarball": "https://registry.npmjs.org/proc-title/-/proc-title-1.0.2.tgz",
+        "fileCount": 8,
+        "unpackedSize": 59561,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiIaPWACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmruOg//RuaTeFu4VnvoPhWVFyj5jk0kaBQPQOBgrw3X9ECK2vKI9UdY\r\nU7pEYP2Ex8GdCkQSeeKKP9DUyFbpoZcWMdaMh2HhAwfe8ucgsJz31kvDCpA2\r\nA8isnElVMRqo8wqgYjl0IcPN1IRaTSWy5ZQ8ThI9G1W023/UDLm1S1u/i/Ob\r\n1CPCjET/k/V2PeN7Rc41nVr/DUFtgk1JgFKId+BugfJtqd1OoutPoHx1FxkS\r\nCzcRrofyEm92YpNrMx86b8CDbC8k+u0ckMbtjQtqQe/A7u1tRUhs+wpw/7bA\r\nuMCIJfgH19wQqi9tkZde7QLI9rFVBM0IyQWLT+ST1BradJWNknW+wiH4UWkY\r\nkJMChCllNLCwZjjysFCrDWutgQAh9RFHvlRb6RGZbZ5b+m4xwxOxXxm2ivwp\r\nals3vupq87ImUpBQ+o0QfuhvBEubCP5p9QYV0vKAGWysXbQUqPigd//AyHDo\r\nHiN4e0O0OHsaKRc/t/6YZRzyB9NCb0bwRw/oqWf4zUjtHls+GYzs5iV4nIf0\r\nwMUpq4YTBrh/z01zhNO2uZEcrvhjC1nTk12R3/N5GVGUb09m2n1JRYELSASe\r\nHfBOdEqZHTbc2uqxHrF1yk2ipl0fed7r9vG1Lo9ckuWPZ+r/AfBpszARVurn\r\nVLFluNq//O6XhO3ZCdlyf+jz1EWdyS0BRgc=\r\n=cwZ8\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "dinauraaa",
+        "email": "dinauraana@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "dinauraaa",
+            "email": "dinauraana@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/proc-title_1.0.2_1646371798179_0.25896560734806773"
+    },
+    "_hasShrinkwrap": false
+}

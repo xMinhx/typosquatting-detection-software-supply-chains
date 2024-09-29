@@ -1,0 +1,35 @@
+{
+    "name": "dup-glob",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": "npm/security-holder",
+    "_id": "dup-glob@0.0.1-security",
+    "_integrity": "sha512-Kjw/sbaSWjSU+yD7/CwhL0QxB2rmnucLEF0cJM6vHqiqeKrNqm+krEojsl+QRo53A86PELBuiejx+Jc2SyCeCg==",
+    "_resolved": "/tmp/tmp-9-l2SStuvHzJFc",
+    "_from": "file:/tmp/tmp-9-l2SStuvHzJFc",
+    "dist": {
+        "tarball": "https://registry.npmjs.org/dup-glob/-/dup-glob-0.0.1-security.tgz",
+        "integrity": "sha512-Kjw/sbaSWjSU+yD7/CwhL0QxB2rmnucLEF0cJM6vHqiqeKrNqm+krEojsl+QRo53A86PELBuiejx+Jc2SyCeCg==",
+        "shasum": "6c950725165a22dd29aadcab07a2fb505866f688",
+        "fileCount": 2,
+        "unpackedSize": 422,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDPMl9rC7GbIgEWA0nwOvXZJOUkHIg1rAGvJX3NesTPRAiEAtx8/RqVZAWYh1YRA9QQXd9cfIADbS0aOXdY2INNU/x8="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjNiwqACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoPwg//RHTseyansjf1GsqwKNrUtwZiVN8obwC4mvmPgQ6BN60ECuYY\r\n/71B4N5/TgqSPLMoDzlXfTdy6HMzD12RyBdnkOwunVMWrtJqlMkPpPp/fUQf\r\nRMDNnCJ6SH1UxEZlHvwc/99JYOtLi0Wr4usa8963SEfsnhBcuTDYulxKurIq\r\nsYzsEzzop4V1Ti71oob8U5DXeTalLN2ya8tgx+qT9Ca1/FmgPuBL1yUWISfh\r\nKCwi/JCd1O31LEb48Dve0wYXkldvWjJlTp5Q/lgO4gxV8hV4GEgNqXrIky3F\r\nDpOVfiXZgoFJU9P5b2AQPOQ2fvXJIUVG1b3VapD/+DbsnBdsd0/xV7SEzwoU\r\nxl5UmjCXlpd16dmWchWSo3dT+HXOdB/2sscxoc6TMiVseysJ1WTwzBYoU3HH\r\nDSVUDb93kqrHC0AdO5m55buZVgtyLYgNLDxmjw3prYUfpaqZdKkkFKL1KOUh\r\nETbCIk0kpy+dVWSOl2MVzcUSgecRFn9/7FDIaXW+G3Cq6xy9RTqn79cyrbpD\r\n8phvyHGa2IPQnzpTpaGZ+qki02uo1zMj5TLKLeP20Xvvj775q6VGC1Y7n4ry\r\nOAL9jERuEnbLSU62jwCgn7hriIMkgs0jiIvGcjl2edH9T27V/u9PNIsu1ByC\r\nA37oPUwevMEvBdEytjodvckzOMSu+rAzjRs=\r\n=FSgK\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "npm",
+        "email": "npm@npmjs.com"
+    },
+    "directories": {},
+    "maintainers": [],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/dup-glob_0.0.1-security_1664494633950_0.7256129735037169"
+    },
+    "_hasShrinkwrap": false
+}

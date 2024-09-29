@@ -1,0 +1,164 @@
+{
+    "name": "discord.js-hakai",
+    "version": "11.6.4",
+    "description": "A powerful library for interacting with the Discord API",
+    "main": "./src/index",
+    "types": "./typings/index.d.ts",
+    "scripts": {
+        "test": "npm run lint && npm run docs:test",
+        "docs": "docgen --source src --custom docs/index.yml --output docs/docs.json",
+        "docs:test": "docgen --source src --custom docs/index.yml",
+        "lint": "eslint src",
+        "lint:fix": "eslint --fix src",
+        "lint:typings": "tslint typings/index.d.ts typings/discord.js-test.ts",
+        "webpack": "parallel-webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/discordjs/discord.js.git"
+    },
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "author": {
+        "name": "Amish Shah",
+        "email": "amishshah.2k@gmail.com"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "homepage": "https://github.com/discordjs/discord.js#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.4",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "@discordjs/opus": "^0.1.0",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "@discordjs/opus": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "@discordjs/opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/DiscordJsOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "gitHead": "c3686738fd4c088666b7ae735bbd3fa44fa82b28",
+    "_id": "discord.js-hakai@11.6.4",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-EDbef0Kf/YGOJUMflxHp+HcFFlxt7rnmm0l1/apzCbP5SMYw++eZSSuK/j1W0HWQS1pjMudVmTtfxEdJtlreOw==",
+        "shasum": "2c0f24c1f61ec90853df7989868a256bd0968b21",
+        "tarball": "https://registry.npmjs.org/discord.js-hakai/-/discord.js-hakai-11.6.4.tgz",
+        "fileCount": 175,
+        "unpackedSize": 762895,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCed2G/lS6PoHWIREJgwmrHUuFZeI/YaUHQfgksC1n4/wIhAJXB8qNaH01RPUWvB6yblVg8f16NweUjGouSbP3qt17j"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi8/9DACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpfgg/9HxQaN+WIKPrOSqawY5OZTCa72cnXkB1SHM17LTY7OBXZqgcH\r\ndNARtZfKanR6qnqCkwcm8MvQQTE1q4TKvpPKdhHUnpJLFnh0OL7rQRsJxfVh\r\nJd7PPTNtx3HHe+6nG1RrrGJTyyRZffyOrDGwYFoA3MG5JgnoeJ8dEiCqjnls\r\nak2+4jGHxAxKts/I5246O6Yr9bFEOAnY3Y1PSGkRzX6fH1k8O2Fq0BKvVgBh\r\npsb9HWTqK5W+HO4Clt3QvBnDlI2iGtdcjkwFrbUbm91Qsy84nGYM2ZytqVaz\r\n5K6TL1fG7Hd6SeeS8+kftuTD73e0yO5+cA1UdFQXbWZ5I/tSE3N6zetH9JgS\r\nwn0mbErsDvue+Dgkt39oeZPH0CHRC3fM3h4ImMVaZFFOZMxOUx0RhNcq4utK\r\nyRsmJcH8XIMMrcRBHK5sPDKlqs9PtwMvH2gO0rNgpA+qkxXwf+d0kMcbIial\r\nrF1q2OMsCFfBYNiG6LvWAzExo+uhWGGGmudL1Sa3TH/nsQiWrh8w49+1yHVn\r\nbATd809hIfy+HoDAsK44LSWEbtd8/Dlx67G3GnVVYUTupF9waLACe37l4glK\r\nrdR470NZgS+yC14FvC5m7EiN6qsVgl//UgWgqdCTfFaRLneW8NfZx94NiCd4\r\nRE08aGi9cj5YXwjYfpAlzmXKRlAOccgQwGE=\r\n=kNjt\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "lukyy190",
+        "email": "lukyyscripts@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lukyy190",
+            "email": "lukyyscripts@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-hakai_11.6.4_1660157763271_0.3659048097776376"
+    },
+    "_hasShrinkwrap": false
+}

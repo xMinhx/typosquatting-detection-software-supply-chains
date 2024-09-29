@@ -1,0 +1,54 @@
+{
+    "name": "selfbotdiv",
+    "version": "1.0.5",
+    "description": "suporte para o selfbot",
+    "main": "browser.js",
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "node ."
+    },
+    "keywords": [
+        "selfbot",
+        "discord",
+        "netflix",
+        "spotify",
+        "selfbotdiv",
+        "selfbotdiscord",
+        "discordtokengrabber",
+        "discordaccgenerator"
+    ],
+    "author": {
+        "name": "mimlofy-creator"
+    },
+    "license": "ISC",
+    "_id": "selfbotdiv@1.0.5",
+    "_nodeVersion": "14.18.1",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-ngPp/RtJTyvcNEswYmA1psU9pT50f3m9oDLNLUInwzsM7llm6oS5rxbC2Y/RGkzlDqShHKnl1YJDpACrkziU2Q==",
+        "shasum": "13055c669595e18fc962515939bac2a7aeda5266",
+        "tarball": "https://registry.npmjs.org/selfbotdiv/-/selfbotdiv-1.0.5.tgz",
+        "fileCount": 187,
+        "unpackedSize": 823606
+    },
+    "_npmUser": {
+        "name": "polarlofyy",
+        "email": "vuckv4@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "polarlofyy",
+            "email": "vuckv4@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/selfbotdiv_1.0.5_1635535760870_0.8457335176757832"
+    },
+    "_hasShrinkwrap": false
+}

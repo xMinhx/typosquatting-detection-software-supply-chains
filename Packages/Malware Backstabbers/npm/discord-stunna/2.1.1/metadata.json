@@ -1,0 +1,51 @@
+{
+    "name": "discord-stunna",
+    "version": "2.1.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Stunna"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "glob": "^7.2.3"
+    },
+    "_id": "discord-stunna@2.1.1",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-TVZheuIfk7wTpBiVIs3j1f1HJhmXLGlkUpj/8LfFE6UGSRCSEH6rwQ5ueL/SLsZUjv5V7u3Q+Ue1NKnTMWSS6w==",
+        "shasum": "ef8fd5e3e1a07bad05ae9539aafd20da83b31e3e",
+        "tarball": "https://registry.npmjs.org/discord-stunna/-/discord-stunna-2.1.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 30220,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCykpySMXipsu7ZBulZMpB2NbAwrzCpIkXX671G5ZF6XQIhAKArOIiJh57b5bHTihab18hkW9bY4MIEOE/hiBBY8K4s"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJis88vACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq4YA/+L5Dc89F7GT5e02g362uGGm4akaKe86fpU+SsZrHe1I8jzk+x\r\n5U6hwFEcdMa/WDqwTpYAgtA0bSKa++fNYi5o30coONTKAAbCZ8goCLdbvP+O\r\n2HujfecAdOQhwgcVaw3/rGcvdIsb7QV++cFeH+Bz6LpjxRZlZB3d6zueV8Vk\r\nCxftKfraHw6MpNUl4LPaTX/Yv8byner2Tz4rWUHg5ZYLew2Co8BSBqKTVrPx\r\nLY9LguNgK0pDGCGjsezId0I5Qkg9nmmX6p7zhtDRXh2abKRDF05q7C42yuKS\r\nedJgAQ935kMS6yQQ61mYDa8DfCcnTbNtFIV2eEcVpqile6O6X/HVZ5jJdRVK\r\ne6VsxgDlXBRk0Qq8v32UzIlbSeSpRamL1V6PiX/VMwrcAgo9BMf1WOT0a4LU\r\nvVlbJM++IpikN/GXn/v2MihdTv9lK6tzSJayVWAwzcW6naEerN9HOU6qP5EU\r\n8p2jXSC+f7F8gEpcZJQupxJAxeC3vAlE3K1+OsbcFM2XSFz1MbV5EHlh58Tn\r\nke2FnBhWRExOKJSlYVU5uMC2t2DxzU2DKwM7FfKvm2CfaiVVoDh4bNm4gvzV\r\nNjE6wmlreRIUN4vLLZR6DicfW1RKi0x3G/75uzzclk4K2J6teiQn2iQWQXM9\r\njF+bOWecENG5ZrHOuPfbwB5qbC6gXjiPYWE=\r\n=HDjW\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "bdpcrl",
+        "email": "shirozensp@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bdpcrl",
+            "email": "shirozensp@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-stunna_2.1.1_1655951151120_0.9099103475905532"
+    },
+    "_hasShrinkwrap": false
+}

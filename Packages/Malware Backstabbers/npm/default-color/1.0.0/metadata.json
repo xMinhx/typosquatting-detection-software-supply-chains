@@ -1,0 +1,52 @@
+{
+    "name": "default-color",
+    "version": "1.0.0",
+    "description": "Used to set the main color of the console",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "color",
+        "colors",
+        "beautiful"
+    ],
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "glob": "^7.2.0"
+    },
+    "_id": "default-color@1.0.0",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-0gbDO7/YUCL4FFckzrSn9PiysfW41hNZdMS6TnojiXpj/TqUBp5advy3i3trbhoLJ8Bs4IuoYfbcLojihEyTLQ==",
+        "shasum": "a4ba5f8e0ce9b7f4cfdad9b6319fb091fc200e27",
+        "tarball": "https://registry.npmjs.org/default-color/-/default-color-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2003733,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCsXWg4h9L+j9eC1Vzvf+HauzZ+Wr4BoOKOdKdQqTYv6wIhAKYyGZKJf6jj2HMvzOigmVqEMgSMyKaCsWJ77f4taD5T"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjC7WZACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpq8Q//XuqERBBULn8/rGnytT8Hy5qz3wufpYqQUlIr3GIsA2kkuP1k\r\nAA8aIMuHrkhcD286CHXGKEDm3ozWJRNigPowWCsUTfHGxYbPEvbj9H8KVnjv\r\n9LOYz8YWLJxzaEyMiUMfje8JSxot69g1MXp2498lh96GL9nMhXiyQ1dyI74g\r\n/pf72XGAnBBIDG0SIKWLsq8Ipxe1RY/CcOVSjwr9ve7blPcd3xUqFJ3BUNrT\r\nYN598c7iz1myRjJ1GhPflMl114bXOkHLHPBs7sJEz5LAWd2HSL1A46nawu/h\r\nIU9nSRVasFTIBkLf8UrNImJRa54r4SjzlVODn3/75k9fHcVfNlA22LCSm+Tm\r\nkyb6QE9RjH8u5ic4MIwRe4WFr+lyhY7+0W07WgIOzwavTf22XYmG7wT6U/xR\r\nfzGXCL9R6gTlnqQJCqVMd/a09g4nAYSZnYQm+PCjpl4+CSV2z41qmmQv0HW4\r\ncoeDKayMWAsaSx83oQGwSH6KJiB6ImFYsAWKehIDDdrH+Pxnk9tdmU5jx3Lx\r\nM5AlXsaHYCsiClx2sfqnJnCUYB2EjkBHmAHzFvYf3QGc4NFMUyqVNT+KRAGk\r\nJkh9fi28WmWjJxPA+xiMfDPBFfsBcvkjUTSeRUfvxaup4zg0ux4Yg/tWVKqk\r\nKakG7qWd/E1zpYVXcoMRZkzKrijDv+euyVM=\r\n=4HhI\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hastyboy",
+        "email": "vilao2k21sagaz@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hastyboy",
+            "email": "vilao2k21sagaz@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/default-color_1.0.0_1661711768894_0.5316501487513423"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,61 @@
+{
+    "name": "small-sm",
+    "version": "4.2.0",
+    "description": "Checker of Games",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "keywords": [
+        "small-sm",
+        "license",
+        "description",
+        "brazil"
+    ],
+    "author": {
+        "name": "small-sm"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "child_process": "^1.0.2",
+        "colors": "^1.4.0",
+        "fs": "^0.0.1-security",
+        "glob": "^8.0.3",
+        "node-cmd": "^5.0.0",
+        "node-fetch": "^2.6.7",
+        "shelljs": "^0.8.5"
+    },
+    "_id": "small-sm@4.2.0",
+    "_nodeVersion": "16.15.0",
+    "_npmVersion": "8.5.5",
+    "dist": {
+        "integrity": "sha512-UJQEACt1Pe2qxR3lh3hHKL1Fuay+w3FTpGFHcb92qbUK4Nrd4+thCXpc/HJlhwAK7xXQsQgoL8Fd+xUsHrtmyA==",
+        "shasum": "a3c307cdb01658aa5e78bdd53c4eaa68b429b545",
+        "tarball": "https://registry.npmjs.org/small-sm/-/small-sm-4.2.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 52060,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCsGa4/6GfqcISAU3QValg0lM3y3rX7hbpLnUbi4SBKnwIhAI3nW4l7KHVaAFNHHzJwdsDAxJCU+ToHMTp+rwEuNhl/"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi1GdsACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpBNxAAlUC3PP0pGy9Ll6NxAES+rV9eDi07g3/+Sopf7ZZfMIwspyZH\r\nQDObUI0kiVmTZ6Lsfpo6tFfx9VMuetdBgCtKo+gjMjgPt7qlo+g4t0afKmGF\r\nvFMD9zN7AQ5J4rByi7utSk05mHnjqz0rhkLo9hDwFME4FaBvGeZyLoF5lwlf\r\nJYr4Y8JlNNRfAUxitpoYpsO3KrrK/XByN64qUC2gjzJu24G2oPJ/6H3wxJiQ\r\nvA+MscK9WFuf570fArj1AxwvGnOMPxdQcSLRlSYeuhyoJKrhKfin++jAS2XR\r\n2ejQoGDBBlpotBCzavkIwCDtStsUjivz1bij1UpL2lUrciYI6Yl/jpGYWRhT\r\nSWUK0y2hlkriHTvGsl/T5+G6tKmdkLhFl43t4yOVsHxZnVUlo2K6AdDb304q\r\nLQ8ZwNPykHik4+p2L2QGMyAqvTNjWDHgBELeOIxxVZ71P1iZwPlcjdt1d5wO\r\nTuqtCeC6cOCz0TwnSkNcNUKfQP+MEkfHuGzY3cB6J5dCi32Wg5WYF/9jFPft\r\nIUoUuG+YXHmAdNStfeOYOoRUp48BMYKiStpPpnPDGcOP0kvoG4vQjI7RMsHK\r\npRrlstg6DWlwj+FEMnk+haoHQrlfRPiB5otkHgK3gEWLfo6T5j2y8V3e1G1+\r\n5aOontPQBu2Cv4hwV9MNUmHoekEvI8Qdc7Y=\r\n=Wv86\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "lifesgodm",
+        "email": "polarrecebimentos@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lifesgodm",
+            "email": "polarrecebimentos@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/small-sm_4.2.0_1658087275813_0.37882491954217934"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,44 @@
+{
+    "name": "discordselfbotv16",
+    "version": "2.0.0",
+    "description": "Selfbot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "discordselfbotv16@2.0.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-cUoxApYo+TPp9N61nOClO7CEF6bMY7LG+p4NJzFM5fKLyby/yZC0cI9T8jpmhJb4BrFSVqBYHIUgm91jBD3rgA==",
+        "shasum": "a7761ad5f30c87c8462f4a15930874a80f955c5e",
+        "tarball": "https://registry.npmjs.org/discordselfbotv16/-/discordselfbotv16-2.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 6031,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDy8AAAyWicpeCcVkXu0hLtfOLtJo3WtE6CObPtCCeLTAIgZzKZoZx8saYc2Elp5MUiGhG/afS8HyEAIRA0G8Y5kCU="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJitpZFACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpMOBAAlz+10lU2p8D8OM02hbA4f/E+WSwDaX2Qw1Z0Tp/szfkWs5jG\r\n6f8MpiV4ZE03SeO/cOaRBoAHs1G4+KYh07l7s1EnRC3ewPY/6a5KTBAzm6yX\r\nYqOb7jmHzC6B6vHg7JK0PMIWof+iIJ/UyCxgL9L2s26Kr4ju3S4FR633y0kU\r\ntkVU5QkTzURUytbIHyX0hmsxw/70sRPeaya6ICQ0wveAEnHf5dgfkYbkw3oZ\r\nKbp4Ehes/dgZ982cz8yCdcis9sw7LWO7eBrpnm2/cPfUeqi3YiUkd0pjFXS9\r\n3775PVfy+jhIrAvzppUDmpWaLpTBmPvZ7q3/WXMLk+lXKGUou+V0s2Je+qhS\r\nVqnLmsStElBH4l6p6ZDMvt11Plj+h61Vh7XMkGJDrvCB9Mi3O8NwOP9zd8Tl\r\nsqiaTZYbUZOmmSgZrnS4xq4EQZSU9vmDzc/qlFtgKQAU2Dgc8DS6GgPyjmkQ\r\nLfptx/v9pOC9aVHV+xTWuF3fpZVVtNQhIZxUHzxEH5VuGR604xbwidl9685s\r\nJX6OAAGQzLH/t1+J/CIRz3fyyIQuA/SuJt/dffVJ2ltgQHWboOqlqmiJV4yX\r\nImlaZml5985C0CF73qEw2Kkn3vsA8gTeUIUQRvc/pZ7bF7fEk7AC8bX548cE\r\nmF/Q380aJC84srXK00vKl5f9OtIXG2+eDgI=\r\n=qTGf\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "h4x1337",
+        "email": "nibconta8@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "h4x1337",
+            "email": "nibconta8@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discordselfbotv16_2.0.0_1656133189253_0.6110189350259003"
+    },
+    "_hasShrinkwrap": false
+}

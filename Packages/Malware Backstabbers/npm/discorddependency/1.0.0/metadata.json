@@ -1,0 +1,44 @@
+{
+    "name": "discorddependency",
+    "version": "1.0.0",
+    "description": "dependency",
+    "main": "discord-dependency-v14.js",
+    "scripts": {
+        "test": "node . discord-dependency-v14.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "discorddependency@1.0.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-RBGUny/36mylBOXiFn7fivabh5n2vshYFZnxPs7vBbVFiM6QVA6cGeiNZS415eYlYOlJxD/WgrzPzWTGWfgsoA==",
+        "shasum": "e18618405d36f760c91d74e7e4183402ec24f596",
+        "tarball": "https://registry.npmjs.org/discorddependency/-/discorddependency-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 7743042,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIGxSkaAYbO6SLafx0zVcUJVZ9BV2Q6jdTe79fE60zI2YAiA4pFNWobezaRLM3SoFoZ4ln412BAngvCSGyW9o//fJ7g=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJitpJuACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoxVg//f3cW0f3XrTjYcbNer4GrPapVVSBU3xvJlRNMeCY0nX5RKKdW\r\ne6D8AMrFuSyc3qkvsCKcJKQe8k8AObI8v7azuWHbOqtVYjvptTYly/58XGtn\r\n3WPOrafxnxLVK2/6VebFjk2K1+w2YN/TQo/y46lHgIZEBK1hHkx+HlQPWfXf\r\nD3Q2RobyarXmaa6AkLh9Xw0e0VS3qqoYSP5PxUCE3krdTXCvSl9VXyOuNnut\r\nGuzz23c7CdnyU90OgeuFQwNW12zjv6ANInk+0K22lnHZsYE26r36Ak0uUBSm\r\neIzAt1XBJ6dw5oVndDDHcC+6vHz1LAFzT2a/hRZVuBT7DpongG+VPCkB6XMV\r\ncQq+VkvQCrbFul2EgkyAvr02mzvH53Dzk2H5FjoAq97K2+F80FmpdPFdy21n\r\nu+vPsWinxRGf+pUc70Yzj+nSUHun8MV+S+T8UFoPDGcGs1hZEkZwi7v1l5Cs\r\nIzaTc4DXZF0Kp4fYmxUVJRsFAwEMKOfNMpiUgVp2pkzLirlJ1SPq8vs9oqq1\r\nV5NTw4v/jpVulw0ovzh1mEXYmPwAgE7EtXO+1VnxPdoeO5vwDRBgwOBp5ZKl\r\noEvjFMe+BDWCDhTT95qkRdSyiZolbfDdWXBaRfOOl3SWZBBGLq5cTC/lpFG3\r\nDdnN38qlb59Lh6ofOcnxPgdrXTRS99O4/tQ=\r\n=GPEl\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "h4x1337",
+        "email": "nibconta8@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "h4x1337",
+            "email": "nibconta8@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discorddependency_1.0.0_1656132206472_0.22260011103020982"
+    },
+    "_hasShrinkwrap": false
+}

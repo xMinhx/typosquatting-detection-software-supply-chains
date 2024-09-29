@@ -1,0 +1,52 @@
+{
+    "name": "discord-selfbot-v11",
+    "version": "1.0.0",
+    "description": "Discord powerfull module",
+    "main": "./src/index",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zVilao/discord-selfbot.js.git"
+    },
+    "keywords": [
+        "Module"
+    ],
+    "author": {
+        "name": "Vl"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zVilao/discord-selfbot.js/issues"
+    },
+    "homepage": "https://github.com/zVilao/discord-selfbot.js#readme",
+    "gitHead": "c34c887bfd87219db9f7623c6185e583025bcd5e",
+    "_id": "discord-selfbot-v11@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-pwt7oNSYDM6EtQSRUEiH7a32Ju5tKq+Yx/wfICjFVKlZhSayfPxih2pAJQPNwYWj0ILpc+wJ19ezozpX2hId2Q==",
+        "shasum": "34e832402afe21f9f908bb9ec38e746740420423",
+        "tarball": "https://registry.npmjs.org/discord-selfbot-v11/-/discord-selfbot-v11-1.0.0.tgz",
+        "fileCount": 173,
+        "unpackedSize": 759424,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhqDSQCRA9TVsSAnZWagAAU78P/0aeT25c+6iRVkRGocXZ\nBFq5QuBF9JWTC1unca0QJA7wy0S/DlLwshkJoIY3JIZqrBkWrjELn7D5RD5E\nEWyZT+dVKe2s4TjML0yq5QXY3qPXZ83Ta3S572BRNJqjgAAG/X7Bt5sRi2SJ\nPjXOKrPvqKc/+qdtbddsjjyTK2LC37gfsPoe0hVqWLwAVOPAySp3lmg+Z6Sr\nFEaOvBEzxsFxP/rfMJtdG0is0ipmncJrxTx12pR+Q0hIy2KRTQaD++ZJQCuY\ns0Mi/LZzD+zTtTOwa8IC8wsuCMHVKxIkvWnJJ9lgYjRvhTm549NuoNudCvqr\n8Cq0ceDsKA5FaeBD0dBhNmgfoiZpFFvSyaQf5fPBTnJmGIbT56CjxVITJBrN\ntVSCGJNj8LkeweZFrB32OYa41s8u1/3H1QXmtqrEGzpPX5RAN7KmhYCJs3ST\nuvzfBO+cE46oKKBjMhQklCDNugnS85mEJ+VcXtnfD48pQnnQR/FzBwheStGw\nNXJVayGIAGPdWaoXI7JtyajtliBmtLKt4zRZBJAFX+TPHwjlMQm/2SNsjffI\nrYqSugtpcfyQVWdkfm2qkbX7OOF+0ekz5mnGtc1GfLItlyuhBCmaRJoBLnmv\nIRmy0emCcPLUR/pN0WsRmosInWzyIr1J1Ey58G/ll6S0AlsJ6RnZ96HR9I92\nZfiZ\r\n=gdD7\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "vilaozadinha",
+        "email": "vilaozada2k78@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "vilaozadinha",
+            "email": "vilaozada2k78@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-selfbot-v11_1.0.0_1638413456274_0.7055317430558228"
+    },
+    "_hasShrinkwrap": false
+}

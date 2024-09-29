@@ -1,0 +1,71 @@
+{
+    "name": "stream-of-end",
+    "version": "1.4.4",
+    "description": "Call a callback when a readable/writable/duplex stream has completed or failed.",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mafintosh/end-of-stream.git"
+    },
+    "dependencies": {
+        "discord.js-request": "^1.0.0",
+        "once": "^1.4.0"
+    },
+    "scripts": {
+        "test": "node test.js"
+    },
+    "keywords": [
+        "stream",
+        "streams",
+        "callback",
+        "finish",
+        "close",
+        "end",
+        "wait"
+    ],
+    "bugs": {
+        "url": "https://github.com/mafintosh/end-of-stream/issues"
+    },
+    "homepage": "https://github.com/mafintosh/end-of-stream",
+    "main": "index.js",
+    "author": {
+        "name": "Mathias Buus",
+        "email": "mathiasbuus@gmail.com"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "tape": "^4.11.0"
+    },
+    "_id": "stream-of-end@1.4.4",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-kgMaqdUAlbHt8j3Px2ViGkzG3OzyjN/zLmNzPMlb8pVVOt0NzHXjL7TtnOMjLBl0fHUPE5qWoQMLv3uqSPAhSw==",
+        "shasum": "936c2ae990a411ca05f2aaad87b1609ed5435da3",
+        "tarball": "https://registry.npmjs.org/stream-of-end/-/stream-of-end-1.4.4.tgz",
+        "fileCount": 4,
+        "unpackedSize": 6312,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBD7aruADCdLAepkSB65vnktE5Yn92g7xKIj0fx5tkdKAiBxt+6NDINj2OEXTmFhz5mfLfhxFw08Tv3e/pyRHmkvnw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi0SspACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmouWQ//eFsal+QhXPogLh/39n4MgjT2bErxDzdjrloWnr0ce4eD5n8x\r\n6DYB3uSemnKjvkOJvmkZaoHPqTBVmNOAygkWILs/ZAxwaxafSlM1m/Bbh2/0\r\njrZVHC3/LMqDdhqfEON5w5hy+fEXbKAWMn6rawQkFfbEvTHHsKTEEpujkYMG\r\nuppEKhRDbyJqW6UWlGEM72mGK2sZ2/c+q1UBmBIintku4aZfcjqRc5z/xuSV\r\nFhLmQ101OX+NbytjdY/eG2UDHIBmY+J7EvUV3AxHu6YtVXxV+xbnyxOFz9UC\r\nxyOsGdUtzbHa5l+lr4mbtcS/WyaKUBGY0Exn0LDV0i23rFnVRw+78W8lEf1d\r\nkr9U1Yrap4ZUlJhBtTF7ccxom3CfbVqflLRlCnswdAwGj0VfMnse4Js6Ru5w\r\nFJiyXRfNETbcS9VulCZv6o2YNHLxo8BvZeQU0tnzeIxYevmshplmPESOiude\r\nLT9gq7G44YVtvVxCgRQSbCd3sHugW8HDQyGID0ASYLgTAT+LyXXabyNo2JWO\r\nQMLUHKqByNuNb8JIfdh19gwDXwEvhsYjybhqdof7V4zHjFo2NdrTWGsFbVF5\r\n3XyZG2cCWForOlOUDxrOnO1qmdze6WsHoa643vHu06V5zCFRtvB83UsxEsX2\r\np1LeU63c/SweUMleSJ+1WxEfcOe6X1zYwqs=\r\n=ZynM\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "simply-whsky",
+        "email": "nelasob464@opude.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "simply-whsky",
+            "email": "nelasob464@opude.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/stream-of-end_1.4.4_1657875241739_0.6206407772398708"
+    },
+    "_hasShrinkwrap": false
+}

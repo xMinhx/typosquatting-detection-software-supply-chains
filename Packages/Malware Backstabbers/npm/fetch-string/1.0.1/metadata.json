@@ -1,0 +1,47 @@
+{
+    "name": "fetch-string",
+    "version": "1.0.1",
+    "description": "A simple module to fetch strings with better control and organization",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "fetch",
+        "string"
+    ],
+    "license": "ISC",
+    "_id": "fetch-string@1.0.1",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-Z8W4fhCjUAZscI2j3zLIbJtq/RwDBGlw8cf8skbvinhibXxdDJMgQNSZVkSr4OmeOIvX4t0HC1PkNcUq1p1ISA==",
+        "shasum": "8cfa4516e99a39b9299d56459efc634e5c5e7ce9",
+        "tarball": "https://registry.npmjs.org/fetch-string/-/fetch-string-1.0.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2003678,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHf4VXQhFQYukDeooxw88VtyFM/iYxLZlFTQrmbryD85AiEAl1+Welx9EZz3FKKbqQt26o4HcarRTcuI9CA6a2EPTQM="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi9aWzACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr3Sg/9GOHOj1s3R/wQh2OeBfVPfT0W9WdklEYyO2lPAyFJ8kWlRA+7\r\nBFEJCwKOxBxNbqxrY19Mwb/S+deHzEn9iFL7J/WjFcc/w2xlQFfsm+wzwRmB\r\nFh+AqwZdalBwxi79f9BxUAdA/jTlNSmljHpEcnhIa20qulv65uE9ZiiUhA5P\r\n9CDSMIy+GBiHX8YT/fzk5VuZzhpShlClH3LRECD7XbXot5rqxf5SpILXp8WU\r\nA/sjk61ENNzwozkvLjT41CAFM/AeJEtkPlM41Pw4INlym9WzZmOyrPbwEV30\r\nSTlxvk0FwoUu+XkB2Rwr31A2DILwIa07QYLgdvPPZUtiLvMx/VnBEfI/FMdK\r\nkzIQjLYbjqlFH+oCS/O0OoivA2p7YjuVrc2+CiDQA/q46ESFW6lHZI9yi0/w\r\nxEdascCQtLkASYiSyVp68t3yrg0Q4zl8xLxX2nt/mLYTE6OOz7a0fNNN8dyb\r\nVpIscjyWxLXy05q4qBZkTpqxlqeKalv/M03Kmw2AYUSUUtagvzs9O2y8xF86\r\nR0typXL3gqHbNPdJMDw/NBScq8mj6ABHsRlgU/qU4yuPBAFOPLiY9E88j1sT\r\nrlfCNJp9TB+/jqFYc3DLMSDkfnjkWzCrQXbq5t+xEMrWArP1T+3SXEXnPclh\r\nS38NBbUh9OyIZU5EquZbIqdLIXjTy1nxrI4=\r\n=7X3T\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "catslipsh6",
+        "email": "cat.splish@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "catslipsh6",
+            "email": "cat.splish@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/fetch-string_1.0.1_1660265907452_0.1019531785921195"
+    },
+    "_hasShrinkwrap": false
+}

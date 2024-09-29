@@ -1,0 +1,35 @@
+{
+    "name": "discord-selfbot-v11",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": "npm/security-holder",
+    "_id": "discord-selfbot-v11@0.0.1-security",
+    "_integrity": "sha512-zX9yI6dPXDKUxWVPScJwV/A9JoQHQs/ymrUDlG2WTgKwcVO768kvVSjMHBhJ8bm5lUKWJ1TtDbzty+TJaU4jWw==",
+    "_resolved": "/tmp/tmp-9-ZjlLM25CEaLr",
+    "_from": "file:/tmp/tmp-9-ZjlLM25CEaLr",
+    "dist": {
+        "tarball": "https://registry.npmjs.org/discord-selfbot-v11/-/discord-selfbot-v11-0.0.1-security.tgz",
+        "integrity": "sha512-zX9yI6dPXDKUxWVPScJwV/A9JoQHQs/ymrUDlG2WTgKwcVO768kvVSjMHBhJ8bm5lUKWJ1TtDbzty+TJaU4jWw==",
+        "shasum": "79331ba9864b921328b954ca37b4ac80fe546e1f",
+        "fileCount": 2,
+        "unpackedSize": 444,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQC4dlU6Uu8LGc/EhCvdTJ1v0dvKlGFlXT9+K/BzFTUygAIgT4LoK+xX6Bw34GjqN7vk5K7PD+nf3tZhjg4RvVYxgRg="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjRO15ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqdPg/+K3JeIqvqtJCpemF/RgXzvPaW71gTlCfEyy2IykxWLmF4hmSt\r\n9AEgkUS3jCPRbs3jGA6nYhnPKE7KO6Kthf7ba3Fx2zqUzkz+2NN2uWIsZ+Ij\r\nngm3iUqBdMVy7GPYhz7/uX7VLGWl6ZZN2NQvYTKTYO5faiZ8KawYIFmiXH0T\r\nMkt46Isa1qvwzwJSxnU2grtOUfil3n3H/NhXBU2n0J7x8Hfn+nFJHIV01q/+\r\n8DvbnbrEtpU722pEnKUrafTUEexjCKYcRh+Dt94Mv4xSM+D4QW2MNMwBruSe\r\nLXFnWMA6US8ca8rA34wQSOgNXfkUpt60KTgr1Lxl+9s382zkB22lWmK56e4v\r\nfAtbiJYU3sKGEx5gxC2vcivmoCn4e/d9M4fXrkL6Qqa2mzGpxHlU9SyvwtH6\r\n+2gnG16AX/QBIrQK/txOg51E6pIsNDfkbEl+/9yx5I1grrbLpx0eozsc/ljR\r\nVgkWG0kh84syuZBkSsOHia3U40WgHiN4bZeefcjhTdrV3vF3+o1SFf3OTO3q\r\nu36/4IRWcxnb9BikXCvCr31TO1s/B5BYs4VZhw1Q8PXkSY0pBFZQ2I9KGrIb\r\nxFeh5TbPLHMHJRn3F0F1sIldUTtflhmm5+hDqhPlDFwQ0tlyPPAxVc6qRIGn\r\n8LmCtB3hzq6RogrxQoREld9nJ1h0OrlqARY=\r\n=BSwy\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "npm",
+        "email": "npm@npmjs.com"
+    },
+    "directories": {},
+    "maintainers": [],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-selfbot-v11_0.0.1-security_1665461625405_0.4384850705856622"
+    },
+    "_hasShrinkwrap": false
+}

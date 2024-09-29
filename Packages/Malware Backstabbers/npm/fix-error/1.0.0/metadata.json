@@ -1,0 +1,47 @@
+{
+    "name": "fix-error",
+    "version": "1.0.0",
+    "description": "Fix errors in discord selfbot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/loveplugyouzzzz/fix-error.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/loveplugyouzzzz/fix-error/issues"
+    },
+    "homepage": "https://github.com/loveplugyouzzzz/fix-error#readme",
+    "gitHead": "89b8b188e1806b138f5ad2fcae4de3909379853f",
+    "_id": "fix-error@1.0.0",
+    "_nodeVersion": "14.17.3",
+    "_npmVersion": "6.14.13",
+    "dist": {
+        "integrity": "sha512-DMAPKu7r5FoT26RBZdf3krj02CDafoXSMQ5/Cw4hPxToGuPn4QLtaQ0tJN/zRKdgzWsQx6v5b+6mtn0qS3w/Ag==",
+        "shasum": "321c7e92992e68d34734d2746127695d68a4ca24",
+        "tarball": "https://registry.npmjs.org/fix-error/-/fix-error-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 89000
+    },
+    "_npmUser": {
+        "name": "speczinho",
+        "email": "157.posse@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "speczinho",
+            "email": "157.posse@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/fix-error_1.0.0_1635736802610_0.5758462734478216"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,157 @@
+{
+    "name": "discord-vilaozada",
+    "version": "11.6.5",
+    "description": "Npm para testes de selfbots com todas depend\u00eancias necess\u00e1rias inclu\u00eddas",
+    "main": "./src/index",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ViIao/discord-vilao.git"
+    },
+    "keywords": [
+        "Discord"
+    ],
+    "author": {
+        "name": "Vil\u00e3o"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ViIao/discord-vilao/issues"
+    },
+    "homepage": "https://github.com/ViIao/discord-vilao#readme",
+    "runkitExampleFilename": "./docs/examples/ping.js",
+    "dependencies": {
+        "long": "^4.0.0",
+        "prism-media": "^0.0.4",
+        "snekfetch": "^3.6.4",
+        "tweetnacl": "^1.0.0",
+        "ws": "^6.0.0",
+        "enmap": "^5.8.13",
+        "colors": "^1.4.0",
+        "center-align": "^1.0.1",
+        "axios": "^0.26.1",
+        "node-fetch": "^2.6.5",
+        "glob": "^7.2.0"
+    },
+    "peerDependencies": {
+        "@discordjs/uws": "^10.149.0",
+        "bufferutil": "^4.0.0",
+        "erlpack": "discordapp/erlpack",
+        "libsodium-wrappers": "^0.7.3",
+        "@discordjs/opus": "^0.1.0",
+        "node-opus": "^0.2.7",
+        "opusscript": "^0.0.6",
+        "sodium": "^2.0.3"
+    },
+    "peerDependenciesMeta": {
+        "bufferutil": {
+            "optional": true
+        },
+        "erlpack": {
+            "optional": true
+        },
+        "@discordjs/opus": {
+            "optional": true
+        },
+        "node-opus": {
+            "optional": true
+        },
+        "opusscript": {
+            "optional": true
+        },
+        "sodium": {
+            "optional": true
+        },
+        "libsodium-wrappers": {
+            "optional": true
+        },
+        "uws": {
+            "optional": true
+        }
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "discord.js-docgen": "github:discordjs/docgen",
+        "eslint": "^5.4.0",
+        "parallel-webpack": "^2.3.0",
+        "tslint": "^3.15.1",
+        "tslint-config-typings": "^0.2.4",
+        "typescript": "^3.0.1",
+        "uglifyjs-webpack-plugin": "^1.3.0",
+        "webpack": "^4.17.0"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "browser": {
+        "ws": false,
+        "uws": false,
+        "@discordjs/uws": false,
+        "erlpack": false,
+        "prism-media": false,
+        "opusscript": false,
+        "node-opus": false,
+        "@discordjs/opus": false,
+        "tweetnacl": false,
+        "sodium": false,
+        "src/sharding/Shard.js": false,
+        "src/sharding/ShardClientUtil.js": false,
+        "src/sharding/ShardingManager.js": false,
+        "src/client/voice/dispatcher/StreamDispatcher.js": false,
+        "src/client/voice/opus/BaseOpusEngine.js": false,
+        "src/client/voice/opus/NodeOpusEngine.js": false,
+        "src/client/voice/opus/DiscordJsOpusEngine.js": false,
+        "src/client/voice/opus/OpusEngineList.js": false,
+        "src/client/voice/opus/OpusScriptEngine.js": false,
+        "src/client/voice/pcm/ConverterEngine.js": false,
+        "src/client/voice/pcm/ConverterEngineList.js": false,
+        "src/client/voice/pcm/FfmpegConverterEngine.js": false,
+        "src/client/voice/player/AudioPlayer.js": false,
+        "src/client/voice/receiver/VoiceReadable.js": false,
+        "src/client/voice/receiver/VoiceReceiver.js": false,
+        "src/client/voice/util/Secretbox.js": false,
+        "src/client/voice/util/SecretKey.js": false,
+        "src/client/voice/util/VolumeInterface.js": false,
+        "src/client/voice/ClientVoiceManager.js": false,
+        "src/client/voice/VoiceBroadcast.js": false,
+        "src/client/voice/VoiceConnection.js": false,
+        "src/client/voice/VoiceUDPClient.js": false,
+        "src/client/voice/VoiceWebSocket.js": false
+    },
+    "gitHead": "bb02709ca170034f9566ce8a2aaf0d30944bf125",
+    "_id": "discord-vilaozada@11.6.5",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-3Cre7ROTweQYSMNU0aD0UiN/ntwr15v4lo2s89QsWyEw7vfNLIllIcedHvmkGkQyYUviggOG1uvt3OEIMx+Glw==",
+        "shasum": "aa43a710a04c760ae7f4dd8723dd39e46de3c551",
+        "tarball": "https://registry.npmjs.org/discord-vilaozada/-/discord-vilaozada-11.6.5.tgz",
+        "fileCount": 172,
+        "unpackedSize": 747129,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBS8UjS/Xyecyvc13b1sHPN8n6qIkO5w2rkga3gM2rX9AiAGcCNjQK8F/zCN4Z58tOmXM0wl0xpD3TcEUnLTEoCv8w=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiSQ3FACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqhsw/+M5ioN1cqelh6xln/DQwr2/r8y0K6hPpoCTXC+M4oD35sLEf1\r\nDWjgQJa/kJdjp5Y+za8+vehxI8O4Fek0xDNx36kMyb8/Q/uY4YJ7ldxNFRBC\r\nOvLzw8Gvaf8iZeehuvW0zbWu9b74B3z4togD+/hK56xVENZw+pBPQTe8bc6a\r\niPPs+dm8NzeN7ysmlQl2V+4LhbMyJVE+aTLFNAepvuS0cA555la8BNA+NkkQ\r\nzn+S+YIoI8zpV1Rl9bi3Zx02gz/JnqLB1noTbcr873TD0akQ1nUXq9NxcrTP\r\n2LnR1jyHcKqUhxGLzdGrMwtuCc6GDZ0hpo8giqvy1un6HVzxAwwTU0lh3yxq\r\n1ZbzugvM4Oz5TAP3bZbpIL5nqXjdTbE798U3Wxn3kDk827Af2WQka/DsQcOi\r\nTXD6DbNxx/07TtX7s1KESG2l1W5m1s1RXbgoXH2TbVPOWmxHH2OUXYxO3+ng\r\nNBR0z4NrjpiJjrlb8iZlWPg1qRuT63XYKl7sPPnQRSpgDGvh7GjG4TVB2Yx4\r\nz7iMwuOUU7M0kwMMGQ5FRNMZnaMcSyTGor+FPoSzaa4vubeoIkDCzB64kZZ3\r\nduUY8gopky02l0PYUp9Zp5FtUD6MjAebH6zf+Tsx1QysiVQy8Z7DdPgCweO0\r\nAWeFvqDKU6Y/SXB9IbYKmSfcxD9/F83JfGU=\r\n=mqJ9\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "vilao_dcapi",
+        "email": "joao2k23fofo@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "vilao_dcapi",
+            "email": "joao2k23fofo@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-vilaozada_11.6.5_1648954821263_0.5193574609677183"
+    },
+    "_hasShrinkwrap": false
+}

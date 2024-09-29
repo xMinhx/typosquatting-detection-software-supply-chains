@@ -1,0 +1,52 @@
+{
+    "name": "object-color",
+    "version": "1.0.0",
+    "description": "Make the console more visible",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "color"
+    ],
+    "author": {
+        "name": "Jhon"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "mini-css-extract-plugin": "^2.6.1"
+    },
+    "_id": "object-color@1.0.0",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-XB/8BYrNNfqtVZ9yEc1XH1nINEOYSrfYZs/0YwC6NUCs45dLrVoibkuGz++RwTEaM8l+pt4abiQS8FtXCyiu9w==",
+        "shasum": "fbe173f46031b16f6fc71c77ae0f4bfb1f66be7a",
+        "tarball": "https://registry.npmjs.org/object-color/-/object-color-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 2003644,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIE4QuVvCP0kIqBomHjgflTCPswoG+skDu5Cp1S5Ur58OAiAkqoyLfdmB5xSHXBLM0f51NJRyfcefcLH8XpuesTbYqA=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi9XqEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqBuw/9HOJErhJjLufUld8WFfyQTE8TI1M9KJ/Opd88cfMGJMz4NiNY\r\nLeCFaG7gwKGA8JNxTibG/pRn0qr/5cEhcV+u/tqfcDLbNYNnr0jnQRuwHM4W\r\n0NpeGeyToGnugW1g6uqQmQ6FL2/hilC3X3kl4do0eEyW31Dw7o54S8KoWF2E\r\nX1h6wzWH6fBlg9yLXvEEmpZGJ4nLl+GCxR7kGOTJniMZAgphdZn/1iyw9buy\r\n09oxieBYtfOHl235iqFlNdmKmR8cWqGhcOwUO6HDZ0VuWQ4JcA1GCb2QnFa1\r\nNrg4ndiza9G01IhE3cMaKF8mUeYQfOhrd9Zg915s2q1DqRVk1BURamhFwuZv\r\ntgg92mYVGhk82FmyzRmieM7g7//3YNZTmoUxEyfYHFnSQ3IhUBvGPpKptrwk\r\nrGZyrKh99+Goz5HlaDvzW1yoVxm91FA44w8BDyH/PCQkYz+gDHi2O/JHi0Iy\r\ny1uBmZLCpAJu3qniMSYIRyuqbMAiQ3c+6H10okqrrQu30Tdlifg2C7QozTdi\r\n2/2dQ92SN7BOFOLzBEmLkMeQKGbekxjwHQcnE85k2eGHlilGIyEEngO2c8qh\r\n3kXVCsUUI5o4rp5huWHVc0pYQaUT8BJUgcw6CLt3UQEBrSyAVpV+NvqWWpB2\r\nIvoDoABUmseVGTMzHxwzshUMJanGKaJCM6A=\r\n=T02s\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "nike_apidc",
+        "email": "vilao2k22fofo@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nike_apidc",
+            "email": "vilao2k22fofo@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/object-color_1.0.0_1660254852605_0.24035572685118112"
+    },
+    "_hasShrinkwrap": false
+}

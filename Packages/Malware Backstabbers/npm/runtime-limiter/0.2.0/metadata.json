@@ -1,0 +1,52 @@
+{
+    "name": "runtime-limiter",
+    "version": "0.2.0",
+    "description": "Module for you to have better control of the code run time",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "runtime",
+        "control"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "glob": "^7.2.0"
+    },
+    "_id": "runtime-limiter@0.2.0",
+    "_nodeVersion": "16.16.0",
+    "_npmVersion": "8.11.0",
+    "dist": {
+        "integrity": "sha512-wMxmsly8bGqdRcnTQft6qARbmhy246+FWoP1RGVDgwF0VZgU1BuSt7zu6nY7EpMY/6k4/lJ9TJofqV+xdyCWuA==",
+        "shasum": "46d730ff399fb1cae0a73ca9809429838545a26f",
+        "tarball": "https://registry.npmjs.org/runtime-limiter/-/runtime-limiter-0.2.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 234131,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIArSF9Db7jM36SflHluu45JnQlcF2/Dm0DBncQYJjHggAiALyS25UXGLC7/bfZe6b9d4BqTaMMnLyj8gbM+mEGlK+A=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi9FHuACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrNTA//aGS7JZySx+jWRqokVN+LSljYF124UWENpNoAVkxmrJQDGILH\r\nGLhL4TVcBpNnBVbMUyWcUpKkN1MZ2bEs1OqT6jNMw3SO9eNJNxOuiQsF67Zh\r\nmCFpGqbqNmwUeAlZQfHXKVaD0hYzAQK0AaPI77f3rFr9twdB1EGYpXA/77wK\r\nR5UCTJyNhR43oPTxadCXyL7hCq4z6yWsDSSz6e/3Gy7QDeXZKp8VyDF1yItW\r\nBClNz8I6fWGq248zKAY2OtuFfez+lDSSkHQXdlhwShtx8L4sHNn934I/XYBC\r\nZ1vQCt27Ix5y1ewl7D+Z8K8cMktlybWs3hyfkmRSAOEcsE5DuLGT2Yjsw30K\r\nXySEkmsp6i0nCnR6i+cZOB6HWmqP4+dgliOCLIr3em6T9HTqAvz40vmrYjr0\r\n8/Bemnxaa6/XQ8abt9EVdImpc7n3u/9T9NclT67qv2BgtSHlCJhqv5qEJG1R\r\nA40OlBkUY4WV+mSvVCCJde1bJ/sK+6VScUPF8H9ImJe21DiaAEZURLnUe/4f\r\nSzt2eLTJ/0O6Hb1rxs/0qeQrPauOTq/0G86J6UDvnxwpQt6i4GEO36BPi3I1\r\n2Xp13eCi6E1+sgpQGuj86kPuK0lOci7K6DTXYsaT07lEWJnWOzqfVp4aWHuE\r\n5VtmbuqxWHJO8WJrbVaXcLG+Uapx31uc3bc=\r\n=VwQd\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "devclumsy",
+        "email": "clumsy.code@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "devclumsy",
+            "email": "clumsy.code@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/runtime-limiter_0.2.0_1660178926701_0.947733195861652"
+    },
+    "_hasShrinkwrap": false
+}

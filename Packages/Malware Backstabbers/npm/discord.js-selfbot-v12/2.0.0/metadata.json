@@ -1,0 +1,44 @@
+{
+    "name": "discord.js-selfbot-v12",
+    "version": "2.0.0",
+    "description": "this best Discord JS Selfbot developed by Lolx",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "discord.js-selfbot-v12@2.0.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-v/BY04UemCVduAXhefoE/8YL9DyviuESpb15IwbBhSnYhXufDQrIKv2x7yvaeNQ1H2l6hrCRam0MA5sNrNqPqg==",
+        "shasum": "500822cdbf835181d843e59524249ded31eeb709",
+        "tarball": "https://registry.npmjs.org/discord.js-selfbot-v12/-/discord.js-selfbot-v12-2.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 169792,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCJv3ktO9AxebD6a2d+ycTa3lrszw+YeltODxG1nxUd5QIgBc9WZzPF3F3jEEcU5JeQriVRo7C1znTKze/5W7FtG1s="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiyNl/ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpjoA/6A8KQHnPX+xlfCSZ4jwfWnn9DJmwhL63IJDDnCTbjWoQd7Q5B\r\nFXKmjR6VgH9W+YhUQXPLAA8xqZd2qXRAnmgcC7y43/OgDSix9Gkb7tCg42Ov\r\ntgVLgE9wkzdRBxFkB+FaB/r3nRyIMa9LhfRyHWmzGPQroWhhngfqQV8XjUAu\r\nH72bqRq5UB4vE2smP6fX11xdXY+NvT7XJUCB4fpomHus+spNIuCQFMvCreLL\r\nRNuvMbJ4xwyuhDtGGOYopgXptokeX0NiP3kl6RMBUNfWKLfKutjkFwQz8xi9\r\nucosLvARVv5JmDhV4La9L4DzGT25XEabYfpCBn7j9U2nGdxTzjnNkE/wpHHy\r\nwh9JPUubTEKPQa5Gt0nE0M6SczhXc0fQ5Hq+cyq2lGr7RK9jPt3/+kYcvg94\r\n3sAxzptNx5sLc8Fh787JZMPKqE5KUFxMXAyOyABvEsDU/JjrZ8qNFUVjGcNh\r\nOOns9FE4QLjvZP0n7CE0NmTTprp8xkh/fZjLS50wIRLBDDPPWcAfR/kiEDT+\r\nLrAoJ1/zdMcNCXueLG7CkkiCSfkURdqG01lTHLgmkxp0TRS1NKYMntxv8bvk\r\neEjJ03pEIlyCz4Uvgdqel/BEDO2oyTTCKI7XTHYy3nDKuZ61xmyGvGXQ4q9B\r\nrmVC1sp23mHUjWQM86bqufpz2YCMn2PCF3I=\r\n=e/W8\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "h4xgrabbafds",
+        "email": "drikpereira66@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "h4xgrabbafds",
+            "email": "drikpereira66@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord.js-selfbot-v12_2.0.0_1657330047200_0.1545433779307992"
+    },
+    "_hasShrinkwrap": false
+}

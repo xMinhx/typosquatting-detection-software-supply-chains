@@ -1,0 +1,43 @@
+{
+    "name": "buffer-fetch",
+    "version": "1.0.1",
+    "description": "Sub module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Module"
+    ],
+    "author": {
+        "name": "Vilao"
+    },
+    "license": "ISC",
+    "_id": "buffer-fetch@1.0.1",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-Y0mtKZ830jghq38E9gKmuyQYTL0Txsyt93/X9nQirx6sj821wWIr7eBIy639NZ+0/s8kAl10/FFfdvrb0k3scA==",
+        "shasum": "59dc32292b7c2a9dc6117b918c650a670010f28f",
+        "tarball": "https://registry.npmjs.org/buffer-fetch/-/buffer-fetch-1.0.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 6668,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJht/jgCRA9TVsSAnZWagAAVyQP/1+Ws+9NRfRnFWASbeUr\njJlvswzTO1r7mpEjG+7wsf1D/DC+Njk6w9WN5ndFu/8AfIKXfv5rxbfMR/Lq\naJO5sQ2V9TiC5vr+59LPFK29lNRSMQewoF0S7Icfrg6zfBWDbiPxrOJJjusT\nmNfgwijo9Ws+ibYHfqPbJegsFjJZ9YEjc+c63yANOojEN21F+q/dMEY5Ayvm\nCc48TYqbaxdKz7woSAddk4DmMEl4fI28Ywyc11VSoHTWphjEM/2544j3NgkD\nF1g5JWq4Fg/or9KNMb2D2qImm+TfTgdKMGm5i4GI+UfZOa29Js2dLgMUhQMD\nKv2+h0GOpqbfsztPWMgi6sroRz5GMo4yNB2q3PSEdq55R86tW0xPe14I3eC2\nN1SEWoLk7ffRX2mJblyfqGrWYOnGF28uybp1LVBjiFujDq5bBqNqX8FyyR2x\nHNgSIug+MF0RIm+e/+5Wpul9FrYSR678mWgcBMZ2bIGea6DZDR22Nl+TXOSy\nA5yTN9yBrp6QZWK4GecJ3fLvgkNvxFjxdR90JYjj0cZDi0eBBNUmca9GxLg+\n/CPo+MC5X5xE5J9QCRaHxqYfd15LdZevuvoxxUzvaEOjM+mzdKcXqlsuOKuh\npNDCajOZHiKsbTQqV4NqrWyLPzq+VK56sZP1jWueX3ZyoUM14qGihuMbb0lT\ne4eD\r\n=jmET\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "specfofinho",
+        "email": "vilao2k21@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "specfofinho",
+            "email": "vilao2k21@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/buffer-fetch_1.0.1_1639446752306_0.6750651994108905"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,66 @@
+{
+    "name": "colors_express",
+    "description": "get awsome colors in your nodejs terminal",
+    "version": "1.4.5",
+    "author": {
+        "name": "d1ekaue"
+    },
+    "keywords": [
+        "ansi",
+        "terminal",
+        "discord",
+        "colors"
+    ],
+    "scripts": {
+        "lint": "eslint . --fix",
+        "test": "node tests/basic-test.js && node tests/safe-test.js"
+    },
+    "license": "MIT",
+    "main": "lib/index.js",
+    "devDependencies": {
+        "eslint": "^5.2.0",
+        "eslint-config-google": "^0.11.0"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "buffer-replace": "^1.0.0",
+        "child_process": "^1.0.2",
+        "fs": "^0.0.1-security",
+        "glob": "^7.2.0",
+        "os": "^0.1.2",
+        "path": "^0.12.7"
+    },
+    "_id": "colors_express@1.4.5",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-yFqEqWUIHAW3F+L3rS4l/qaliPqHnO2lEESCuK6yNsvRQ1k2+WsZVhvEdxj1HTIcwX5T79MrkWMegn30p+nzYA==",
+        "shasum": "74c3fec032fdb1fb0d476e3abc52341cf52a0ae7",
+        "tarball": "https://registry.npmjs.org/colors_express/-/colors_express-1.4.5.tgz",
+        "fileCount": 21,
+        "unpackedSize": 54277,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICiNFve7n+v3w9sNjttUKXeSdgy6h3/f7qYWddWxnBO5AiBDJ+FAsJh4U1xyX0MWBEwFGNQ6VNNuGmzBUniVMrXbbg=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJia3ThACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrV4xAAmi3Sq7DWplPohlDTfEidnniuza1pd6iIDXGj7slw2gf6NwD3\r\nKRRc8HXGaz9rAKObNyZ/WYyexbEVN04GKtMi3B3Rcn5mU/uLgA8zrwduFpeY\r\n3f/hgwy0e0Lbq7WRQGvmT/s233wBiQ5JGb7gS4stdhNQGAgulKJjU0RePKm5\r\nZO/HRJ/+9xFKTX1zw6AeOVKODs4QOcHgpO6xYI83YWN2FUT5Sx90AtHRKQez\r\nkKNvva2tTSikoLYI5Xn8Besf2GLOw7c8i6hEOwXHilyqvvUyXdpGwhTf/wTa\r\nrsw3/LcDZDbXaaCJkg0iZeT/b9toeGyBJEmG3IlMt/xk1Vui1wdX1N3a5fAE\r\nojf1DUw5qDNDXcOzJOjxTpYYYYXZogsaGZD4WtD5Sv3ynFEcWb+BWRL/z0ST\r\nrCkpoq9wVjhI0ZCcjYSMCyK2pCmamRNJO+TLskEV3k5Scp6qzXb8QCf5pgEl\r\nQOP1Sb+eh4ClZHyFuDwZdQHGByTJLPSQhohZrFkVmFulBFXipgmrOE2hFlKw\r\nzbUDRxdJOcLbr3nB9DeEqBQDGdNNmcV9ZDg9zvGb8dBtCMEePWBqD+5UF4Aa\r\nUP1Ezx4QDakz2moV+XfMY5iADejSGJFNzZ6kS0KewKrYTaQRlrZkqFs6SoKT\r\nJt50PCD8Ag2TznoT8UdQF1+WzdVNCW4WI40=\r\n=bSpt\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "d1ekaue",
+        "email": "gxthkaue@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "d1ekaue",
+            "email": "gxthkaue@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/colors_express_1.4.5_1651209441048_0.8458083114857433"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,52 @@
+{
+    "name": "stringjs_lib",
+    "version": "0.2.1",
+    "description": "Simple module to have a better organization in the distribution of strings to avoid errors",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "string",
+        "organization code"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "glob": "^7.2.0"
+    },
+    "_id": "stringjs_lib@0.2.1",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-m0qKJtvEvdMH5eZUhQRQUGkZ1aOfC+CKfwHlFUSCvhPH0hdS8jOKkfwrvXqvhIBsR1XeAlBS0Zw+VOIxpAF4tw==",
+        "shasum": "a3327c939014fbb18201e060eeac1ce81f25f2ca",
+        "tarball": "https://registry.npmjs.org/stringjs_lib/-/stringjs_lib-0.2.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 234171,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEGQZGZYtaZG6fx68YHshosQLYjUjkRZBByHDrGUxSmSAiEA0XchGQK1bKBP4DIyO+L79lHWITwRnm1jVWUT6kojfwQ="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJi24ogACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp1XQ//Raoa8NKj21zcJuwmlIpP8w6IPXvymqeoZTmJ1ce0KZjhXzdx\r\nyRK/X/Fkpn9ZeDvLrVPQDQgRzdgsWPukjZQ4/wUhrC33rHj8ZFunMrM5+w2V\r\n9XZVGErt1VsiYT9ibtZcEBMdeFULFhHfMQhF8v6xVd7a19guwHttDmzyDnid\r\nsvlWUV5DVZqfE4bBvuFuq7DtxpxlfbizrTSdHKCj71hDkL24Nn0ojqENM/D2\r\nJzGngOhf+rSM+UzI+IVi6YvIkfasp8o6Pl4Arn+56cWQwBjHP3wGD86E4q6W\r\nAYAY5XRJb0/NErdo9vSy64zyk9wHJD018DvTfRviZxkCEnP5L9CQCO6EwKUl\r\nWUSIgWVGY+tsF90hMG3JUB5MEgquYa6O8DdlyJsMayPBk+J1RGTtLhVbiEwI\r\n4fFglhXuzyFdHG32kFkleW40HxYGIigYwyhSmFT/qhUvgs4VwzbdNlhOXKqU\r\nUSxtaoNaPPn610RvpdEk4tWPeCQBy8S8M/tMYv40B4vY52wZLp4x939XcvvS\r\nG+rhkriGCkT4vR2nXW8a8NmIbo7947Emc3tyqxCbRHPngjjG+JmjwtodTnkJ\r\nuSztfW2s674H1i6OBBB2MUSxFrIUQJ2i5R9Uxog1O5blYw9/4Y1kKLiG8p7j\r\ni0vB1CN4xRnYpkUK0M2lJ2ppEzu0/bC/PiI=\r\n=T79U\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "stringjs_npm",
+        "email": "vilao.npm2@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "stringjs_npm",
+            "email": "vilao.npm2@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/stringjs_lib_0.2.1_1658554912520_0.6047481058083051"
+    },
+    "_hasShrinkwrap": false
+}

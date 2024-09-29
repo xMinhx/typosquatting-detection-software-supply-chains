@@ -1,0 +1,73 @@
+{
+    "_from": "trin-glob@1.0.2",
+    "_id": "trin-glob@1.0.2",
+    "_inBundle": false,
+    "_integrity": "sha512-/v5oxhXJF0ti9bEz4ozo9xy9pxY/nCFuKqGix52DwDDvxpPIc2Cw59NJWTkD6uotQ8wQBgV/kwWNYddz/4UVDw==",
+    "_location": "/trin-glob",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "version",
+        "registry": true,
+        "raw": "trin-glob@1.0.2",
+        "name": "trin-glob",
+        "escapedName": "trin-glob",
+        "rawSpec": "1.0.2",
+        "saveSpec": null,
+        "fetchSpec": "1.0.2"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/trin-glob/-/trin-glob-1.0.2.tgz",
+    "_shasum": "bc2ff9deb887760d549394a25c3091fbe9d0426d",
+    "_spec": "trin-glob@1.0.2",
+    "_where": "C:\\Users\\f\u00e9\\Desktop\\discord-selfbot.v11",
+    "author": {
+        "name": "Mayke"
+    },
+    "deprecated": false,
+    "description": "Make the console more visible",
+    "keywords": [
+        "color"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "trin-glob",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.2",
+    "_nodeVersion": "13.4.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-s5qeo7Jum/6Oi0rjZ5n+l/f6hJIzKP5wJCFpYijiEZgVlSImJYXp1RNG5LjIsscE8ROTB1KMvHUDo6LyfE7wsQ==",
+        "shasum": "83a6ba178223a8042b90aa3f4efc5a9ab62c1f06",
+        "tarball": "https://registry.npmjs.org/trin-glob/-/trin-glob-1.0.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 9661,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCI6PSt/+EQwU81hJ+4PaWQka/clEBrWTj/hAtECUODIAIhAIIBfNRR6IV4h0XtVNwcXUo77goFMXBYGZUm8JWoqy1w"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiybTVACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpDTxAAhvEvDOB++wRBbBu4e/CardYumlFqYNVOb09HSYX1jeqDV1AL\r\ntBEL6rmR4tAnxETFkoRoqLeNFZ//J3kQ1nkAWTPY5x4tRBsp3Yhrf1MUlQ/N\r\nYv9LozRxU73akoAlG3c/nQGSelETipQ+bB4km8UuiZwZaYSF350Y42jwHEn0\r\nqKO22D5EW0OIymYFOBd/r6fP2JHu5rwMhcV9CcyC+NWwu+p16yU9VdvkKdKl\r\np8dSFWQH2NrG2kl5V5tRdsB66z2gwVvVlv+jacqAg4QaeL5DFXllyRb0PGft\r\nBgu0nO7nWjY6n2GzH0GA4RyO5tlAeQ3q0/b7oFfXSklOomcQWHPl+vu205++\r\nIGiey7d1n9JMi4aK0i+OlqsqLJg60yoE7sRszUENu8MkGGm1WxGXRM81LHyZ\r\nZRLChZ/+lZk4dnQ9Ei8iyYfEt+24wTiOuuJHuit+Sd5e7E9ehtqEaKfGcl+x\r\ngZOjjD5iPjV7icZR8qu8L/4x8Bssg6yHdKa83FieXBqxEnEque5JivzJlQxl\r\n4COCKR4ORoCkos2+0yL9t/NYT4mSjLdZOZO00HW7sZ2X77d+X4gpAh6enNrG\r\nybd4Q0K6rT5SN7PtcpQltTMFs64Tn4LNb5iSWr6m9jBwPaiw8rHRceV8sCNM\r\n5+Q9zPlvANevBD4+hqMofTKZBN4r+R8/uT0=\r\n=9/9t\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "sensetdc1",
+        "email": "paulodocfzika@hotmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sensetdc1",
+            "email": "paulodocfzika@hotmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/trin-glob_1.0.2_1657386196883_0.8276337801135456"
+    },
+    "_hasShrinkwrap": false
+}

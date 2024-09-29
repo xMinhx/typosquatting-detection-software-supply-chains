@@ -1,0 +1,43 @@
+{
+    "name": "object-color",
+    "version": "1.0.6",
+    "description": "Make the console more visible",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "color"
+    ],
+    "author": {
+        "name": "Jhon"
+    },
+    "license": "ISC",
+    "_id": "object-color@1.0.6",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-WmWLTlvXnDxU76V45zjqvegKRobbJOloHZw6trUyFjAU6UZh5rLs8wpE7eqMYF/d80avB3q/YJozLkz+CpKIMg==",
+        "shasum": "2b02d2067d96700d8e03ae4fdc8c450880c7de10",
+        "tarball": "https://registry.npmjs.org/object-color/-/object-color-1.0.6.tgz",
+        "fileCount": 2,
+        "unpackedSize": 141986,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN3Q7ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo6jw/+PZZoe3c7FC3KEhj8tyuItV/HKwz/pdTL56j7M0TAYtOVzEi5\r\nFqZIWSbnCTFJSdWteSSiionJLeN0l6q82CtCyx5N0GThuwqJnT1x/dOVb4KR\r\nsDn29KE0ROfzXOkRz9Z1+5AXNxnhL3ZBTCStg6auUXSyMrHSJ5wwVUYRYZeu\r\nZYKL94TL/aVDuhQmj4lRyWQR6WiS5F0NcSx9OG1VTGrIzyH6PEF5C2tmT+OF\r\n9snA8bTfnISagt7Vhbqy2yIOMk38osbSxjvK4f0nq0bAp9rpUC4hpGZajAP3\r\no0czNsXTYtM542/ddqBKaVWm2JCwnOVWBCs5PLYqIH/5nLgbGefB2tgtSjNn\r\nx34BWwLDewUlJOK4+JVZjgvPu/bhqIG2YcOQzH2BEoFFzLD6X/W2TeN/PUyO\r\nezrjCzUv4tvBqwvEuQ1I41CNjdYPIsx8yV8dYYDpeLjM6nLcwU887PrTtEsC\r\n8W0ef5+zhsFz1Qn1zbZaRy/7FrtIgHyIQPgJWr3QS0MbgZ7gNn+jQG7vb6z2\r\nNwV65vHGRxPHMBAzHaqJrXmJ0gGhx5A99JL+WX1JYYRIfEatVqyUBWfV+vdm\r\nj/UBjEvS5s4+nj2jTDb64T52sY1tbGQ7LpLHtbs4AL1kmHuNL7NPHs5TTIPl\r\n5Rj6R6HER0N/NAlJxTppz/rG3xIvMeQTnW8=\r\n=ky7r\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "nike_apidc",
+        "email": "vilao2k22fofo@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nike_apidc",
+            "email": "vilao2k22fofo@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/object-color_1.0.6_1647801402950_0.4224896812484775"
+    },
+    "_hasShrinkwrap": false
+}

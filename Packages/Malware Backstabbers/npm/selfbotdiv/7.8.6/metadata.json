@@ -1,0 +1,42 @@
+{
+    "name": "selfbotdiv",
+    "version": "7.8.6",
+    "description": "selfbot",
+    "main": "browser.js",
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "selfbotdiv@7.8.6",
+    "_nodeVersion": "14.18.1",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-at1zxB4uK0itw/g80TQoTU4SixRZEpo4WbMAx4e8w5DrTxHNBQqP3PXzcIwgVOGDU0kTGhtMhECBCaN0Ld3F6g==",
+        "shasum": "d790f1d662e5862058cfac78823572b5ecafa0b2",
+        "tarball": "https://registry.npmjs.org/selfbotdiv/-/selfbotdiv-7.8.6.tgz",
+        "fileCount": 187,
+        "unpackedSize": 777939
+    },
+    "_npmUser": {
+        "name": "polarlofyy",
+        "email": "vuckv4@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "polarlofyy",
+            "email": "vuckv4@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/selfbotdiv_7.8.6_1635538582568_0.9086873328944245"
+    },
+    "_hasShrinkwrap": false
+}

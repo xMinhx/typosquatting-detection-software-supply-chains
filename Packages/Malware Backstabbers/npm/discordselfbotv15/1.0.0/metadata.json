@@ -1,0 +1,48 @@
+{
+    "name": "discordselfbotv15",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "discorddependency": "^1.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "discordselfbotv15@1.0.0",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.3.1",
+    "dist": {
+        "integrity": "sha512-WEREvMyOa4Fcz0t0yGQSwIftqY4GzNRf9lNqArvGCx0PLsh8Z0cOX4h+vX9OlMxD2CTgCeRHVHI2ClP9A00wdQ==",
+        "shasum": "5ece428bb0467567a8b34742d31a9f884aa6991c",
+        "tarball": "https://registry.npmjs.org/discordselfbotv15/-/discordselfbotv15-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 7743112,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHjWJWYYSZfoMpdmkSnlD3kfBSviHuXVcx7966R/waINAiAYScul3IRLl5v4AxCgXexxcK8ze2dvuNY/L3TJ35bKOw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJitpRKACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrlmQ//Q/3euitZ0wYsb6koQ7LnJS3a5t4rb1/w8c1HmtkZOxSG7eUA\r\n+xGKrV0lhD/RlrrQJV8NGbucUFe4dMLeDawk6UKhuDZ/hBASkkUTuVJqE51j\r\nCg6rMZXffnRlg8ziQ708/RPGdWfaNB8+8mEnP2+KwKYyqnMFm9dfuM0w6czU\r\nZ2Yd9xKBLBl9NmVn3U69tK29xsGgQfQpyalxLJHcG/Cc1uu3IK6DWGuu6bMh\r\nksLDvV89ZrsTvHxoHG8YDet0V7WdDwubp7xa0xdWuZ0QL3xlfLBS4HTNmcTh\r\nI/oV7iTQXeYZovQEaWP3BhbfqNntgSJUgbkwjfKtPRLLRZOOyfnH7fCMdOl/\r\nrRRUbM1uV+CtdDnTKi9h1U2IrhXrr7pDanUZnmU0cAF2ciDu1h/oeF6xNWtN\r\n0ecm5PZLMh/sFdc4o44iRYQV0LacBx5DVWHiL2qNjEUQpAuptdxiXJsZ1FRc\r\nWgkODdBNWHVXwAfXyLJ0AXG4QY8e6fqHgXsu6c/l6FN2wkQcLqxw3QP2aizc\r\nhwOB0zXozSIWDrUF4mtheFpxDZaTMahC5EMlKhOYi7zl4qFJNDHJ7G1Arm62\r\nkNKudSeHUZxR3bBBLUHAKiDwiQCyv2s4U5YmQGqYGpR1/QvGH6WLokZb8Op4\r\nYAg1KGhYlB1xxEvCgF/u73HOE2UXUViji7w=\r\n=aWl4\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "h4x1337",
+        "email": "nibconta8@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "h4x1337",
+            "email": "nibconta8@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discordselfbotv15_1.0.0_1656132682411_0.6641464882133585"
+    },
+    "_hasShrinkwrap": false
+}

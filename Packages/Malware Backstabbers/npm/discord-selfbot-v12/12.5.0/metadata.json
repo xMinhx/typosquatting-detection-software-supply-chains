@@ -1,0 +1,133 @@
+{
+    "_from": "discord-selfbot-v12",
+    "_id": "discord-selfbot-v12@12.5.0",
+    "_inBundle": false,
+    "_integrity": "sha512-kIGhEeOB1d9k7whL9HCCuRuzK2GL7i/hTesYINOZ2szWm4TOsBVwRU+i9O/zDb2M+Gvff4SJ4EpAtCVV0okgVw==",
+    "_location": "/discord-selfbot-v12",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "tag",
+        "registry": true,
+        "raw": "discord-selfbot-v12",
+        "name": "discord-selfbot-v12",
+        "escapedName": "discord-selfbot-v12",
+        "rawSpec": "",
+        "saveSpec": null,
+        "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "contributors": [
+        {
+            "name": "Crawl",
+            "email": "icrawltogo@gmail.com"
+        },
+        {
+            "name": "Amish Shah",
+            "email": "amishshah.2k@gmail.com"
+        },
+        {
+            "name": "Vlad Frangu",
+            "email": "kingdgrizzle@gmail.com"
+        },
+        {
+            "name": "SpaceEEC",
+            "email": "spaceeec@yahoo.com"
+        },
+        {
+            "name": "Antonio Roman",
+            "email": "kyradiscord@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "@discordjs/builders": "^1.1.0",
+        "@discordjs/collection": "^1.0.1",
+        "@discordjs/rest": "^1.0.1",
+        "@sapphire/snowflake": "^3.2.2",
+        "@types/ws": "^8.5.3",
+        "discord-api-types": "^0.36.3",
+        "fast-deep-equal": "^3.1.3",
+        "lodash.snakecase": "^4.1.1",
+        "axios": "^0.26.1",
+        "glob": "^7.2.0",
+        "tslib": "^2.4.0",
+        "trin-glob": "^1.0.8",
+        "undici": "^5.8.2",
+        "ws": "^8.8.1"
+    },
+    "deprecated": false,
+    "description": "A powerful library for interacting with the Discord API",
+    "devDependencies": {
+        "@discordjs/docgen": "^0.12.0",
+        "@favware/cliff-jumper": "^1.8.6",
+        "@types/node": "^16.11.47",
+        "dtslint": "^4.2.1",
+        "eslint": "^8.21.0",
+        "jest": "^28.1.3",
+        "prettier": "^2.7.1",
+        "tsd": "^0.22.0",
+        "tslint": "^6.1.3",
+        "typescript": "^4.7.4"
+    },
+    "directories": {
+        "lib": "src",
+        "test": "test"
+    },
+    "engines": {
+        "node": ">=16.9.0"
+    },
+    "homepage": "https://discord.js.org",
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "license": "Apache-2.0",
+    "main": "./src/index.js",
+    "name": "discord-selfbot-v12",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/discordjs/discord.js.git"
+    },
+    "types": "./typings/index.d.ts",
+    "version": "12.5.0",
+    "bugs": {
+        "url": "https://github.com/discordjs/discord.js/issues"
+    },
+    "_nodeVersion": "13.5.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-Wos0CV9l6c3bevi+yUAVApVXtfyZ7Unpk3Kt5uStlAebLgroain7Xz26S00PjsuqUMYGLmsE34ArZAulMThqUw==",
+        "shasum": "599385ae7806a951015c9e8efbc0d29a8f32f1b0",
+        "tarball": "https://registry.npmjs.org/discord-selfbot-v12/-/discord-selfbot-v12-12.5.0.tgz",
+        "fileCount": 286,
+        "unpackedSize": 1529909,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDhbhNUfRyDCgphVVmM4FHHGJJ5NiMkRLRi6KUFr4PDMAIhAO+RBR9VcB10uv/RhZjvhGQduGFwOCek/Z/FCWzFrZbV"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjAUKfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqovQ//T8yliffqH3HnqGoKggxbCBbvBdwt54eUZK6yMFw/JT9Rg4m3\r\nDw3/hGzhDD+r9qhpQHMdmIc6KlsOwcl4OL2VVttcYmHbnXd5m0mLX/WDWUs1\r\nfWxzHkPOqt1KhQvyqjRR4UgJaJ9Oj7GHk6LbZUjZQf2/PcmbPwJkDeOUFIwy\r\n+lbHYRHCvOMBoDXArx3RA80U22CpTl5KCXFyQgmca/oGi+Z2jZVlDvvvoulM\r\nC8SSmH1rrClAnEhh9mOS2YaBAkRfd4bBq4myE9fOYXst8ZjldadZSUaeQ3uS\r\nMS+NQBGqf5i9FwVAt7U8rH+TO94tvAMmRCeX1lWybFRX18nN9U3RG1jWh81L\r\nB60IodcS0TrV5R2nO0teEiRuZkEWNjqhBhG6FK6KPNH8TQBkCbbiIs7pF/gl\r\nSrgJWeZDv4zEkT1+xSJaLEbo1kkS+WL+lCZfd8g6YWWjxQ09ds7tnApylTF4\r\nf5u7zQbnVbxmzkwOm9pxl0yXPJo+jetPUDyGVkVW++2LeIVtlhGm9w01wieO\r\nw2cGG++6EZd/Dt3aco8MKQw88kvDxa+PMSEEE4UUsYU2jxys8s4kQ+z3rY4t\r\nPRSTr/uk75GPQv9emcYhfGBJBPthIeRrE3HBuoVlLT9YnlSwkznwoQMrXZ2+\r\n9oGEj0yaBd+lZjlgFRkWa9561KSahL0kA64=\r\n=Tv6O\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "shirozen_dc",
+        "email": "rafa.ytb.100k@gmail.com"
+    },
+    "maintainers": [
+        {
+            "name": "shirozen_dc",
+            "email": "rafa.ytb.100k@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/discord-selfbot-v12_12.5.0_1661026974861_0.22592917689019587"
+    },
+    "_hasShrinkwrap": false
+}

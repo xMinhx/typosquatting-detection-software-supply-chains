@@ -1,0 +1,39 @@
+{
+    "name": "axios-replace",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "axios-replace@1.0.0",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-/Dli2EeHgE7Sc+Yvf0FbKyy0HM0R8CQcQcYpotAkCAvBNS6yWlZbEnsLB77mjCZaMRp895sgCsEyYmst03ek6A==",
+        "shasum": "db2133271f3dabb43008b0ee4c021a00d325e0f0",
+        "tarball": "https://registry.npmjs.org/axios-replace/-/axios-replace-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 33371,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh3lrkCRA9TVsSAnZWagAAxZMQAJyk3sxpKmn3eNaixdyM\n0SqbgWHTqthuW1RzJE+cckpDS79VWYdFcYBzihRneY32mSUC7YLQAHzBb0F7\n9sp7m+LVJ3q1Q+Q9i/cDOhfPpImCDl34Qj+4b5x/bzAGrM11Q5AjkSXj5zF/\nPfgBaeRzKWKIi7GPT3qhM4hkXTHufSia0MH5/R6Evu64Riky21TJQdRsBpSh\nGaYRPMXgxDSmgAu0mnhkVJVSyBxZOPHyAaEGW79IplH5JmDP4zm4LTYyGsH6\ndcZNInvlgChfqSCVaGL/DDZv6ucm8Z/cy4bcifssaz7QQxGj1x/8EP0UrHyR\nRqn9dpE7VFKa+WgWvBSPBvM3368xUbYAbeOkTmSSQG30JgLk+/Xb6ICgWWgA\np431JOqwaCq41uYtIK1LlyxluVfsdYnK2WPM6QDNGs5HARc2+TTlIPIcgUzw\nS/4dWNFSwVpY2dzv2ggdtJSPkHb8c1sJU6MCV8VAmIWdt4RWO84z9m86dJZ0\nP2bJDrmtJ/LMciEy+faJ0SSOTQR40Sx76OLUgzmubdw+kGkeBvHlbaBV/VH1\nghZQbA6WeC+0aoyZnVs0/RZEj6KWcliMYMHWXsgdHC+V1mGnn7Kur0k3XzQ2\ngt7JS+UF64loq3Ox6lymrdZzwX8X5ZEBIKp9ZJ2N18S7VUHWBpG6cbsRW3l2\ncVRN\r\n=B0g6\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "api_vilao",
+        "email": "vilaozada.2k21@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "api_vilao",
+            "email": "vilaozada.2k21@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/axios-replace_1.0.0_1641962212206_0.9237416948109649"
+    },
+    "_hasShrinkwrap": false
+}
