@@ -83,7 +83,7 @@ If you choose to use the Backstabbers Knife Collection or the MalOSS dataset, pl
 
    To clone the repository, use the following command:
    ```bash
-   git clone https://github.com/yourusername/reponame.git
+   git clone https://github.com/xMinhx/typosquatting-detection-software-supply-chains.git
    ```
 2. Use the `File Extraction.ipynb` Notebook to extract all packages
 3. Use the `Feature Extraction.ipynb` Notebook to extract the defined features from all the packages
